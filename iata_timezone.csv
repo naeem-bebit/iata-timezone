@@ -1,0 +1,4461 @@
+﻿iata_code,UTC,DST,iso_country,Country Name
+UTK,+12:00,+12:00,MH,Marshall Islands
+AAD,+03:00,+03:00,SO,Somalia
+ALV,+01:00,+02:00,AD,Andorra
+ADV,+02:00,+02:00,SD,Sudan
+DJH,+04:00,+04:00,AE,United Arab Emirates
+AEE,+02:00,+02:00,SS,South Sudan
+AEI,+01:00,+02:00,ES,Spain
+AEQ,+08:00,+08:00,CN,China
+URZ,+04:30,+04:30,AF,Afghanistan
+OLR,+04:30,+04:30,AF,Afghanistan
+AFK,+05:30,+05:30,LK,Sri Lanka
+AFT,+11:00,+11:00,SB,Solomon Islands
+RNA,+11:00,+11:00,SB,Solomon Islands
+ATD,+11:00,+11:00,SB,Solomon Islands
+VEV,+11:00,+11:00,SB,Solomon Islands
+GEF,+11:00,+11:00,SB,Solomon Islands
+AKS,+11:00,+11:00,SB,Solomon Islands
+BNY,+11:00,+11:00,SB,Solomon Islands
+CHY,+11:00,+11:00,SB,Solomon Islands
+BAS,+11:00,+11:00,SB,Solomon Islands
+FRE,+11:00,+11:00,SB,Solomon Islands
+HIR,+11:00,+11:00,SB,Solomon Islands
+MBU,+11:00,+11:00,SB,Solomon Islands
+AVU,+11:00,+11:00,SB,Solomon Islands
+IRA,+11:00,+11:00,SB,Solomon Islands
+SCZ,+11:00,+11:00,SB,Solomon Islands
+MUA,+11:00,+11:00,SB,Solomon Islands
+GZO,+11:00,+11:00,SB,Solomon Islands
+MNY,+11:00,+11:00,SB,Solomon Islands
+PRS,+11:00,+11:00,SB,Solomon Islands
+OTV,+11:00,+11:00,SB,Solomon Islands
+RNL,+11:00,+11:00,SB,Solomon Islands
+EGM,+11:00,+11:00,SB,Solomon Islands
+NNB,+11:00,+11:00,SB,Solomon Islands
+RUS,+11:00,+11:00,SB,Solomon Islands
+VAO,+11:00,+11:00,SB,Solomon Islands
+XYA,+11:00,+11:00,SB,Solomon Islands
+KGE,+11:00,+11:00,SB,Solomon Islands
+KUE,+11:00,+11:00,SB,Solomon Islands
+KWS,+11:00,+11:00,SB,Solomon Islands
+NAZ,+11:00,+11:00,SB,Solomon Islands
+RIN,+11:00,+11:00,SB,Solomon Islands
+RBV,+11:00,+11:00,SB,Solomon Islands
+TLG,+11:00,+11:00,SB,Solomon Islands
+AHJ,+08:00,+08:00,CN,China
+AHY,+03:00,+03:00,MG,Madagascar
+AIC,+12:00,+12:00,MH,Marshall Islands
+AKM,+01:00,+01:00,TD,Chad
+AME,+02:00,+02:00,MZ,Mozambique
+AMY,+03:00,+03:00,MG,Madagascar
+ANH,+11:00,+11:00,SB,Solomon Islands
+INU,+12:00,+12:00,NR,Nauru
+ANL,+01:00,+01:00,AO,Angola
+CNZ,+01:00,+01:00,AO,Angola
+DRC,+01:00,+01:00,AO,Angola
+JMB,+01:00,+01:00,AO,Angola
+KNP,+01:00,+01:00,AO,Angola
+NDF,+01:00,+01:00,AO,Angola
+AOD,+01:00,+01:00,TD,Chad
+QRF,−03:00,−03:00,AR,Argentina
+CVI,−03:00,−03:00,AR,Argentina
+CNT,−03:00,−03:00,AR,Argentina
+VGS,−03:00,−03:00,AR,Argentina
+LMD,−03:00,−03:00,AR,Argentina
+SZQ,−03:00,−03:00,AR,Argentina
+VCF,−03:00,−03:00,AR,Argentina
+NCJ,−03:00,−03:00,AR,Argentina
+CPG,−03:00,−03:00,AR,Argentina
+PRQ,−03:00,−03:00,AR,Argentina
+OLN,−03:00,−03:00,AR,Argentina
+TAV,−11:00,−11:00,AS,American Samoa
+AWE,+01:00,+01:00,GA,Gabon
+AXF,+08:00,+08:00,CN,China
+AYM,+04:00,+04:00,AE,United Arab Emirates
+AYY,+05:30,+05:30,LK,Sri Lanka
+ZXT,+04:00,+04:00,AZ,Azerbaijan
+BCW,+02:00,+02:00,MZ,Mozambique
+HKV,+02:00,+03:00,BG,Bulgaria
+JAM,+02:00,+03:00,BG,Bulgaria
+BGP,+01:00,+01:00,GA,Gabon
+AEY,+00:00,+00:00,IS,Iceland
+BIU,+00:00,+00:00,IS,Iceland
+BGJ,+00:00,+00:00,IS,Iceland
+BJD,+00:00,+00:00,IS,Iceland
+BLO,+00:00,+00:00,IS,Iceland
+BQD,+00:00,+00:00,IS,Iceland
+BXV,+00:00,+00:00,IS,Iceland
+DJU,+00:00,+00:00,IS,Iceland
+EGS,+00:00,+00:00,IS,Iceland
+FAS,+00:00,+00:00,IS,Iceland
+FAG,+00:00,+00:00,IS,Iceland
+GUU,+00:00,+00:00,IS,Iceland
+GJR,+00:00,+00:00,IS,Iceland
+GRY,+00:00,+00:00,IS,Iceland
+HVK,+00:00,+00:00,IS,Iceland
+HFN,+00:00,+00:00,IS,Iceland
+FLI,+00:00,+00:00,IS,Iceland
+HZK,+00:00,+00:00,IS,Iceland
+HVM,+00:00,+00:00,IS,Iceland
+HLO,+00:00,+00:00,IS,Iceland
+IFJ,+00:00,+00:00,IS,Iceland
+KEF,+00:00,+00:00,IS,Iceland
+OPA,+00:00,+00:00,IS,Iceland
+SAK,+00:00,+00:00,IS,Iceland
+NOR,+00:00,+00:00,IS,Iceland
+OFJ,+00:00,+00:00,IS,Iceland
+PFJ,+00:00,+00:00,IS,Iceland
+RHA,+00:00,+00:00,IS,Iceland
+OLI,+00:00,+00:00,IS,Iceland
+RFN,+00:00,+00:00,IS,Iceland
+RKV,+00:00,+00:00,IS,Iceland
+MVA,+00:00,+00:00,IS,Iceland
+SIJ,+00:00,+00:00,IS,Iceland
+SYK,+00:00,+00:00,IS,Iceland
+TEY,+00:00,+00:00,IS,Iceland
+THO,+00:00,+00:00,IS,Iceland
+VEY,+00:00,+00:00,IS,Iceland
+VPN,+00:00,+00:00,IS,Iceland
+BJE,+02:00,+02:00,SD,Sudan
+BJQ,+04:00,+04:00,OM,Oman
+BJT,+05:30,+05:30,LK,Sri Lanka
+BMQ,+03:00,+03:00,KE,Kenya
+BNQ,+08:00,+08:00,PH,Philippines
+RBQ,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+BVL,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+BPF,+11:00,+11:00,SB,Solomon Islands
+NSB,−05:00,−04:00,BS,Bahamas
+BSV,+03:00,+03:00,MG,Madagascar
+BVR,−01:00,−01:00,CV,Cape Verde
+HUK,+02:00,+02:00,BW,Botswana
+BXL,+12:00,+13:00,FJ,Fiji
+BYL,+00:00,+00:00,LR,Liberia
+BYV,+05:30,+05:30,LK,Sri Lanka
+BCV,−06:00,−06:00,BZ,Belize
+BGK,−06:00,−06:00,BZ,Belize
+CUK,−06:00,−06:00,BZ,Belize
+CYC,−06:00,−06:00,BZ,Belize
+CZH,−06:00,−06:00,BZ,Belize
+DGA,−06:00,−06:00,BZ,Belize
+INB,−06:00,−06:00,BZ,Belize
+MDB,−06:00,−06:00,BZ,Belize
+ORZ,−06:00,−06:00,BZ,Belize
+PLJ,−06:00,−06:00,BZ,Belize
+PND,−06:00,−06:00,BZ,Belize
+SJX,−06:00,−06:00,BZ,Belize
+SPR,−06:00,−06:00,BZ,Belize
+SQS,−06:00,−06:00,BZ,Belize
+STU,−06:00,−06:00,BZ,Belize
+SVK,−06:00,−06:00,BZ,Belize
+TZA,−06:00,−06:00,BZ,Belize
+BZB,+02:00,+02:00,MZ,Mozambique
+BZM,+03:00,+03:00,MG,Madagascar
+OKG,+01:00,+01:00,CG,Congo
+CGG,+08:00,+08:00,PH,Philippines
+CGT,+00:00,+00:00,MR,Mauritania
+CMZ,+02:00,+02:00,MZ,Mozambique
+TVS,+08:00,+08:00,CN,China
+YUA,+08:00,+08:00,CN,China
+ZQZ,+08:00,+08:00,CN,China
+BSD,+08:00,+08:00,CN,China
+DZU,+08:00,+08:00,CN,China
+LNJ,+08:00,+08:00,CN,China
+RKZ,+08:00,+08:00,CN,China
+PZI,+08:00,+08:00,CN,China
+ZKL,+08:00,+08:00,CN,China
+FUO,+08:00,+08:00,CN,China
+BZX,+08:00,+08:00,CN,China
+XAI,+08:00,+08:00,CN,China
+HUZ,+08:00,+08:00,CN,China
+HSC,+08:00,+08:00,CN,China
+JGS,+08:00,+08:00,CN,China
+AEB,+08:00,+08:00,CN,China
+DOY,+08:00,+08:00,CN,China
+XEN,+08:00,+08:00,CN,China
+AAT,+08:00,+08:00,CN,China
+THQ,+08:00,+08:00,CN,China
+YZY,+08:00,+08:00,CN,China
+DDG,+08:00,+08:00,CN,China
+NTG,+08:00,+08:00,CN,China
+ARQ,−05:00,−05:00,CO,Colombia
+LCR,−05:00,−05:00,CO,Colombia
+SNT,−05:00,−05:00,CO,Colombia
+TCD,−05:00,−05:00,CO,Colombia
+PST,−05:00,−04:00,CU,Cuba
+CUJ,+08:00,+08:00,PH,Philippines
+GEC,+02:00,+03:00,CY,Cyprus
+NIC,+02:00,+03:00,CY,Cyprus
+CZJ,−05:00,−05:00,PA,Panama
+MQV,+01:00,+01:00,DZ,Algeria
+QLD,+01:00,+01:00,DZ,Algeria
+BUJ,+01:00,+01:00,DZ,Algeria
+BJA,+01:00,+01:00,DZ,Algeria
+ALG,+01:00,+01:00,DZ,Algeria
+DJG,+01:00,+01:00,DZ,Algeria
+VVZ,+01:00,+01:00,DZ,Algeria
+QSF,+01:00,+01:00,DZ,Algeria
+TMR,+01:00,+01:00,DZ,Algeria
+GJL,+01:00,+01:00,DZ,Algeria
+MZW,+01:00,+01:00,DZ,Algeria
+AAE,+01:00,+01:00,DZ,Algeria
+CZL,+01:00,+01:00,DZ,Algeria
+QMH,+01:00,+01:00,DZ,Algeria
+SKI,+01:00,+01:00,DZ,Algeria
+TEE,+01:00,+01:00,DZ,Algeria
+BLJ,+01:00,+01:00,DZ,Algeria
+HRM,+01:00,+01:00,DZ,Algeria
+QDJ,+01:00,+01:00,DZ,Algeria
+DAH,+03:00,+03:00,YE,Yemen
+TID,+01:00,+01:00,DZ,Algeria
+TIN,+01:00,+01:00,DZ,Algeria
+CFK,+01:00,+01:00,DZ,Algeria
+TAF,+01:00,+01:00,DZ,Algeria
+TLM,+01:00,+01:00,DZ,Algeria
+ORN,+01:00,+01:00,DZ,Algeria
+CBH,+01:00,+01:00,DZ,Algeria
+BFW,+01:00,+01:00,DZ,Algeria
+MUW,+01:00,+01:00,DZ,Algeria
+EBH,+01:00,+01:00,DZ,Algeria
+INF,+01:00,+01:00,DZ,Algeria
+BMW,+01:00,+01:00,DZ,Algeria
+AZR,+01:00,+01:00,DZ,Algeria
+BSK,+01:00,+01:00,DZ,Algeria
+ELG,+01:00,+01:00,DZ,Algeria
+GHA,+01:00,+01:00,DZ,Algeria
+HME,+01:00,+01:00,DZ,Algeria
+INZ,+01:00,+01:00,DZ,Algeria
+TGR,+01:00,+01:00,DZ,Algeria
+LOO,+01:00,+01:00,DZ,Algeria
+ELU,+01:00,+01:00,DZ,Algeria
+TMX,+01:00,+01:00,DZ,Algeria
+OGX,+01:00,+01:00,DZ,Algeria
+IAM,+01:00,+01:00,DZ,Algeria
+COO,+01:00,+01:00,BJ,Benin
+DJA,+01:00,+01:00,BJ,Benin
+KDC,+01:00,+01:00,BJ,Benin
+NAE,+01:00,+01:00,BJ,Benin
+PKO,+01:00,+01:00,BJ,Benin
+SVF,+01:00,+01:00,BJ,Benin
+DBC,+08:00,+08:00,CN,China
+DBK,+05:30,+05:30,LK,Sri Lanka
+DBU,+05:30,+05:30,LK,Sri Lanka
+DCG,+04:00,+04:00,AE,United Arab Emirates
+HDB,+01:00,+02:00,DE,Germany
+DEQ,+08:00,+08:00,CN,China
+XKY,+00:00,+00:00,BF,Burkina Faso
+OUG,+00:00,+00:00,BF,Burkina Faso
+XDJ,+00:00,+00:00,BF,Burkina Faso
+XLU,+00:00,+00:00,BF,Burkina Faso
+PUP,+00:00,+00:00,BF,Burkina Faso
+XBO,+00:00,+00:00,BF,Burkina Faso
+XBG,+00:00,+00:00,BF,Burkina Faso
+DIP,+00:00,+00:00,BF,Burkina Faso
+DOR,+00:00,+00:00,BF,Burkina Faso
+FNG,+00:00,+00:00,BF,Burkina Faso
+XGG,+00:00,+00:00,BF,Burkina Faso
+XKA,+00:00,+00:00,BF,Burkina Faso
+TMQ,+00:00,+00:00,BF,Burkina Faso
+XPA,+00:00,+00:00,BF,Burkina Faso
+ARL,+00:00,+00:00,BF,Burkina Faso
+XSE,+00:00,+00:00,BF,Burkina Faso
+TEG,+00:00,+00:00,BF,Burkina Faso
+XZA,+00:00,+00:00,BF,Burkina Faso
+OUA,+00:00,+00:00,BF,Burkina Faso
+BNR,+00:00,+00:00,BF,Burkina Faso
+DGU,+00:00,+00:00,BF,Burkina Faso
+XGA,+00:00,+00:00,BF,Burkina Faso
+XNU,+00:00,+00:00,BF,Burkina Faso
+BOY,+00:00,+00:00,BF,Burkina Faso
+TUQ,+00:00,+00:00,BF,Burkina Faso
+XDE,+00:00,+00:00,BF,Burkina Faso
+XAR,+00:00,+00:00,BF,Burkina Faso
+ACC,+00:00,+00:00,GH,Ghana
+TML,+00:00,+00:00,GH,Ghana
+DGM,+05:30,+05:30,LK,Sri Lanka
+KMS,+00:00,+00:00,GH,Ghana
+NYI,+00:00,+00:00,GH,Ghana
+TKD,+00:00,+00:00,GH,Ghana
+DHL,+03:00,+03:00,YE,Yemen
+ABO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+OGO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+BXI,+00:00,+00:00,CI,CÃ´te d'Ivoire
+BYK,+00:00,+00:00,CI,CÃ´te d'Ivoire
+BQO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+BDK,+00:00,+00:00,CI,CÃ´te d'Ivoire
+DIM,+00:00,+00:00,CI,CÃ´te d'Ivoire
+DJO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+FEK,+00:00,+00:00,CI,CÃ´te d'Ivoire
+GGN,+00:00,+00:00,CI,CÃ´te d'Ivoire
+GGO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+BBV,+00:00,+00:00,CI,CÃ´te d'Ivoire
+HGO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+MJC,+00:00,+00:00,CI,CÃ´te d'Ivoire
+KEO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+OFI,+00:00,+00:00,CI,CÃ´te d'Ivoire
+SEO,+00:00,+00:00,CI,CÃ´te d'Ivoire
+SPY,+00:00,+00:00,CI,CÃ´te d'Ivoire
+ZSS,+00:00,+00:00,CI,CÃ´te d'Ivoire
+TXU,+00:00,+00:00,CI,CÃ´te d'Ivoire
+TOZ,+00:00,+00:00,CI,CÃ´te d'Ivoire
+DIW,+05:30,+05:30,LK,Sri Lanka
+ASK,+00:00,+00:00,CI,CÃ´te d'Ivoire
+DKA,+01:00,+01:00,NG,Nigeria
+ABV,+01:00,+01:00,NG,Nigeria
+QUO,+01:00,+01:00,NG,Nigeria
+AKR,+01:00,+01:00,NG,Nigeria
+ABB,+01:00,+01:00,NG,Nigeria
+BCU,+01:00,+01:00,NG,Nigeria
+BNI,+01:00,+01:00,NG,Nigeria
+CBQ,+01:00,+01:00,NG,Nigeria
+ENU,+01:00,+01:00,NG,Nigeria
+IBA,+01:00,+01:00,NG,Nigeria
+ILR,+01:00,+01:00,NG,Nigeria
+QOW,+01:00,+01:00,NG,Nigeria
+JOS,+01:00,+01:00,NG,Nigeria
+KAD,+01:00,+01:00,NG,Nigeria
+KAN,+01:00,+01:00,NG,Nigeria
+MIU,+01:00,+01:00,NG,Nigeria
+MDI,+01:00,+01:00,NG,Nigeria
+LOS,+01:00,+01:00,NG,Nigeria
+MXJ,+01:00,+01:00,NG,Nigeria
+PHC,+01:00,+01:00,NG,Nigeria
+SKO,+01:00,+01:00,NG,Nigeria
+YOL,+01:00,+01:00,NG,Nigeria
+ZAR,+01:00,+01:00,NG,Nigeria
+DQA,+08:00,+08:00,CN,China
+MFQ,+01:00,+01:00,NE,Niger
+NIM,+01:00,+01:00,NE,Niger
+THZ,+01:00,+01:00,NE,Niger
+AJY,+01:00,+01:00,NE,Niger
+RLT,+01:00,+01:00,NE,Niger
+ZND,+01:00,+01:00,NE,Niger
+DSG,+08:00,+08:00,PH,Philippines
+TBJ,+01:00,+01:00,TN,Tunisia
+MIR,+01:00,+01:00,TN,Tunisia
+TUN,+01:00,+01:00,TN,Tunisia
+GAF,+01:00,+01:00,TN,Tunisia
+GAE,+01:00,+01:00,TN,Tunisia
+DJE,+01:00,+01:00,TN,Tunisia
+EBM,+01:00,+01:00,TN,Tunisia
+SFA,+01:00,+01:00,TN,Tunisia
+TOE,+01:00,+01:00,TN,Tunisia
+DVD,+03:00,+03:00,MG,Madagascar
+DWO,+05:30,+05:30,LK,Sri Lanka
+DWR,+04:30,+04:30,AF,Afghanistan
+LRL,+00:00,+00:00,TG,Togo
+LFW,+00:00,+00:00,TG,Togo
+EAL,+12:00,+12:00,MH,Marshall Islands
+ANR,+01:00,+02:00,BE,Belgium
+BRU,+01:00,+02:00,BE,Belgium
+CRL,+01:00,+02:00,BE,Belgium
+KJK,+01:00,+02:00,BE,Belgium
+LGG,+01:00,+02:00,BE,Belgium
+EBO,+12:00,+12:00,MH,Marshall Islands
+OST,+01:00,+02:00,BE,Belgium
+AOC,+01:00,+02:00,DE,Germany
+HDF,+01:00,+02:00,DE,Germany
+IES,+01:00,+02:00,DE,Germany
+REB,+01:00,+02:00,DE,Germany
+CSO,+01:00,+02:00,DE,Germany
+BBH,+01:00,+02:00,DE,Germany
+ZMG,+01:00,+02:00,DE,Germany
+FNB,+01:00,+02:00,DE,Germany
+CBU,+01:00,+02:00,DE,Germany
+GTI,+01:00,+02:00,DE,Germany
+KOQ,+01:00,+02:00,DE,Germany
+PEF,+01:00,+02:00,DE,Germany
+BER,+01:00,+02:00,DE,Germany
+DRS,+01:00,+02:00,DE,Germany
+ERF,+01:00,+02:00,DE,Germany
+FRA,+01:00,+02:00,DE,Germany
+FMO,+01:00,+02:00,DE,Germany
+HAM,+01:00,+02:00,DE,Germany
+THF,+01:00,+02:00,DE,Germany
+CGN,+01:00,+02:00,DE,Germany
+DUS,+01:00,+02:00,DE,Germany
+NUE,+01:00,+02:00,DE,Germany
+LEJ,+01:00,+02:00,DE,Germany
+SCN,+01:00,+02:00,DE,Germany
+STR,+01:00,+02:00,DE,Germany
+TXL,+01:00,+02:00,DE,Germany
+HAJ,+01:00,+02:00,DE,Germany
+BRE,+01:00,+02:00,DE,Germany
+HHN,+01:00,+02:00,DE,Germany
+MHG,+01:00,+02:00,DE,Germany
+EIB,+01:00,+02:00,DE,Germany
+SGE,+01:00,+02:00,DE,Germany
+XFW,+01:00,+02:00,DE,Germany
+KEL,+01:00,+02:00,DE,Germany
+LBC,+01:00,+02:00,DE,Germany
+EUM,+01:00,+02:00,DE,Germany
+FMM,+01:00,+02:00,DE,Germany
+AAH,+01:00,+02:00,DE,Germany
+BNJ,+01:00,+02:00,DE,Germany
+ESS,+01:00,+02:00,DE,Germany
+BFE,+01:00,+02:00,DE,Germany
+MGL,+01:00,+02:00,DE,Germany
+PAD,+01:00,+02:00,DE,Germany
+NRN,+01:00,+02:00,DE,Germany
+DTM,+01:00,+02:00,DE,Germany
+AGB,+01:00,+02:00,DE,Germany
+OBF,+01:00,+02:00,DE,Germany
+RBM,+01:00,+02:00,DE,Germany
+FDH,+01:00,+02:00,DE,Germany
+SZW,+01:00,+02:00,DE,Germany
+BYU,+01:00,+02:00,DE,Germany
+URD,+01:00,+02:00,DE,Germany
+GHF,+01:00,+02:00,DE,Germany
+HOQ,+01:00,+02:00,DE,Germany
+BBJ,+01:00,+02:00,DE,Germany
+ZQW,+01:00,+02:00,DE,Germany
+FKB,+01:00,+02:00,DE,Germany
+ZQL,+01:00,+02:00,DE,Germany
+LHA,+01:00,+02:00,DE,Germany
+BWE,+01:00,+02:00,DE,Germany
+KSF,+01:00,+02:00,DE,Germany
+BRV,+01:00,+02:00,DE,Germany
+XLW,+01:00,+02:00,DE,Germany
+EME,+01:00,+02:00,DE,Germany
+AGE,+01:00,+02:00,DE,Germany
+WVN,+01:00,+02:00,DE,Germany
+JUI,+01:00,+02:00,DE,Germany
+LGO,+01:00,+02:00,DE,Germany
+BMK,+01:00,+02:00,DE,Germany
+NOD,+01:00,+02:00,DE,Germany
+VAC,+01:00,+02:00,DE,Germany
+NRD,+01:00,+02:00,DE,Germany
+BMR,+01:00,+02:00,DE,Germany
+HEI,+01:00,+02:00,DE,Germany
+FLF,+01:00,+02:00,DE,Germany
+HGL,+01:00,+02:00,DE,Germany
+QHU,+01:00,+02:00,DE,Germany
+PSH,+01:00,+02:00,DE,Germany
+GWT,+01:00,+02:00,DE,Germany
+OHR,+01:00,+02:00,DE,Germany
+KDL,+02:00,+03:00,EE,Estonia
+URE,+02:00,+03:00,EE,Estonia
+EPU,+02:00,+03:00,EE,Estonia
+TLL,+02:00,+03:00,EE,Estonia
+TAY,+02:00,+03:00,EE,Estonia
+ENF,+02:00,+03:00,FI,Finland
+KEV,+02:00,+03:00,FI,Finland
+HEM,+02:00,+03:00,FI,Finland
+HEL,+02:00,+03:00,FI,Finland
+HYV,+02:00,+03:00,FI,Finland
+KTQ,+02:00,+03:00,FI,Finland
+IVL,+02:00,+03:00,FI,Finland
+JOE,+02:00,+03:00,FI,Finland
+JYV,+02:00,+03:00,FI,Finland
+KAU,+02:00,+03:00,FI,Finland
+KEM,+02:00,+03:00,FI,Finland
+KAJ,+02:00,+03:00,FI,Finland
+KHJ,+02:00,+03:00,FI,Finland
+KOK,+02:00,+03:00,FI,Finland
+KAO,+02:00,+03:00,FI,Finland
+KTT,+02:00,+03:00,FI,Finland
+KUO,+02:00,+03:00,FI,Finland
+QLF,+02:00,+03:00,FI,Finland
+LPP,+02:00,+03:00,FI,Finland
+MHQ,+02:00,+03:00,FI,Finland
+MIK,+02:00,+03:00,FI,Finland
+OUL,+02:00,+03:00,FI,Finland
+POR,+02:00,+03:00,FI,Finland
+RVN,+02:00,+03:00,FI,Finland
+SVL,+02:00,+03:00,FI,Finland
+SJY,+02:00,+03:00,FI,Finland
+SOT,+02:00,+03:00,FI,Finland
+TMP,+02:00,+03:00,FI,Finland
+TKU,+02:00,+03:00,FI,Finland
+UTI,+02:00,+03:00,FI,Finland
+VAA,+02:00,+03:00,FI,Finland
+VRK,+02:00,+03:00,FI,Finland
+YLI,+02:00,+03:00,FI,Finland
+AUE,+02:00,+02:00,EG,Egypt
+BFS,+00:00,+01:00,GB,United Kingdom
+ENK,+00:00,+01:00,GB,United Kingdom
+BHD,+00:00,+01:00,GB,United Kingdom
+LDY,+00:00,+01:00,GB,United Kingdom
+BHX,+00:00,+01:00,GB,United Kingdom
+CVT,+00:00,+01:00,GB,United Kingdom
+GLO,+00:00,+01:00,GB,United Kingdom
+ORM,+00:00,+01:00,GB,United Kingdom
+NQT,+00:00,+01:00,GB,United Kingdom
+GBA,+00:00,+01:00,GB,United Kingdom
+MAN,+00:00,+01:00,GB,United Kingdom
+DSA,+00:00,+01:00,GB,United Kingdom
+UPV,+00:00,+01:00,GB,United Kingdom
+LYE,+00:00,+01:00,GB,United Kingdom
+YEO,+00:00,+01:00,GB,United Kingdom
+CAL,+00:00,+01:00,GB,United Kingdom
+EOI,+00:00,+01:00,GB,United Kingdom
+FIE,+00:00,+01:00,GB,United Kingdom
+WHS,+00:00,+01:00,GB,United Kingdom
+COL,+00:00,+01:00,GB,United Kingdom
+NRL,+00:00,+01:00,GB,United Kingdom
+OBN,+00:00,+01:00,GB,United Kingdom
+PPW,+00:00,+01:00,GB,United Kingdom
+SOY,+00:00,+01:00,GB,United Kingdom
+NDY,+00:00,+01:00,GB,United Kingdom
+LWK,+00:00,+01:00,GB,United Kingdom
+WRY,+00:00,+01:00,GB,United Kingdom
+CSA,+00:00,+01:00,GB,United Kingdom
+HAW,+00:00,+01:00,GB,United Kingdom
+CWL,+00:00,+01:00,GB,United Kingdom
+SWS,+00:00,+01:00,GB,United Kingdom
+BRS,+00:00,+01:00,GB,United Kingdom
+LPL,+00:00,+01:00,GB,United Kingdom
+LTN,+00:00,+01:00,GB,United Kingdom
+LEQ,+00:00,+01:00,GB,United Kingdom
+PLH,+00:00,+01:00,GB,United Kingdom
+ISC,+00:00,+01:00,GB,United Kingdom
+BOH,+00:00,+01:00,GB,United Kingdom
+SOU,+00:00,+01:00,GB,United Kingdom
+BBP,+00:00,+01:00,GB,United Kingdom
+PZE,+00:00,+01:00,GB,United Kingdom
+NQY,+00:00,+01:00,GB,United Kingdom
+QUG,+00:00,+01:00,GB,United Kingdom
+ACI,+00:00,+01:00,GG,Guernsey
+GCI,+00:00,+01:00,GG,Guernsey
+JER,+00:00,+01:00,JE,Jersey
+ESH,+00:00,+01:00,GB,United Kingdom
+BQH,+00:00,+01:00,GB,United Kingdom
+LGW,+00:00,+01:00,GB,United Kingdom
+WEM,+00:00,+01:00,GB,United Kingdom
+KRH,+00:00,+01:00,GB,United Kingdom
+LCY,+00:00,+01:00,GB,United Kingdom
+FAB,+00:00,+01:00,GB,United Kingdom
+BBS,+00:00,+01:00,GB,United Kingdom
+LHR,+00:00,+01:00,GB,United Kingdom
+LYX,+00:00,+01:00,GB,United Kingdom
+MSE,+00:00,+01:00,GB,United Kingdom
+LYM,+00:00,+01:00,GB,United Kingdom
+CAX,+00:00,+01:00,GB,United Kingdom
+BLK,+00:00,+01:00,GB,United Kingdom
+HUY,+00:00,+01:00,GB,United Kingdom
+BWF,+00:00,+01:00,GB,United Kingdom
+LBA,+00:00,+01:00,GB,United Kingdom
+WRT,+00:00,+01:00,GB,United Kingdom
+CEG,+00:00,+01:00,GB,United Kingdom
+IOM,+00:00,+01:00,IM,Isle of Man
+NCL,+00:00,+01:00,GB,United Kingdom
+MME,+00:00,+01:00,GB,United Kingdom
+EMA,+00:00,+01:00,GB,United Kingdom
+VLY,+00:00,+01:00,GB,United Kingdom
+KOI,+00:00,+01:00,GB,United Kingdom
+LSI,+00:00,+01:00,GB,United Kingdom
+WIC,+00:00,+01:00,GB,United Kingdom
+ABZ,+00:00,+01:00,GB,United Kingdom
+INV,+00:00,+01:00,GB,United Kingdom
+GLA,+00:00,+01:00,GB,United Kingdom
+EDI,+00:00,+01:00,GB,United Kingdom
+ILY,+00:00,+01:00,GB,United Kingdom
+PIK,+00:00,+01:00,GB,United Kingdom
+BEB,+00:00,+01:00,GB,United Kingdom
+SCS,+00:00,+01:00,GB,United Kingdom
+DND,+00:00,+01:00,GB,United Kingdom
+SYY,+00:00,+01:00,GB,United Kingdom
+BRR,+00:00,+01:00,GB,United Kingdom
+PSL,+00:00,+01:00,GB,United Kingdom
+TRE,+00:00,+01:00,GB,United Kingdom
+UNT,+00:00,+01:00,GB,United Kingdom
+FSS,+00:00,+01:00,GB,United Kingdom
+ADX,+00:00,+01:00,GB,United Kingdom
+LMO,+00:00,+01:00,GB,United Kingdom
+CBG,+00:00,+01:00,GB,United Kingdom
+NWI,+00:00,+01:00,GB,United Kingdom
+STN,+00:00,+01:00,GB,United Kingdom
+HYC,+00:00,+01:00,GB,United Kingdom
+EXT,+00:00,+01:00,GB,United Kingdom
+FZO,+00:00,+01:00,GB,United Kingdom
+OXF,+00:00,+01:00,GB,United Kingdom
+RCS,+00:00,+01:00,GB,United Kingdom
+UHF,+00:00,+01:00,GB,United Kingdom
+BEX,+00:00,+01:00,GB,United Kingdom
+LKZ,+00:00,+01:00,GB,United Kingdom
+MHZ,+00:00,+01:00,GB,United Kingdom
+QUY,+00:00,+01:00,GB,United Kingdom
+FFD,+00:00,+01:00,GB,United Kingdom
+PME,+00:00,+01:00,GB,United Kingdom
+BWY,+00:00,+01:00,GB,United Kingdom
+BZZ,+00:00,+01:00,GB,United Kingdom
+ODH,+00:00,+01:00,GB,United Kingdom
+NHT,+00:00,+01:00,GB,United Kingdom
+AYH,+00:00,+01:00,GB,United Kingdom
+GSY,+00:00,+01:00,GB,United Kingdom
+QCY,+00:00,+01:00,GB,United Kingdom
+BEQ,+00:00,+01:00,GB,United Kingdom
+OKH,+00:00,+01:00,GB,United Kingdom
+SQZ,+00:00,+01:00,GB,United Kingdom
+HRT,+00:00,+01:00,GB,United Kingdom
+WTN,+00:00,+01:00,GB,United Kingdom
+CLF,+00:00,+01:00,GB,United Kingdom
+KNF,+00:00,+01:00,GB,United Kingdom
+MPN,−03:00,−03:00,FK,Falkland Islands (Malvinas)
+AMS,+01:00,+02:00,NL,Netherlands
+MST,+01:00,+02:00,NL,Netherlands
+EIN,+01:00,+02:00,NL,Netherlands
+GRQ,+01:00,+02:00,NL,Netherlands
+GLZ,+01:00,+02:00,NL,Netherlands
+DHR,+01:00,+02:00,NL,Netherlands
+LEY,+01:00,+02:00,NL,Netherlands
+LWR,+01:00,+02:00,NL,Netherlands
+RTM,+01:00,+02:00,NL,Netherlands
+UTC,+01:00,+02:00,NL,Netherlands
+ENS,+01:00,+02:00,NL,Netherlands
+LID,+01:00,+02:00,NL,Netherlands
+WOE,+01:00,+02:00,NL,Netherlands
+BYT,+01:00,+00:00,IE,Ireland
+BLY,+01:00,+00:00,IE,Ireland
+NNR,+01:00,+00:00,IE,Ireland
+CLB,+01:00,+00:00,IE,Ireland
+ORK,+01:00,+00:00,IE,Ireland
+GWY,+01:00,+00:00,IE,Ireland
+CFN,+01:00,+00:00,IE,Ireland
+DUB,+01:00,+00:00,IE,Ireland
+IOR,+01:00,+00:00,IE,Ireland
+INQ,+01:00,+00:00,IE,Ireland
+KKY,+01:00,+00:00,IE,Ireland
+NOC,+01:00,+00:00,IE,Ireland
+KIR,+01:00,+00:00,IE,Ireland
+LTR,+01:00,+00:00,IE,Ireland
+IIA,+01:00,+00:00,IE,Ireland
+SNN,+01:00,+00:00,IE,Ireland
+SXL,+01:00,+00:00,IE,Ireland
+WAT,+01:00,+00:00,IE,Ireland
+EJN,+08:00,+08:00,CN,China
+EJT,+12:00,+12:00,MH,Marshall Islands
+AAR,+01:00,+02:00,DK,Denmark
+BLL,+01:00,+02:00,DK,Denmark
+CPH,+01:00,+02:00,DK,Denmark
+EBJ,+01:00,+02:00,DK,Denmark
+KRP,+01:00,+02:00,DK,Denmark
+BYR,+01:00,+02:00,DK,Denmark
+MRW,+01:00,+02:00,DK,Denmark
+ODE,+01:00,+02:00,DK,Denmark
+RKE,+01:00,+02:00,DK,Denmark
+RNN,+01:00,+02:00,DK,Denmark
+SGD,+01:00,+02:00,DK,Denmark
+CNL,+01:00,+02:00,DK,Denmark
+SKS,+01:00,+02:00,DK,Denmark
+SQW,+01:00,+02:00,DK,Denmark
+TED,+01:00,+02:00,DK,Denmark
+FAE,+00:00,+01:00,FO,Faroe Islands
+STA,+01:00,+02:00,DK,Denmark
+AAL,+01:00,+02:00,DK,Denmark
+-,+01:00,+02:00,DK,Denmark
+LUX,+01:00,+02:00,LU,Luxembourg
+EMR,−06:00,−06:00,GT,Guatemala
+AES,+01:00,+02:00,NO,Norway
+ANX,+01:00,+02:00,NO,Norway
+ALF,+01:00,+02:00,NO,Norway
+FDE,+01:00,+02:00,NO,Norway
+BNN,+01:00,+02:00,NO,Norway
+BOO,+01:00,+02:00,NO,Norway
+BGO,+01:00,+02:00,NO,Norway
+BJF,+01:00,+02:00,NO,Norway
+BVG,+01:00,+02:00,NO,Norway
+KRS,+01:00,+02:00,NO,Norway
+DLD,+01:00,+02:00,NO,Norway
+BDU,+01:00,+02:00,NO,Norway
+EVE,+01:00,+02:00,NO,Norway
+FBU,+01:00,+02:00,NO,Norway
+VDB,+01:00,+02:00,NO,Norway
+FRO,+01:00,+02:00,NO,Norway
+OSL,+01:00,+02:00,NO,Norway
+HMR,+01:00,+02:00,NO,Norway
+HAU,+01:00,+02:00,NO,Norway
+HFT,+01:00,+02:00,NO,Norway
+HAA,+01:00,+02:00,NO,Norway
+HVG,+01:00,+02:00,NO,Norway
+QKX,+01:00,+02:00,NO,Norway
+KSU,+01:00,+02:00,NO,Norway
+GLL,+01:00,+02:00,NO,Norway
+KKN,+01:00,+02:00,NO,Norway
+FAN,+01:00,+02:00,NO,Norway
+LKN,+01:00,+02:00,NO,Norway
+MEH,+01:00,+02:00,NO,Norway
+MOL,+01:00,+02:00,NO,Norway
+MJF,+01:00,+02:00,NO,Norway
+LKL,+01:00,+02:00,NO,Norway
+NVK,+01:00,+02:00,NO,Norway
+OSY,+01:00,+02:00,NO,Norway
+NTB,+01:00,+02:00,NO,Norway
+OLA,+01:00,+02:00,NO,Norway
+HOV,+01:00,+02:00,NO,Norway
+MQN,+01:00,+02:00,NO,Norway
+RVK,+01:00,+02:00,NO,Norway
+RRS,+01:00,+02:00,NO,Norway
+RET,+01:00,+02:00,NO,Norway
+RYG,+01:00,+02:00,NO,Norway
+LYR,+01:00,+02:00,NO,Norway
+SDN,+01:00,+02:00,NO,Norway
+SOG,+01:00,+02:00,NO,Norway
+SVJ,+01:00,+02:00,NO,Norway
+SKN,+01:00,+02:00,NO,Norway
+SKE,+01:00,+02:00,NO,Norway
+SRP,+01:00,+02:00,NO,Norway
+SOJ,+01:00,+02:00,NO,Norway
+VAW,+01:00,+02:00,NO,Norway
+SSJ,+01:00,+02:00,NO,Norway
+TOS,+01:00,+02:00,NO,Norway
+TRF,+01:00,+02:00,NO,Norway
+TRD,+01:00,+02:00,NO,Norway
+VDS,+01:00,+02:00,NO,Norway
+VRY,+01:00,+02:00,NO,Norway
+SVG,+01:00,+02:00,NO,Norway
+BXP,+01:00,+02:00,PL,Poland
+BZG,+01:00,+02:00,PL,Poland
+CZW,+01:00,+02:00,PL,Poland
+GDN,+01:00,+02:00,PL,Poland
+KRK,+01:00,+02:00,PL,Poland
+OSZ,+01:00,+02:00,PL,Poland
+KTW,+01:00,+02:00,PL,Poland
+QEO,+01:00,+02:00,PL,Poland
+LCJ,+01:00,+02:00,PL,Poland
+WMI,+01:00,+02:00,PL,Poland
+QYD,+01:00,+02:00,PL,Poland
+POZ,+01:00,+02:00,PL,Poland
+RDO,+01:00,+02:00,PL,Poland
+RZE,+01:00,+02:00,PL,Poland
+SZZ,+01:00,+02:00,PL,Poland
+OSP,+01:00,+02:00,PL,Poland
+SZY,+01:00,+02:00,PL,Poland
+WAW,+01:00,+02:00,PL,Poland
+WRO,+01:00,+02:00,PL,Poland
+IEG,+01:00,+02:00,PL,Poland
+STO,+01:00,+02:00,SE,Sweden
+RNB,+01:00,+02:00,SE,Sweden
+GOT,+01:00,+02:00,SE,Sweden
+JKG,+01:00,+02:00,SE,Sweden
+LDK,+01:00,+02:00,SE,Sweden
+GSE,+01:00,+02:00,SE,Sweden
+KVB,+01:00,+02:00,SE,Sweden
+THN,+01:00,+02:00,SE,Sweden
+KSK,+01:00,+02:00,SE,Sweden
+MXX,+01:00,+02:00,SE,Sweden
+NYO,+01:00,+02:00,SE,Sweden
+KID,+01:00,+02:00,SE,Sweden
+OSK,+01:00,+02:00,SE,Sweden
+KLR,+01:00,+02:00,SE,Sweden
+MMX,+01:00,+02:00,SE,Sweden
+HAD,+01:00,+02:00,SE,Sweden
+VXO,+01:00,+02:00,SE,Sweden
+EVG,+01:00,+02:00,SE,Sweden
+GEV,+01:00,+02:00,SE,Sweden
+HUV,+01:00,+02:00,SE,Sweden
+KRF,+01:00,+02:00,SE,Sweden
+LYC,+01:00,+02:00,SE,Sweden
+SDL,+01:00,+02:00,SE,Sweden
+OER,+01:00,+02:00,SE,Sweden
+KRN,+01:00,+02:00,SE,Sweden
+SFT,+01:00,+02:00,SE,Sweden
+UME,+01:00,+02:00,SE,Sweden
+VHM,+01:00,+02:00,SE,Sweden
+AJR,+01:00,+02:00,SE,Sweden
+SOO,+01:00,+02:00,SE,Sweden
+OSD,+01:00,+02:00,SE,Sweden
+ORB,+01:00,+02:00,SE,Sweden
+HFS,+01:00,+02:00,SE,Sweden
+KSD,+01:00,+02:00,SE,Sweden
+VST,+01:00,+02:00,SE,Sweden
+LLA,+01:00,+02:00,SE,Sweden
+ARN,+01:00,+02:00,SE,Sweden
+BMA,+01:00,+02:00,SE,Sweden
+BLE,+01:00,+02:00,SE,Sweden
+HLF,+01:00,+02:00,SE,Sweden
+GVX,+01:00,+02:00,SE,Sweden
+LPI,+01:00,+02:00,SE,Sweden
+NRK,+01:00,+02:00,SE,Sweden
+TYF,+01:00,+02:00,SE,Sweden
+EKT,+01:00,+02:00,SE,Sweden
+VBY,+01:00,+02:00,SE,Sweden
+VVK,+01:00,+02:00,SE,Sweden
+AGH,+01:00,+02:00,SE,Sweden
+SQO,+01:00,+02:00,SE,Sweden
+IDB,+01:00,+02:00,SE,Sweden
+PJA,+01:00,+02:00,SE,Sweden
+HMV,+01:00,+02:00,SE,Sweden
+GLC,+03:00,+03:00,ET,Ethiopia
+SHC,+03:00,+03:00,ET,Ethiopia
+SPM,+01:00,+02:00,DE,Germany
+RMS,+01:00,+02:00,DE,Germany
+SEX,+01:00,+02:00,DE,Germany
+FRZ,+01:00,+02:00,DE,Germany
+ILH,+01:00,+02:00,DE,Germany
+KZG,+01:00,+02:00,DE,Germany
+FCN,+01:00,+02:00,DE,Germany
+GKE,+01:00,+02:00,DE,Germany
+RLG,+01:00,+02:00,DE,Germany
+WBG,+01:00,+02:00,DE,Germany
+WIE,+01:00,+02:00,DE,Germany
+FEL,+01:00,+02:00,DE,Germany
+IGS,+01:00,+02:00,DE,Germany
+GUT,+01:00,+02:00,DE,Germany
+DGP,+02:00,+03:00,LV,Latvia
+LPX,+02:00,+03:00,LV,Latvia
+RIX,+02:00,+03:00,LV,Latvia
+VNT,+02:00,+03:00,LV,Latvia
+EWY,+00:00,+01:00,GB,United Kingdom
+KUN,+02:00,+03:00,LT,Lithuania
+PLQ,+02:00,+03:00,LT,Lithuania
+PNV,+02:00,+03:00,LT,Lithuania
+SQQ,+02:00,+03:00,LT,Lithuania
+VNO,+02:00,+03:00,LT,Lithuania
+ALJ,+02:00,+02:00,ZA,South Africa
+AGZ,+02:00,+02:00,ZA,South Africa
+ADY,+02:00,+02:00,ZA,South Africa
+BIY,+02:00,+02:00,ZA,South Africa
+BFN,+02:00,+02:00,ZA,South Africa
+UTE,+02:00,+02:00,ZA,South Africa
+ASS,+02:00,+02:00,ZA,South Africa
+CDO,+02:00,+02:00,ZA,South Africa
+CPT,+02:00,+02:00,ZA,South Africa
+DUK,+02:00,+02:00,ZA,South Africa
+PZL,+02:00,+02:00,ZA,South Africa
+ELS,+02:00,+02:00,ZA,South Africa
+EMG,+02:00,+02:00,ZA,South Africa
+ELL,+02:00,+02:00,ZA,South Africa
+FCB,+02:00,+02:00,ZA,South Africa
+GCJ,+02:00,+02:00,ZA,South Africa
+GRJ,+02:00,+02:00,ZA,South Africa
+GIY,+02:00,+02:00,ZA,South Africa
+QRA,+02:00,+02:00,ZA,South Africa
+HLW,+02:00,+02:00,ZA,South Africa
+HRS,+02:00,+02:00,ZA,South Africa
+HDS,+02:00,+02:00,ZA,South Africa
+KXE,+02:00,+02:00,ZA,South Africa
+KIM,+02:00,+02:00,ZA,South Africa
+MQP,+02:00,+02:00,ZA,South Africa
+KOF,+02:00,+02:00,ZA,South Africa
+KMH,+02:00,+02:00,ZA,South Africa
+KLZ,+02:00,+02:00,ZA,South Africa
+HLA,+02:00,+02:00,ZA,South Africa
+LMR,+02:00,+02:00,ZA,South Africa
+LDZ,+02:00,+02:00,ZA,South Africa
+DUR,+02:00,+02:00,ZA,South Africa
+LUJ,+02:00,+02:00,ZA,South Africa
+LCD,+02:00,+02:00,ZA,South Africa
+SDB,+02:00,+02:00,ZA,South Africa
+LAY,+02:00,+02:00,ZA,South Africa
+AAM,+02:00,+02:00,ZA,South Africa
+MGH,+02:00,+02:00,ZA,South Africa
+MEZ,+02:00,+02:00,ZA,South Africa
+MBD,+02:00,+02:00,ZA,South Africa
+LLE,+02:00,+02:00,ZA,South Africa
+MZY,+02:00,+02:00,ZA,South Africa
+MZQ,+02:00,+02:00,ZA,South Africa
+NCS,+02:00,+02:00,ZA,South Africa
+NGL,+02:00,+02:00,ZA,South Africa
+NLP,+02:00,+02:00,ZA,South Africa
+OVG,+02:00,+02:00,ZA,South Africa
+OUH,+02:00,+02:00,ZA,South Africa
+JNB,+02:00,+02:00,ZA,South Africa
+AFD,+02:00,+02:00,ZA,South Africa
+PLZ,+02:00,+02:00,ZA,South Africa
+PBZ,+02:00,+02:00,ZA,South Africa
+PHW,+02:00,+02:00,ZA,South Africa
+JOH,+02:00,+02:00,ZA,South Africa
+PRK,+02:00,+02:00,ZA,South Africa
+PZB,+02:00,+02:00,ZA,South Africa
+NTY,+02:00,+02:00,ZA,South Africa
+PTG,+02:00,+02:00,ZA,South Africa
+PCF,+02:00,+02:00,ZA,South Africa
+UTW,+02:00,+02:00,ZA,South Africa
+RCB,+02:00,+02:00,ZA,South Africa
+RVO,+02:00,+02:00,ZA,South Africa
+ROD,+02:00,+02:00,ZA,South Africa
+SBU,+02:00,+02:00,ZA,South Africa
+ZEC,+02:00,+02:00,ZA,South Africa
+GSS,+02:00,+02:00,ZA,South Africa
+SIS,+02:00,+02:00,ZA,South Africa
+SZK,+02:00,+02:00,ZA,South Africa
+THY,+02:00,+02:00,ZA,South Africa
+TCU,+02:00,+02:00,ZA,South Africa
+LTA,+02:00,+02:00,ZA,South Africa
+ULD,+02:00,+02:00,ZA,South Africa
+UTN,+02:00,+02:00,ZA,South Africa
+UTT,+02:00,+02:00,ZA,South Africa
+VRU,+02:00,+02:00,ZA,South Africa
+VIR,+02:00,+02:00,ZA,South Africa
+VRE,+02:00,+02:00,ZA,South Africa
+VYD,+02:00,+02:00,ZA,South Africa
+PRY,+02:00,+02:00,ZA,South Africa
+WKF,+02:00,+02:00,ZA,South Africa
+FRW,+02:00,+02:00,BW,Botswana
+GNZ,+02:00,+02:00,BW,Botswana
+JWA,+02:00,+02:00,BW,Botswana
+BBK,+02:00,+02:00,BW,Botswana
+KHW,+02:00,+02:00,BW,Botswana
+LOQ,+02:00,+02:00,BW,Botswana
+MUB,+02:00,+02:00,BW,Botswana
+ORP,+02:00,+02:00,BW,Botswana
+QPH,+02:00,+02:00,BW,Botswana
+GBE,+02:00,+02:00,BW,Botswana
+SXN,+02:00,+02:00,BW,Botswana
+PKW,+02:00,+02:00,BW,Botswana
+SVT,+02:00,+02:00,BW,Botswana
+SWX,+02:00,+02:00,BW,Botswana
+TLD,+02:00,+02:00,BW,Botswana
+TBY,+02:00,+02:00,BW,Botswana
+BZV,+01:00,+01:00,CG,Congo
+DJM,+01:00,+01:00,CG,Congo
+KNJ,+01:00,+01:00,CG,Congo
+LCO,+01:00,+01:00,CG,Congo
+MUY,+01:00,+01:00,CG,Congo
+SIB,+01:00,+01:00,CG,Congo
+NKY,+01:00,+01:00,CG,Congo
+ANJ,+01:00,+01:00,CG,Congo
+MSX,+01:00,+01:00,CG,Congo
+BOE,+01:00,+01:00,CG,Congo
+OLL,+01:00,+01:00,CG,Congo
+EWO,+01:00,+01:00,CG,Congo
+GMM,+01:00,+01:00,CG,Congo
+ION,+01:00,+01:00,CG,Congo
+KEE,+01:00,+01:00,CG,Congo
+MKJ,+01:00,+01:00,CG,Congo
+FTX,+01:00,+01:00,CG,Congo
+SOE,+01:00,+01:00,CG,Congo
+BTB,+01:00,+01:00,CG,Congo
+OUE,+01:00,+01:00,CG,Congo
+KMK,+01:00,+01:00,CG,Congo
+DIS,+01:00,+01:00,CG,Congo
+PNR,+01:00,+01:00,CG,Congo
+MTS,+02:00,+02:00,SZ,Swaziland
+FEA,+00:00,+01:00,GB,United Kingdom
+CRF,+01:00,+01:00,CF,Central African Republic
+BGF,+01:00,+01:00,CF,Central African Republic
+BGU,+01:00,+01:00,CF,Central African Republic
+IRO,+01:00,+01:00,CF,Central African Republic
+BBY,+01:00,+01:00,CF,Central African Republic
+NDL,+01:00,+01:00,CF,Central African Republic
+BOP,+01:00,+01:00,CF,Central African Republic
+BIV,+01:00,+01:00,CF,Central African Republic
+BSN,+01:00,+01:00,CF,Central African Republic
+BBT,+01:00,+01:00,CF,Central African Republic
+ODA,+01:00,+01:00,CF,Central African Republic
+AIG,+01:00,+01:00,CF,Central African Republic
+IMO,+01:00,+01:00,CF,Central African Republic
+MKI,+01:00,+01:00,CF,Central African Republic
+BTG,+01:00,+01:00,CF,Central African Republic
+GDI,+01:00,+01:00,CF,Central African Republic
+BMF,+01:00,+01:00,CF,Central African Republic
+ODJ,+01:00,+01:00,CF,Central African Republic
+RFA,+01:00,+01:00,CF,Central African Republic
+BCF,+01:00,+01:00,CF,Central African Republic
+BOZ,+01:00,+01:00,CF,Central African Republic
+NBN,+01:00,+01:00,GQ,Equatorial Guinea
+BSG,+01:00,+01:00,GQ,Equatorial Guinea
+GEM,+01:00,+01:00,GQ,Equatorial Guinea
+SSG,+01:00,+01:00,GQ,Equatorial Guinea
+ASI,+00:00,+00:00,SH,"Saint Helena, Ascension and Tristan da Cunha"
+HLE,+00:00,+00:00,SH,"Saint Helena, Ascension and Tristan da Cunha"
+MRU,+04:00,+04:00,MU,Mauritius
+RRG,+04:00,+04:00,MU,Mauritius
+NKW,+06:00,+06:00,IO,British Indian Ocean Territory
+NKS,+01:00,+01:00,CM,Cameroon
+KBI,+01:00,+01:00,CM,Cameroon
+TKC,+01:00,+01:00,CM,Cameroon
+DLA,+01:00,+01:00,CM,Cameroon
+MMF,+01:00,+01:00,CM,Cameroon
+BLC,+01:00,+01:00,CM,Cameroon
+KLE,+01:00,+01:00,CM,Cameroon
+OUR,+01:00,+01:00,CM,Cameroon
+GXX,+01:00,+01:00,CM,Cameroon
+MVR,+01:00,+01:00,CM,Cameroon
+FOM,+01:00,+01:00,CM,Cameroon
+NGE,+01:00,+01:00,CM,Cameroon
+BTA,+01:00,+01:00,CM,Cameroon
+GOU,+01:00,+01:00,CM,Cameroon
+DSC,+01:00,+01:00,CM,Cameroon
+BFX,+01:00,+01:00,CM,Cameroon
+BPC,+01:00,+01:00,CM,Cameroon
+EBW,+01:00,+01:00,CM,Cameroon
+YAO,+01:00,+01:00,CM,Cameroon
+NSI,+01:00,+01:00,CM,Cameroon
+MMQ,+02:00,+02:00,ZM,Zambia
+CIP,+02:00,+02:00,ZM,Zambia
+JEK,+02:00,+02:00,ZM,Zambia
+CGJ,+02:00,+02:00,ZM,Zambia
+KLB,+02:00,+02:00,ZM,Zambia
+KMZ,+02:00,+02:00,ZM,Zambia
+KAA,+02:00,+02:00,ZM,Zambia
+ZKB,+02:00,+02:00,ZM,Zambia
+LVI,+02:00,+02:00,ZM,Zambia
+LXU,+02:00,+02:00,ZM,Zambia
+LUN,+02:00,+02:00,ZM,Zambia
+MNS,+02:00,+02:00,ZM,Zambia
+MFU,+02:00,+02:00,ZM,Zambia
+MNR,+02:00,+02:00,ZM,Zambia
+ZGM,+02:00,+02:00,ZM,Zambia
+NLA,+02:00,+02:00,ZM,Zambia
+RYL,+02:00,+02:00,ZM,Zambia
+SXG,+02:00,+02:00,ZM,Zambia
+KIW,+02:00,+02:00,ZM,Zambia
+SJQ,+02:00,+02:00,ZM,Zambia
+SLI,+02:00,+02:00,ZM,Zambia
+BBZ,+02:00,+02:00,ZM,Zambia
+HAH,+03:00,+03:00,KM,Comoros
+NWA,+03:00,+03:00,KM,Comoros
+YVA,+03:00,+03:00,KM,Comoros
+AJN,+03:00,+03:00,KM,Comoros
+DZA,+03:00,+03:00,YT,Mayotte
+RUN,+04:00,+04:00,RE,RÃ©union
+ZSE,+04:00,+04:00,RE,RÃ©union
+WML,+03:00,+03:00,MG,Madagascar
+ATJ,+03:00,+03:00,MG,Madagascar
+WAQ,+03:00,+03:00,MG,Madagascar
+VVB,+03:00,+03:00,MG,Madagascar
+TNR,+03:00,+03:00,MG,Madagascar
+JVA,+03:00,+03:00,MG,Madagascar
+BMD,+03:00,+03:00,MG,Madagascar
+ZVA,+03:00,+03:00,MG,Madagascar
+MXT,+03:00,+03:00,MG,Madagascar
+ILK,+03:00,+03:00,MG,Madagascar
+TVA,+03:00,+03:00,MG,Madagascar
+SMS,+03:00,+03:00,MG,Madagascar
+TMM,+03:00,+03:00,MG,Madagascar
+WTA,+03:00,+03:00,MG,Madagascar
+MOQ,+03:00,+03:00,MG,Madagascar
+WTS,+03:00,+03:00,MG,Madagascar
+VAT,+03:00,+03:00,MG,Madagascar
+WAM,+03:00,+03:00,MG,Madagascar
+DIE,+03:00,+03:00,MG,Madagascar
+WBE,+03:00,+03:00,MG,Madagascar
+WMR,+03:00,+03:00,MG,Madagascar
+ZWA,+03:00,+03:00,MG,Madagascar
+AMB,+03:00,+03:00,MG,Madagascar
+WBD,+03:00,+03:00,MG,Madagascar
+WPB,+03:00,+03:00,MG,Madagascar
+ANM,+03:00,+03:00,MG,Madagascar
+HVA,+03:00,+03:00,MG,Madagascar
+MJN,+03:00,+03:00,MG,Madagascar
+NOS,+03:00,+03:00,MG,Madagascar
+DWB,+03:00,+03:00,MG,Madagascar
+WMP,+03:00,+03:00,MG,Madagascar
+BPY,+03:00,+03:00,MG,Madagascar
+WMN,+03:00,+03:00,MG,Madagascar
+SVB,+03:00,+03:00,MG,Madagascar
+TTS,+03:00,+03:00,MG,Madagascar
+VOH,+03:00,+03:00,MG,Madagascar
+WAI,+03:00,+03:00,MG,Madagascar
+WMA,+03:00,+03:00,MG,Madagascar
+IVA,+03:00,+03:00,MG,Madagascar
+WBO,+03:00,+03:00,MG,Madagascar
+WMD,+03:00,+03:00,MG,Madagascar
+FTU,+03:00,+03:00,MG,Madagascar
+WFI,+03:00,+03:00,MG,Madagascar
+RVA,+03:00,+03:00,MG,Madagascar
+IHO,+03:00,+03:00,MG,Madagascar
+MJA,+03:00,+03:00,MG,Madagascar
+WVK,+03:00,+03:00,MG,Madagascar
+OVA,+03:00,+03:00,MG,Madagascar
+MNJ,+03:00,+03:00,MG,Madagascar
+TDV,+03:00,+03:00,MG,Madagascar
+MXM,+03:00,+03:00,MG,Madagascar
+TLE,+03:00,+03:00,MG,Madagascar
+VND,+03:00,+03:00,MG,Madagascar
+BKU,+03:00,+03:00,MG,Madagascar
+AMP,+03:00,+03:00,MG,Madagascar
+WAK,+03:00,+03:00,MG,Madagascar
+AZZ,+01:00,+01:00,AO,Angola
+SSY,+01:00,+01:00,AO,Angola
+BUG,+01:00,+01:00,AO,Angola
+CAB,+01:00,+01:00,AO,Angola
+CFF,+01:00,+01:00,AO,Angola
+PGI,+01:00,+01:00,AO,Angola
+CBT,+01:00,+01:00,AO,Angola
+CTI,+01:00,+01:00,AO,Angola
+CXM,+01:00,+01:00,AO,Angola
+CAV,+01:00,+01:00,AO,Angola
+FND,+05:00,+05:00,MV,Maldives
+DUE,+01:00,+01:00,AO,Angola
+VPE,+01:00,+01:00,AO,Angola
+NOV,+01:00,+01:00,AO,Angola
+SVP,+01:00,+01:00,AO,Angola
+LBZ,+01:00,+01:00,AO,Angola
+LAD,+01:00,+01:00,AO,Angola
+LZM,+01:00,+01:00,AO,Angola
+MEG,+01:00,+01:00,AO,Angola
+SPP,+01:00,+01:00,AO,Angola
+MSZ,+01:00,+01:00,AO,Angola
+GXG,+01:00,+01:00,AO,Angola
+PBN,+01:00,+01:00,AO,Angola
+VHC,+01:00,+01:00,AO,Angola
+SZA,+01:00,+01:00,AO,Angola
+NDD,+01:00,+01:00,AO,Angola
+UAL,+01:00,+01:00,AO,Angola
+SDD,+01:00,+01:00,AO,Angola
+LUO,+01:00,+01:00,AO,Angola
+UGO,+01:00,+01:00,AO,Angola
+CEO,+01:00,+01:00,AO,Angola
+XGN,+01:00,+01:00,AO,Angola
+ARZ,+01:00,+01:00,AO,Angola
+NZA,+01:00,+01:00,AO,Angola
+BGB,+01:00,+01:00,GA,Gabon
+KDN,+01:00,+01:00,GA,Gabon
+FOU,+01:00,+01:00,GA,Gabon
+MBC,+01:00,+01:00,GA,Gabon
+MGX,+01:00,+01:00,GA,Gabon
+KDJ,+01:00,+01:00,GA,Gabon
+KOU,+01:00,+01:00,GA,Gabon
+MJL,+01:00,+01:00,GA,Gabon
+OYE,+01:00,+01:00,GA,Gabon
+OKN,+01:00,+01:00,GA,Gabon
+LBQ,+01:00,+01:00,GA,Gabon
+MVX,+01:00,+01:00,GA,Gabon
+BMM,+01:00,+01:00,GA,Gabon
+MFF,+01:00,+01:00,GA,Gabon
+MKB,+01:00,+01:00,GA,Gabon
+POG,+01:00,+01:00,GA,Gabon
+OMB,+01:00,+01:00,GA,Gabon
+IGE,+01:00,+01:00,GA,Gabon
+MKU,+01:00,+01:00,GA,Gabon
+LBV,+01:00,+01:00,GA,Gabon
+MZC,+01:00,+01:00,GA,Gabon
+MVB,+01:00,+01:00,GA,Gabon
+LTL,+01:00,+01:00,GA,Gabon
+ZKM,+01:00,+01:00,GA,Gabon
+TCH,+01:00,+01:00,GA,Gabon
+MYB,+01:00,+01:00,GA,Gabon
+FOY,+00:00,+00:00,LR,Liberia
+PCP,+00:00,+00:00,ST,Sao Tome and Principe
+TMS,+00:00,+00:00,ST,Sao Tome and Principe
+ANO,+02:00,+02:00,MZ,Mozambique
+BEW,+02:00,+02:00,MZ,Mozambique
+FXO,+02:00,+02:00,MZ,Mozambique
+VPY,+02:00,+02:00,MZ,Mozambique
+IHC,+02:00,+02:00,MZ,Mozambique
+INH,+02:00,+02:00,MZ,Mozambique
+VXC,+02:00,+02:00,MZ,Mozambique
+LFB,+02:00,+02:00,MZ,Mozambique
+MPM,+02:00,+02:00,MZ,Mozambique
+MUD,+02:00,+02:00,MZ,Mozambique
+MZB,+02:00,+02:00,MZ,Mozambique
+MNC,+02:00,+02:00,MZ,Mozambique
+APL,+02:00,+02:00,MZ,Mozambique
+POL,+02:00,+02:00,MZ,Mozambique
+PDD,+02:00,+02:00,MZ,Mozambique
+UEL,+02:00,+02:00,MZ,Mozambique
+TET,+02:00,+02:00,MZ,Mozambique
+VNX,+02:00,+02:00,MZ,Mozambique
+VJB,+02:00,+02:00,MZ,Mozambique
+JCA,+01:00,+02:00,FR,France
+DES,+04:00,+04:00,SC,Seychelles
+SEZ,+04:00,+04:00,SC,Seychelles
+PRI,+04:00,+04:00,SC,Seychelles
+BDI,+04:00,+04:00,SC,Seychelles
+DEI,+04:00,+04:00,SC,Seychelles
+FRK,+04:00,+04:00,SC,Seychelles
+SRH,+01:00,+01:00,TD,Chad
+OGR,+01:00,+01:00,TD,Chad
+AEH,+01:00,+01:00,TD,Chad
+MQQ,+01:00,+01:00,TD,Chad
+LTC,+01:00,+01:00,TD,Chad
+ATV,+01:00,+01:00,TD,Chad
+NDJ,+01:00,+01:00,TD,Chad
+BKR,+01:00,+01:00,TD,Chad
+OTC,+01:00,+01:00,TD,Chad
+MVO,+01:00,+01:00,TD,Chad
+AMC,+01:00,+01:00,TD,Chad
+PLF,+01:00,+01:00,TD,Chad
+OUT,+01:00,+01:00,TD,Chad
+AMO,+01:00,+01:00,TD,Chad
+FYT,+01:00,+01:00,TD,Chad
+BZH,+02:00,+02:00,ZW,Zimbabwe
+BUQ,+02:00,+02:00,ZW,Zimbabwe
+CHJ,+02:00,+02:00,ZW,Zimbabwe
+BFO,+02:00,+02:00,ZW,Zimbabwe
+VFA,+02:00,+02:00,ZW,Zimbabwe
+HRE,+02:00,+02:00,ZW,Zimbabwe
+KAB,+02:00,+02:00,ZW,Zimbabwe
+MJW,+02:00,+02:00,ZW,Zimbabwe
+UTA,+02:00,+02:00,ZW,Zimbabwe
+MVZ,+02:00,+02:00,ZW,Zimbabwe
+GWE,+02:00,+02:00,ZW,Zimbabwe
+HWN,+02:00,+02:00,ZW,Zimbabwe
+WKI,+02:00,+02:00,ZW,Zimbabwe
+CEH,+02:00,+02:00,MW,Malawi
+BLZ,+02:00,+02:00,MW,Malawi
+CMK,+02:00,+02:00,MW,Malawi
+DWA,+02:00,+02:00,MW,Malawi
+KGJ,+02:00,+02:00,MW,Malawi
+KBQ,+02:00,+02:00,MW,Malawi
+LLW,+02:00,+02:00,MW,Malawi
+LIX,+02:00,+02:00,MW,Malawi
+MAI,+02:00,+02:00,MW,Malawi
+MYZ,+02:00,+02:00,MW,Malawi
+LMB,+02:00,+02:00,MW,Malawi
+ZZU,+02:00,+02:00,MW,Malawi
+LEF,+02:00,+02:00,LS,Lesotho
+LRB,+02:00,+02:00,LS,Lesotho
+LES,+02:00,+02:00,LS,Lesotho
+MFC,+02:00,+02:00,LS,Lesotho
+MKH,+02:00,+02:00,LS,Lesotho
+MSU,+02:00,+02:00,LS,Lesotho
+NKU,+02:00,+02:00,LS,Lesotho
+PEL,+02:00,+02:00,LS,Lesotho
+UTG,+02:00,+02:00,LS,Lesotho
+UNE,+02:00,+02:00,LS,Lesotho
+SHK,+02:00,+02:00,LS,Lesotho
+SKQ,+02:00,+02:00,LS,Lesotho
+SOK,+02:00,+02:00,LS,Lesotho
+SHZ,+02:00,+02:00,LS,Lesotho
+THB,+02:00,+02:00,LS,Lesotho
+TKO,+02:00,+02:00,LS,Lesotho
+AKE,+01:00,+01:00,GA,Gabon
+GAX,+01:00,+01:00,GA,Gabon
+BKO,+00:00,+00:00,ML,Mali
+GUD,+00:00,+00:00,ML,Mali
+GAQ,+00:00,+00:00,ML,Mali
+KNZ,+00:00,+00:00,ML,Mali
+KTX,+00:00,+00:00,ML,Mali
+KYS,+00:00,+00:00,ML,Mali
+MZI,+00:00,+00:00,ML,Mali
+NRM,+00:00,+00:00,ML,Mali
+NIX,+00:00,+00:00,ML,Mali
+KSS,+00:00,+00:00,ML,Mali
+TOM,+00:00,+00:00,ML,Mali
+EYL,+00:00,+00:00,ML,Mali
+HOY,+00:00,+01:00,GB,United Kingdom
+DOC,+00:00,+01:00,GB,United Kingdom
+FLH,+00:00,+01:00,GB,United Kingdom
+FOA,+00:00,+01:00,GB,United Kingdom
+OUK,+00:00,+01:00,GB,United Kingdom
+PSV,+00:00,+01:00,GB,United Kingdom
+GBM,+03:00,+03:00,SO,Somalia
+BJL,+00:00,+00:00,GM,Gambia
+FUE,+01:00,+02:00,ES,Spain
+GMZ,+01:00,+02:00,ES,Spain
+VDE,+01:00,+02:00,ES,Spain
+SPC,+01:00,+02:00,ES,Spain
+LPA,+01:00,+02:00,ES,Spain
+ACE,+01:00,+02:00,ES,Spain
+TFS,+01:00,+02:00,ES,Spain
+TFN,+01:00,+02:00,ES,Spain
+GDA,+01:00,+01:00,CF,Central African Republic
+JCU,+01:00,+02:00,ES,Spain
+MLN,+01:00,+02:00,ES,Spain
+BTE,+00:00,+00:00,SL,Sierra Leone
+KBS,+00:00,+00:00,SL,Sierra Leone
+GBK,+00:00,+00:00,SL,Sierra Leone
+HGS,+00:00,+00:00,SL,Sierra Leone
+KBA,+00:00,+00:00,SL,Sierra Leone
+KEN,+00:00,+00:00,SL,Sierra Leone
+FNA,+00:00,+00:00,SL,Sierra Leone
+WYE,+00:00,+00:00,SL,Sierra Leone
+BQE,+00:00,+00:00,GW,Guinea-Bissau
+OXB,+00:00,+00:00,GW,Guinea-Bissau
+GHE,−05:00,−05:00,PA,Panama
+UCN,+00:00,+00:00,LR,Liberia
+CPA,+00:00,+00:00,LR,Liberia
+SNI,+00:00,+00:00,LR,Liberia
+MLW,+00:00,+00:00,LR,Liberia
+NIA,+00:00,+00:00,LR,Liberia
+ROB,+00:00,+00:00,LR,Liberia
+SAZ,+00:00,+00:00,LR,Liberia
+THC,+00:00,+00:00,LR,Liberia
+VOI,+00:00,+00:00,LR,Liberia
+AGA,+01:00,+00:00,MA,Morocco
+TTA,+01:00,+00:00,MA,Morocco
+OZG,+01:00,+00:00,MA,Morocco
+UAR,+01:00,+00:00,MA,Morocco
+FEZ,+01:00,+00:00,MA,Morocco
+ERH,+01:00,+00:00,MA,Morocco
+MEK,+01:00,+00:00,MA,Morocco
+OUD,+01:00,+00:00,MA,Morocco
+SMW,+01:00,+00:00,EH,Western Sahara
+GMD,+01:00,+00:00,MA,Morocco
+CAS,+01:00,+00:00,MA,Morocco
+BEM,+01:00,+00:00,MA,Morocco
+RBA,+01:00,+00:00,MA,Morocco
+SII,+01:00,+00:00,MA,Morocco
+VIL,+01:00,+00:00,EH,Western Sahara
+ESU,+01:00,+00:00,MA,Morocco
+EUN,+01:00,+00:00,EH,Western Sahara
+CMN,+01:00,+00:00,MA,Morocco
+SFI,+01:00,+00:00,MA,Morocco
+NDR,+01:00,+00:00,MA,Morocco
+RAK,+01:00,+00:00,MA,Morocco
+NNA,+01:00,+00:00,MA,Morocco
+OZZ,+01:00,+00:00,MA,Morocco
+GMQ,+08:00,+08:00,CN,China
+AHU,+01:00,+00:00,MA,Morocco
+TTU,+01:00,+00:00,MA,Morocco
+TNG,+01:00,+00:00,MA,Morocco
+GNE,+01:00,+02:00,BE,Belgium
+DSS,+00:00,+00:00,SN,Senegal
+KDA,+00:00,+00:00,SN,Senegal
+ZIG,+00:00,+00:00,SN,Senegal
+CSK,+00:00,+00:00,SN,Senegal
+KLC,+00:00,+00:00,SN,Senegal
+DKR,+00:00,+00:00,SN,Senegal
+MAX,+00:00,+00:00,SN,Senegal
+POD,+00:00,+00:00,SN,Senegal
+RDT,+00:00,+00:00,SN,Senegal
+XLS,+00:00,+00:00,SN,Senegal
+BXE,+00:00,+00:00,SN,Senegal
+KGG,+00:00,+00:00,SN,Senegal
+SMY,+00:00,+00:00,SN,Senegal
+TUD,+00:00,+00:00,SN,Senegal
+AEO,+00:00,+00:00,MR,Mauritania
+OTL,+00:00,+00:00,MR,Mauritania
+THI,+00:00,+00:00,MR,Mauritania
+TIY,+00:00,+00:00,MR,Mauritania
+BGH,+00:00,+00:00,MR,Mauritania
+KFA,+00:00,+00:00,MR,Mauritania
+TMD,+00:00,+00:00,MR,Mauritania
+EMN,+00:00,+00:00,MR,Mauritania
+AJJ,+00:00,+00:00,MR,Mauritania
+KED,+00:00,+00:00,MR,Mauritania
+MOM,+00:00,+00:00,MR,Mauritania
+NKC,+00:00,+00:00,MR,Mauritania
+SEY,+00:00,+00:00,MR,Mauritania
+THT,+00:00,+00:00,MR,Mauritania
+ATR,+00:00,+00:00,MR,Mauritania
+FGD,+00:00,+00:00,MR,Mauritania
+NDB,+00:00,+00:00,MR,Mauritania
+OUZ,+00:00,+00:00,MR,Mauritania
+GRC,+00:00,+00:00,LR,Liberia
+CIQ,−06:00,−06:00,GT,Guatemala
+DON,−06:00,−06:00,GT,Guatemala
+ENJ,−06:00,−06:00,GT,Guatemala
+PCG,−06:00,−06:00,GT,Guatemala
+TKM,−06:00,−06:00,GT,Guatemala
+UAX,−06:00,−06:00,GT,Guatemala
+PKJ,−06:00,−06:00,GT,Guatemala
+GTZ,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+CKY,+00:00,+00:00,GN,Guinea
+FIG,+00:00,+00:00,GN,Guinea
+FAA,+00:00,+00:00,GN,Guinea
+KSI,+00:00,+00:00,GN,Guinea
+LEK,+00:00,+00:00,GN,Guinea
+MCA,+00:00,+00:00,GN,Guinea
+NZE,+00:00,+00:00,GN,Guinea
+BKJ,+00:00,+00:00,GN,Guinea
+SBI,+00:00,+00:00,GN,Guinea
+GII,+00:00,+00:00,GN,Guinea
+KNN,+00:00,+00:00,GN,Guinea
+SID,−01:00,−01:00,CV,Cape Verde
+NTO,−01:00,−01:00,CV,Cape Verde
+BVC,−01:00,−01:00,CV,Cape Verde
+MMO,−01:00,−01:00,CV,Cape Verde
+MTI,−01:00,−01:00,CV,Cape Verde
+RAI,−01:00,−01:00,CV,Cape Verde
+SFL,−01:00,−01:00,CV,Cape Verde
+SNE,−01:00,−01:00,CV,Cape Verde
+VXE,−01:00,−01:00,CV,Cape Verde
+GWW,+01:00,+02:00,DE,Germany
+BCG,−04:00,−04:00,GY,Guyana
+BTO,−03:00,−03:00,SR,Suriname
+DOE,−03:00,−03:00,SR,Suriname
+LDO,−03:00,−03:00,SR,Suriname
+WSO,−03:00,−03:00,SR,Suriname
+GZI,+04:30,+04:30,AF,Afghanistan
+ADD,+03:00,+03:00,ET,Ethiopia
+AMH,+03:00,+03:00,ET,Ethiopia
+AXU,+03:00,+03:00,ET,Ethiopia
+BCO,+03:00,+03:00,ET,Ethiopia
+BJR,+03:00,+03:00,ET,Ethiopia
+BEI,+03:00,+03:00,ET,Ethiopia
+DGC,+03:00,+03:00,ET,Ethiopia
+DSE,+03:00,+03:00,ET,Ethiopia
+DEM,+03:00,+03:00,ET,Ethiopia
+DBM,+03:00,+03:00,ET,Ethiopia
+DIR,+03:00,+03:00,ET,Ethiopia
+DBT,+03:00,+03:00,ET,Ethiopia
+FNH,+03:00,+03:00,ET,Ethiopia
+GOB,+03:00,+03:00,ET,Ethiopia
+GNN,+03:00,+03:00,ET,Ethiopia
+GMB,+03:00,+03:00,ET,Ethiopia
+GDQ,+03:00,+03:00,ET,Ethiopia
+GDE,+03:00,+03:00,ET,Ethiopia
+GOR,+03:00,+03:00,ET,Ethiopia
+QHR,+03:00,+03:00,ET,Ethiopia
+HUE,+03:00,+03:00,ET,Ethiopia
+JIJ,+03:00,+03:00,ET,Ethiopia
+JIM,+03:00,+03:00,ET,Ethiopia
+ABK,+03:00,+03:00,ET,Ethiopia
+LFO,+03:00,+03:00,ET,Ethiopia
+AWA,+03:00,+03:00,ET,Ethiopia
+LLI,+03:00,+03:00,ET,Ethiopia
+MKS,+03:00,+03:00,ET,Ethiopia
+MQX,+03:00,+03:00,ET,Ethiopia
+ETE,+03:00,+03:00,ET,Ethiopia
+NDM,+03:00,+03:00,ET,Ethiopia
+MUJ,+03:00,+03:00,ET,Ethiopia
+MTF,+03:00,+03:00,ET,Ethiopia
+EGL,+03:00,+03:00,ET,Ethiopia
+NEJ,+03:00,+03:00,ET,Ethiopia
+NEK,+03:00,+03:00,ET,Ethiopia
+PWI,+03:00,+03:00,ET,Ethiopia
+SXU,+03:00,+03:00,ET,Ethiopia
+SKR,+03:00,+03:00,ET,Ethiopia
+SZE,+03:00,+03:00,ET,Ethiopia
+ASO,+03:00,+03:00,ET,Ethiopia
+TIE,+03:00,+03:00,ET,Ethiopia
+WAC,+03:00,+03:00,ET,Ethiopia
+WRA,+03:00,+03:00,ET,Ethiopia
+BJM,+02:00,+02:00,BI,Burundi
+GID,+02:00,+02:00,BI,Burundi
+KRE,+02:00,+02:00,BI,Burundi
+HBQ,+08:00,+08:00,CN,China
+HBT,+05:30,+05:30,LK,Sri Lanka
+ALU,+03:00,+03:00,SO,Somalia
+BIB,+03:00,+03:00,SO,Somalia
+CXN,+03:00,+03:00,SO,Somalia
+BSY,+03:00,+03:00,SO,Somalia
+HCM,+03:00,+03:00,SO,Somalia
+BSA,+03:00,+03:00,SO,Somalia
+GSR,+03:00,+03:00,SO,Somalia
+HGA,+03:00,+03:00,SO,Somalia
+BBO,+03:00,+03:00,SO,Somalia
+LGX,+03:00,+03:00,SO,Somalia
+KMU,+03:00,+03:00,SO,Somalia
+MGQ,+03:00,+03:00,SO,Somalia
+BLW,+03:00,+03:00,SO,Somalia
+CMO,+03:00,+03:00,SO,Somalia
+GLK,+03:00,+03:00,SO,Somalia
+CMS,+03:00,+03:00,SO,Somalia
+ERA,+03:00,+03:00,SO,Somalia
+BUO,+03:00,+03:00,SO,Somalia
+GGR,+03:00,+03:00,SO,Somalia
+JIB,+03:00,+03:00,DJ,Djibouti
+AII,+03:00,+03:00,DJ,Djibouti
+MHI,+03:00,+03:00,DJ,Djibouti
+OBC,+03:00,+03:00,DJ,Djibouti
+TDJ,+03:00,+03:00,DJ,Djibouti
+SEW,+02:00,+02:00,EG,Egypt
+EMY,+02:00,+02:00,EG,Egypt
+SQK,+02:00,+02:00,EG,Egypt
+DBB,+02:00,+02:00,EG,Egypt
+AAC,+02:00,+02:00,EG,Egypt
+ATZ,+02:00,+02:00,EG,Egypt
+ALY,+02:00,+02:00,EG,Egypt
+HBE,+02:00,+02:00,EG,Egypt
+ABS,+02:00,+02:00,EG,Egypt
+CAI,+02:00,+02:00,EG,Egypt
+CCE,+02:00,+02:00,EG,Egypt
+DAK,+02:00,+02:00,EG,Egypt
+HRG,+02:00,+02:00,EG,Egypt
+EGH,+02:00,+02:00,EG,Egypt
+UVL,+02:00,+02:00,EG,Egypt
+LXR,+02:00,+02:00,EG,Egypt
+RMF,+02:00,+02:00,EG,Egypt
+HMB,+02:00,+02:00,EG,Egypt
+MUH,+02:00,+02:00,EG,Egypt
+GSQ,+02:00,+02:00,EG,Egypt
+PSD,+02:00,+02:00,EG,Egypt
+SKV,+02:00,+02:00,EG,Egypt
+SSH,+02:00,+02:00,EG,Egypt
+ASW,+02:00,+02:00,EG,Egypt
+SPX,+02:00,+02:00,EG,Egypt
+TCP,+02:00,+02:00,EG,Egypt
+ELT,+02:00,+02:00,EG,Egypt
+ASM,+03:00,+03:00,ER,Eritrea
+MSW,+03:00,+03:00,ER,Eritrea
+ASA,+03:00,+03:00,ER,Eritrea
+TES,+03:00,+03:00,ER,Eritrea
+HIA,+08:00,+08:00,CN,China
+HIL,+03:00,+03:00,ET,Ethiopia
+ASV,+03:00,+03:00,KE,Kenya
+EDL,+03:00,+03:00,KE,Kenya
+EYS,+03:00,+03:00,KE,Kenya
+KLK,+03:00,+03:00,KE,Kenya
+GAS,+03:00,+03:00,KE,Kenya
+HOA,+03:00,+03:00,KE,Kenya
+NBO,+03:00,+03:00,KE,Kenya
+KEU,+03:00,+03:00,KE,Kenya
+GGM,+03:00,+03:00,KE,Kenya
+KIS,+03:00,+03:00,KE,Kenya
+ILU,+03:00,+03:00,KE,Kenya
+KEY,+03:00,+03:00,KE,Kenya
+KTL,+03:00,+03:00,KE,Kenya
+LKG,+03:00,+03:00,KE,Kenya
+LOK,+03:00,+03:00,KE,Kenya
+LAU,+03:00,+03:00,KE,Kenya
+LOY,+03:00,+03:00,KE,Kenya
+NDE,+03:00,+03:00,KE,Kenya
+RBT,+03:00,+03:00,KE,Kenya
+MYD,+03:00,+03:00,KE,Kenya
+MBA,+03:00,+03:00,KE,Kenya
+OYL,+03:00,+03:00,KE,Kenya
+NYE,+03:00,+03:00,KE,Kenya
+NUU,+03:00,+03:00,KE,Kenya
+WIL,+03:00,+03:00,KE,Kenya
+NYK,+03:00,+03:00,KE,Kenya
+UAS,+03:00,+03:00,KE,Kenya
+UKA,+03:00,+03:00,KE,Kenya
+WJR,+03:00,+03:00,KE,Kenya
+SRX,+02:00,+02:00,LY,Libya
+TOB,+02:00,+02:00,LY,Libya
+GHT,+02:00,+02:00,LY,Libya
+AKF,+02:00,+02:00,LY,Libya
+BEN,+02:00,+02:00,LY,Libya
+MJI,+02:00,+02:00,LY,Libya
+LAQ,+02:00,+02:00,LY,Libya
+SEB,+02:00,+02:00,LY,Libya
+TIP,+02:00,+02:00,LY,Libya
+LMQ,+02:00,+02:00,LY,Libya
+NFR,+02:00,+02:00,LY,Libya
+HUQ,+02:00,+02:00,LY,Libya
+LTD,+02:00,+02:00,LY,Libya
+ZIS,+02:00,+02:00,LY,Libya
+WAX,+02:00,+02:00,LY,Libya
+EDQ,−06:00,−06:00,HN,Honduras
+HOO,+07:00,+07:00,VN,Viet Nam
+GYI,+02:00,+02:00,RW,Rwanda
+BTQ,+02:00,+02:00,RW,Rwanda
+KGL,+02:00,+02:00,RW,Rwanda
+RHG,+02:00,+02:00,RW,Rwanda
+KME,+02:00,+02:00,RW,Rwanda
+ATB,+02:00,+02:00,SD,Sudan
+EDB,+02:00,+02:00,SD,Sudan
+DOG,+02:00,+02:00,SD,Sudan
+RSS,+02:00,+02:00,SD,Sudan
+HGI,+02:00,+02:00,SS,South Sudan
+ELF,+02:00,+02:00,SD,Sudan
+GSU,+02:00,+02:00,SD,Sudan
+DNX,+02:00,+02:00,SD,Sudan
+EGN,+02:00,+02:00,SD,Sudan
+HEG,+02:00,+02:00,SD,Sudan
+HSJ,+08:00,+08:00,CN,China
+KSL,+02:00,+02:00,SD,Sudan
+GBU,+02:00,+02:00,SD,Sudan
+KST,+02:00,+02:00,SD,Sudan
+KDX,+02:00,+02:00,SD,Sudan
+RBX,+02:00,+02:00,SS,South Sudan
+MWE,+02:00,+02:00,SD,Sudan
+NUD,+02:00,+02:00,SD,Sudan
+UYL,+02:00,+02:00,SD,Sudan
+NHF,+02:00,+02:00,SD,Sudan
+EBD,+02:00,+02:00,SD,Sudan
+PZU,+02:00,+02:00,SD,Sudan
+JUB,+02:00,+02:00,SS,South Sudan
+MAK,+02:00,+02:00,SS,South Sudan
+KRT,+02:00,+02:00,SD,Sudan
+WHF,+02:00,+02:00,SD,Sudan
+DNI,+02:00,+02:00,SD,Sudan
+WUU,+02:00,+02:00,SS,South Sudan
+ZLX,+02:00,+02:00,SD,Sudan
+ARK,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+BKZ,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+DAR,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+DOD,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+MBI,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+IRI,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+TKQ,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+KIY,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+JRO,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+LDI,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+LKY,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+MFA,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+MWN,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+XMI,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+NPY,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+QSI,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+MYW,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+MUZ,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+MWZ,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+NCH,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+JOM,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+PMA,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+SEU,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+SGX,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+SUT,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+SHY,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+TBO,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+TGT,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+ZNZ,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+RUA,+03:00,+03:00,UG,Uganda
+EBB,+03:00,+03:00,UG,Uganda
+ULU,+03:00,+03:00,UG,Uganda
+JIN,+03:00,+03:00,UG,Uganda
+KLA,+03:00,+03:00,UG,Uganda
+PAF,+03:00,+03:00,UG,Uganda
+KSE,+03:00,+03:00,UG,Uganda
+MBQ,+03:00,+03:00,UG,Uganda
+KCU,+03:00,+03:00,UG,Uganda
+SRT,+03:00,+03:00,UG,Uganda
+TRY,+03:00,+03:00,UG,Uganda
+IJA,+01:00,+02:00,NL,Netherlands
+IBL,+02:00,+02:00,MZ,Mozambique
+ICO,+08:00,+08:00,PH,Philippines
+KCI,+09:00,+09:00,TL,Timor-Leste
+IMG,+02:00,+02:00,MZ,Mozambique
+PYG,+05:30,+05:30,IN,India
+VDY,+05:30,+05:30,IN,India
+JGB,+05:30,+05:30,IN,India
+NVY,+05:30,+05:30,IN,India
+RJI,+05:30,+05:30,IN,India
+TEI,+05:30,+05:30,IN,India
+INE,+02:00,+02:00,MZ,Mozambique
+KHA,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+GSM,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IRU,+05:30,+05:30,LK,Sri Lanka
+TYO,+09:00,+09:00,JP,Japan
+ISG,+09:00,+09:00,JP,Japan
+MIL,+01:00,+02:00,IT,Italy
+ROM,+01:00,+02:00,IT,Italy
+TQR,+01:00,+02:00,IT,Italy
+IVI,−05:00,−05:00,PA,Panama
+JGD,+08:00,+08:00,CN,China
+JIC,+08:00,+08:00,CN,China
+JIQ,+08:00,+08:00,CN,China
+JNZ,+08:00,+08:00,CN,China
+JUH,+08:00,+08:00,CN,China
+KBH,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+KDW,+05:30,+05:30,LK,Sri Lanka
+KDZ,+05:30,+05:30,LK,Sri Lanka
+JJM,+03:00,+03:00,KE,Kenya
+VPG,+03:00,+03:00,KE,Kenya
+KTJ,+03:00,+03:00,KE,Kenya
+OSJ,+03:00,+03:00,KE,Kenya
+OLG,+03:00,+03:00,KE,Kenya
+HKR,+03:00,+03:00,KE,Kenya
+ANA,+03:00,+03:00,KE,Kenya
+OLX,+03:00,+03:00,KE,Kenya
+KRV,+03:00,+03:00,KE,Kenya
+KIU,+03:00,+03:00,KE,Kenya
+LBK,+03:00,+03:00,KE,Kenya
+LBN,+03:00,+03:00,KE,Kenya
+LKU,+03:00,+03:00,KE,Kenya
+MUM,+03:00,+03:00,KE,Kenya
+KEZ,+05:30,+05:30,LK,Sri Lanka
+KHL,+06:00,+06:00,BD,Bangladesh
+KMT,+07:00,+07:00,KH,Cambodia
+KOL,+01:00,+01:00,CF,Central African Republic
+YJS,+09:00,+09:00,KP,"Korea, Democratic People's Republic of"
+RGO,+09:00,+09:00,KP,"Korea, Democratic People's Republic of"
+JCJ,+09:00,+09:00,KR,"Korea, Republic of"
+KTC,+00:00,+00:00,CI,CÃ´te d'Ivoire
+KWY,+03:00,+03:00,KE,Kenya
+LAC,+08:00,+08:00,MY,Malaysia
+TIA,+01:00,+02:00,AL,Albania
+BOJ,+02:00,+03:00,BG,Bulgaria
+GOZ,+02:00,+03:00,BG,Bulgaria
+LBM,+02:00,+02:00,MZ,Mozambique
+PDV,+02:00,+03:00,BG,Bulgaria
+ROU,+02:00,+03:00,BG,Bulgaria
+SOF,+02:00,+03:00,BG,Bulgaria
+SLS,+02:00,+03:00,BG,Bulgaria
+SZR,+02:00,+03:00,BG,Bulgaria
+TGV,+02:00,+03:00,BG,Bulgaria
+VAR,+02:00,+03:00,BG,Bulgaria
+ECN,+02:00,+03:00,CY,Cyprus
+LCA,+02:00,+03:00,CY,Cyprus
+LCP,−03:00,−03:00,AR,Argentina
+PFO,+02:00,+03:00,CY,Cyprus
+AKT,+00:00,+01:00,GB,United Kingdom
+DBV,+01:00,+02:00,HR,Croatia
+LSZ,+01:00,+02:00,HR,Croatia
+OSI,+01:00,+02:00,HR,Croatia
+PUY,+01:00,+02:00,HR,Croatia
+RJK,+01:00,+02:00,HR,Croatia
+BWK,+01:00,+02:00,HR,Croatia
+SPU,+01:00,+02:00,HR,Croatia
+ZAG,+01:00,+02:00,HR,Croatia
+ZAD,+01:00,+02:00,HR,Croatia
+ABC,+01:00,+02:00,ES,Spain
+ALC,+01:00,+02:00,ES,Spain
+LEI,+01:00,+02:00,ES,Spain
+OVD,+01:00,+02:00,ES,Spain
+ODB,+01:00,+02:00,ES,Spain
+BIO,+01:00,+02:00,ES,Spain
+RGS,+01:00,+02:00,ES,Spain
+BCN,+01:00,+02:00,ES,Spain
+BJZ,+01:00,+02:00,ES,Spain
+CDT,+01:00,+02:00,ES,Spain
+LCG,+01:00,+02:00,ES,Spain
+ECV,+01:00,+02:00,ES,Spain
+ILD,+01:00,+02:00,ES,Spain
+GRO,+01:00,+02:00,ES,Spain
+GRX,+01:00,+02:00,ES,Spain
+HSK,+01:00,+02:00,ES,Spain
+IBZ,+01:00,+02:00,ES,Spain
+XRY,+01:00,+02:00,ES,Spain
+MJV,+01:00,+02:00,ES,Spain
+QSA,+01:00,+02:00,ES,Spain
+LEN,+01:00,+02:00,ES,Spain
+RJL,+01:00,+02:00,ES,Spain
+MAD,+01:00,+02:00,ES,Spain
+AGP,+01:00,+02:00,ES,Spain
+MAH,+01:00,+02:00,ES,Spain
+OZP,+01:00,+02:00,ES,Spain
+LEO,+01:00,+01:00,GA,Gabon
+PMI,+01:00,+02:00,ES,Spain
+PNA,+01:00,+02:00,ES,Spain
+CQM,+01:00,+02:00,ES,Spain
+REU,+01:00,+02:00,ES,Spain
+ROZ,+01:00,+02:00,ES,Spain
+SLM,+01:00,+02:00,ES,Spain
+EAS,+01:00,+02:00,ES,Spain
+SCQ,+01:00,+02:00,ES,Spain
+LEU,+01:00,+02:00,ES,Spain
+TEV,+01:00,+02:00,ES,Spain
+TOJ,+01:00,+02:00,ES,Spain
+VLC,+01:00,+02:00,ES,Spain
+VLL,+01:00,+02:00,ES,Spain
+VIT,+01:00,+02:00,ES,Spain
+VGO,+01:00,+02:00,ES,Spain
+SDR,+01:00,+02:00,ES,Spain
+ZAZ,+01:00,+02:00,ES,Spain
+SVQ,+01:00,+02:00,ES,Spain
+DPE,+01:00,+02:00,FR,France
+CQF,+01:00,+02:00,FR,France
+BYF,+01:00,+02:00,FR,France
+LTQ,+01:00,+02:00,FR,France
+XVS,+01:00,+02:00,FR,France
+AGF,+01:00,+02:00,FR,France
+BOD,+01:00,+02:00,FR,France
+EGC,+01:00,+02:00,FR,France
+CNG,+01:00,+02:00,FR,France
+LRH,+01:00,+02:00,FR,France
+PIS,+01:00,+02:00,FR,France
+MCU,+01:00,+02:00,FR,France
+LIG,+01:00,+02:00,FR,France
+NIT,+01:00,+02:00,FR,France
+TLS,+01:00,+02:00,FR,France
+PUF,+01:00,+02:00,FR,France
+LDE,+01:00,+02:00,FR,France
+ANG,+01:00,+02:00,FR,France
+PGX,+01:00,+02:00,FR,France
+XDA,+01:00,+02:00,FR,France
+BIQ,+01:00,+02:00,FR,France
+ZAO,+01:00,+02:00,FR,France
+LBI,+01:00,+02:00,FR,France
+DCM,+01:00,+02:00,FR,France
+RDZ,+01:00,+02:00,FR,France
+RYN,+01:00,+02:00,FR,France
+RCO,+01:00,+02:00,FR,France
+IDY,+01:00,+02:00,FR,France
+CMR,+01:00,+02:00,FR,France
+DLE,+01:00,+02:00,FR,France
+MVV,+01:00,+02:00,FR,France
+OBS,+01:00,+02:00,FR,France
+LPY,+01:00,+02:00,FR,France
+AHZ,+01:00,+02:00,FR,France
+ETZ,+01:00,+02:00,FR,France
+ANE,+01:00,+02:00,FR,France
+BIA,+01:00,+02:00,FR,France
+CLY,+01:00,+02:00,FR,France
+FSC,+01:00,+02:00,FR,France
+AJA,+01:00,+02:00,FR,France
+PRP,+01:00,+02:00,FR,France
+SOZ,+01:00,+02:00,FR,France
+MFX,+01:00,+02:00,FR,France
+AUF,+01:00,+02:00,FR,France
+CMF,+01:00,+02:00,FR,France
+CFE,+01:00,+02:00,FR,France
+BOU,+01:00,+02:00,FR,France
+QNJ,+01:00,+02:00,FR,France
+CVF,+01:00,+02:00,FR,France
+LYS,+01:00,+02:00,FR,France
+SYT,+01:00,+02:00,FR,France
+RNE,+01:00,+02:00,FR,France
+NCY,+01:00,+02:00,FR,France
+GNB,+01:00,+02:00,FR,France
+VAF,+01:00,+02:00,FR,France
+VHY,+01:00,+02:00,FR,France
+AUR,+01:00,+02:00,FR,France
+CHR,+01:00,+02:00,FR,France
+LYN,+01:00,+02:00,FR,France
+CEQ,+01:00,+02:00,FR,France
+EBU,+01:00,+02:00,FR,France
+CCF,+01:00,+02:00,FR,France
+MRS,+01:00,+02:00,FR,France
+NCE,+01:00,+02:00,FR,France
+XOG,+01:00,+02:00,FR,France
+PGF,+01:00,+02:00,FR,France
+CTT,+01:00,+02:00,FR,France
+BAE,+01:00,+02:00,FR,France
+MPL,+01:00,+02:00,FR,France
+BZR,+01:00,+02:00,FR,France
+AVN,+01:00,+02:00,FR,France
+GAT,+01:00,+02:00,FR,France
+MEN,+01:00,+02:00,FR,France
+SCP,+01:00,+02:00,FR,France
+BVA,+01:00,+02:00,FR,France
+EVX,+01:00,+02:00,FR,France
+LEH,+01:00,+02:00,FR,France
+XCR,+01:00,+02:00,FR,France
+LSO,+01:00,+02:00,FR,France
+URO,+01:00,+02:00,FR,France
+TUF,+01:00,+02:00,FR,France
+CET,+01:00,+02:00,FR,France
+LVA,+01:00,+02:00,FR,France
+ORE,+01:00,+02:00,FR,France
+LBG,+01:00,+02:00,FR,France
+CSF,+01:00,+02:00,FR,France
+CDG,+01:00,+02:00,FR,France
+JDP,+01:00,+02:00,FR,France
+TNF,+01:00,+02:00,FR,France
+ORY,+01:00,+02:00,FR,France
+POX,+01:00,+02:00,FR,France
+VIY,+01:00,+02:00,FR,France
+NVS,+01:00,+02:00,FR,France
+XME,+01:00,+02:00,FR,France
+LIL,+01:00,+02:00,FR,France
+HZB,+01:00,+02:00,FR,France
+XCZ,+01:00,+02:00,FR,France
+BES,+01:00,+02:00,FR,France
+CER,+01:00,+02:00,FR,France
+DNR,+01:00,+02:00,FR,France
+LBY,+01:00,+02:00,FR,France
+GFR,+01:00,+02:00,FR,France
+DOL,+01:00,+02:00,FR,France
+LRT,+01:00,+02:00,FR,France
+EDM,+01:00,+02:00,FR,France
+LDV,+01:00,+02:00,FR,France
+CFR,+01:00,+02:00,FR,France
+LME,+01:00,+02:00,FR,France
+RNS,+01:00,+02:00,FR,France
+LAI,+01:00,+02:00,FR,France
+UIP,+01:00,+02:00,FR,France
+NTE,+01:00,+02:00,FR,France
+SBK,+01:00,+02:00,FR,France
+MXN,+01:00,+02:00,FR,France
+VNE,+01:00,+02:00,FR,France
+SNR,+01:00,+02:00,FR,France
+BSL,+01:00,+02:00,FR,France
+DIJ,+01:00,+02:00,FR,France
+MZM,+01:00,+02:00,FR,France
+EPL,+01:00,+02:00,FR,France
+BVE,+01:00,+02:00,FR,France
+ENC,+01:00,+02:00,FR,France
+BOR,+01:00,+02:00,FR,France
+RHE,+01:00,+02:00,FR,France
+SXB,+01:00,+02:00,FR,France
+TLN,+01:00,+02:00,FR,France
+FRJ,+01:00,+02:00,FR,France
+FNI,+01:00,+02:00,FR,France
+LTT,+01:00,+02:00,FR,France
+MQC,−03:00,−02:00,PM,Saint Pierre and Miquelon
+FSP,−03:00,−02:00,PM,Saint Pierre and Miquelon
+PYR,+02:00,+03:00,GR,Greece
+AGQ,+02:00,+03:00,GR,Greece
+AXD,+02:00,+03:00,GR,Greece
+HEW,+02:00,+03:00,GR,Greece
+ATH,+02:00,+03:00,GR,Greece
+VOL,+02:00,+03:00,GR,Greece
+JKH,+02:00,+03:00,GR,Greece
+PKH,+02:00,+03:00,GR,Greece
+JIK,+02:00,+03:00,GR,Greece
+IOA,+02:00,+03:00,GR,Greece
+HER,+02:00,+03:00,GR,Greece
+KSO,+02:00,+03:00,GR,Greece
+KIT,+02:00,+03:00,GR,Greece
+EFL,+02:00,+03:00,GR,Greece
+KZS,+02:00,+03:00,GR,Greece
+KLX,+02:00,+03:00,GR,Greece
+KGS,+02:00,+03:00,GR,Greece
+AOK,+02:00,+03:00,GR,Greece
+CFU,+02:00,+03:00,GR,Greece
+KSJ,+02:00,+03:00,GR,Greece
+KVA,+02:00,+03:00,GR,Greece
+JKL,+02:00,+03:00,GR,Greece
+KZI,+02:00,+03:00,GR,Greece
+LRS,+02:00,+03:00,GR,Greece
+LXS,+02:00,+03:00,GR,Greece
+LRA,+02:00,+03:00,GR,Greece
+JMK,+02:00,+03:00,GR,Greece
+MLO,+02:00,+03:00,GR,Greece
+MJT,+02:00,+03:00,GR,Greece
+JNX,+02:00,+03:00,GR,Greece
+PAS,+02:00,+03:00,GR,Greece
+JTY,+02:00,+03:00,GR,Greece
+PVK,+02:00,+03:00,GR,Greece
+RHO,+02:00,+03:00,GR,Greece
+GPA,+02:00,+03:00,GR,Greece
+CHQ,+02:00,+03:00,GR,Greece
+JSI,+02:00,+03:00,GR,Greece
+SMI,+02:00,+03:00,GR,Greece
+JSY,+02:00,+03:00,GR,Greece
+SPJ,+02:00,+03:00,GR,Greece
+JTR,+02:00,+03:00,GR,Greece
+JSH,+02:00,+03:00,GR,Greece
+SKU,+02:00,+03:00,GR,Greece
+SKG,+02:00,+03:00,GR,Greece
+ZTH,+02:00,+03:00,GR,Greece
+BUD,+01:00,+02:00,HU,Hungary
+DEB,+01:00,+02:00,HU,Hungary
+MCQ,+01:00,+02:00,HU,Hungary
+PEV,+01:00,+02:00,HU,Hungary
+SOB,+01:00,+02:00,HU,Hungary
+TZR,+01:00,+02:00,HU,Hungary
+QAQ,+01:00,+02:00,IT,Italy
+CRV,+01:00,+02:00,IT,Italy
+BRI,+01:00,+02:00,IT,Italy
+FOG,+01:00,+02:00,IT,Italy
+TAR,+01:00,+02:00,IT,Italy
+LCC,+01:00,+02:00,IT,Italy
+PSR,+01:00,+02:00,IT,Italy
+BDS,+01:00,+02:00,IT,Italy
+SUF,+01:00,+02:00,IT,Italy
+CIY,+01:00,+02:00,IT,Italy
+CTA,+01:00,+02:00,IT,Italy
+LMP,+01:00,+02:00,IT,Italy
+PNL,+01:00,+02:00,IT,Italy
+PMO,+01:00,+02:00,IT,Italy
+REG,+01:00,+02:00,IT,Italy
+TPS,+01:00,+02:00,IT,Italy
+NSY,+01:00,+02:00,IT,Italy
+BLX,+01:00,+02:00,IT,Italy
+CDF,+01:00,+02:00,IT,Italy
+RAN,+01:00,+02:00,IT,Italy
+AHO,+01:00,+02:00,IT,Italy
+DCI,+01:00,+02:00,IT,Italy
+CAG,+01:00,+02:00,IT,Italy
+OLB,+01:00,+02:00,IT,Italy
+FNU,+01:00,+02:00,IT,Italy
+TTB,+01:00,+02:00,IT,Italy
+MXP,+01:00,+02:00,IT,Italy
+BGY,+01:00,+02:00,IT,Italy
+TRN,+01:00,+02:00,IT,Italy
+ALL,+01:00,+02:00,IT,Italy
+GOA,+01:00,+02:00,IT,Italy
+LIN,+01:00,+02:00,IT,Italy
+PMF,+01:00,+02:00,IT,Italy
+AOT,+01:00,+02:00,IT,Italy
+CUF,+01:00,+02:00,IT,Italy
+AVB,+01:00,+02:00,IT,Italy
+BZO,+01:00,+02:00,IT,Italy
+UDN,+01:00,+02:00,IT,Italy
+BLQ,+01:00,+02:00,IT,Italy
+TSF,+01:00,+02:00,IT,Italy
+FRL,+01:00,+02:00,IT,Italy
+VBS,+01:00,+02:00,IT,Italy
+TRS,+01:00,+02:00,IT,Italy
+RMI,+01:00,+02:00,IT,Italy
+VIC,+01:00,+02:00,IT,Italy
+QPA,+01:00,+02:00,IT,Italy
+VRN,+01:00,+02:00,IT,Italy
+AOI,+01:00,+02:00,IT,Italy
+VCE,+01:00,+02:00,IT,Italy
+LCV,+01:00,+02:00,IT,Italy
+QRT,+01:00,+02:00,IT,Italy
+SAY,+01:00,+02:00,IT,Italy
+QLP,+01:00,+02:00,IT,Italy
+CIA,+01:00,+02:00,IT,Italy
+FCO,+01:00,+02:00,IT,Italy
+QSR,+01:00,+02:00,IT,Italy
+EBA,+01:00,+02:00,IT,Italy
+QLT,+01:00,+02:00,IT,Italy
+NAP,+01:00,+02:00,IT,Italy
+PSA,+01:00,+02:00,IT,Italy
+FLR,+01:00,+02:00,IT,Italy
+GRS,+01:00,+02:00,IT,Italy
+PEG,+01:00,+02:00,IT,Italy
+LJU,+01:00,+02:00,SI,Slovenia
+MBX,+01:00,+02:00,SI,Slovenia
+POW,+01:00,+02:00,SI,Slovenia
+LKC,+01:00,+01:00,CG,Congo
+GTW,+01:00,+02:00,CZ,Czech Republic
+UHE,+01:00,+02:00,CZ,Czech Republic
+KLV,+01:00,+02:00,CZ,Czech Republic
+MKA,+01:00,+02:00,CZ,Czech Republic
+OSR,+01:00,+02:00,CZ,Czech Republic
+OLO,+01:00,+02:00,CZ,Czech Republic
+PED,+01:00,+02:00,CZ,Czech Republic
+PRV,+01:00,+02:00,CZ,Czech Republic
+PRG,+01:00,+02:00,CZ,Czech Republic
+BRQ,+01:00,+02:00,CZ,Czech Republic
+VOD,+01:00,+02:00,CZ,Czech Republic
+ZBE,+01:00,+02:00,CZ,Czech Republic
+TLV,+02:00,+03:00,IL,Israel
+BEV,+02:00,+03:00,IL,Israel
+ETM,+02:00,+03:00,IL,Israel
+ETH,+02:00,+03:00,IL,Israel
+EIY,+02:00,+03:00,IL,Israel
+LLH,−06:00,−06:00,HN,Honduras
+HFA,+02:00,+03:00,IL,Israel
+RPN,+02:00,+03:00,IL,Israel
+KSW,+02:00,+03:00,IL,Israel
+MTZ,+02:00,+03:00,IL,Israel
+VTM,+02:00,+03:00,IL,Israel
+VDA,+02:00,+03:00,IL,Israel
+MIP,+02:00,+03:00,IL,Israel
+SDV,+02:00,+03:00,IL,Israel
+YOT,+02:00,+03:00,IL,Israel
+GZM,+01:00,+02:00,MT,Malta
+MLA,+01:00,+02:00,MT,Malta
+LMZ,+02:00,+02:00,MZ,Mozambique
+MCM,+01:00,+02:00,MC,Monaco
+LOF,+12:00,+12:00,MH,Marshall Islands
+HOH,+01:00,+02:00,AT,Austria
+GRZ,+01:00,+02:00,AT,Austria
+INN,+01:00,+02:00,AT,Austria
+KLU,+01:00,+02:00,AT,Austria
+LNZ,+01:00,+02:00,AT,Austria
+SZG,+01:00,+02:00,AT,Austria
+VIE,+01:00,+02:00,AT,Austria
+AVR,+00:00,+01:00,PT,Portugal
+SMA,+00:00,+01:00,PT,Portugal
+BGC,+00:00,+01:00,PT,Portugal
+BYJ,+00:00,+01:00,PT,Portugal
+BGZ,+00:00,+01:00,PT,Portugal
+CHV,+00:00,+01:00,PT,Portugal
+CVU,+00:00,+01:00,PT,Portugal
+CAT,+00:00,+01:00,PT,Portugal
+FLW,+00:00,+01:00,PT,Portugal
+FAO,+00:00,+01:00,PT,Portugal
+GRW,+00:00,+01:00,PT,Portugal
+HOR,+00:00,+01:00,PT,Portugal
+TER,+00:00,+01:00,PT,Portugal
+FNC,+00:00,+01:00,PT,Portugal
+QLR,+00:00,+01:00,PT,Portugal
+PDL,+00:00,+01:00,PT,Portugal
+PIX,+00:00,+01:00,PT,Portugal
+OPO,+00:00,+01:00,PT,Portugal
+PXO,+00:00,+01:00,PT,Portugal
+LIS,+00:00,+01:00,PT,Portugal
+SIE,+00:00,+01:00,PT,Portugal
+SJZ,+00:00,+01:00,PT,Portugal
+VRL,+00:00,+01:00,PT,Portugal
+VSE,+00:00,+01:00,PT,Portugal
+BNX,+01:00,+02:00,BA,Bosnia and Herzegovina
+OMO,+01:00,+02:00,BA,Bosnia and Herzegovina
+SJJ,+01:00,+02:00,BA,Bosnia and Herzegovina
+TZL,+01:00,+02:00,BA,Bosnia and Herzegovina
+ARW,+02:00,+03:00,RO,Romania
+BCM,+02:00,+03:00,RO,Romania
+BAY,+02:00,+03:00,RO,Romania
+BBU,+02:00,+03:00,RO,Romania
+CND,+02:00,+03:00,RO,Romania
+CLJ,+02:00,+03:00,RO,Romania
+CSB,+02:00,+03:00,RO,Romania
+CRA,+02:00,+03:00,RO,Romania
+IAS,+02:00,+03:00,RO,Romania
+OMR,+02:00,+03:00,RO,Romania
+OTP,+02:00,+03:00,RO,Romania
+SBZ,+02:00,+03:00,RO,Romania
+SUJ,+02:00,+03:00,RO,Romania
+SCV,+02:00,+03:00,RO,Romania
+TCE,+02:00,+03:00,RO,Romania
+TGM,+02:00,+03:00,RO,Romania
+TSR,+02:00,+03:00,RO,Romania
+GVA,+01:00,+02:00,CH,Switzerland
+QNC,+01:00,+02:00,CH,Switzerland
+SIR,+01:00,+02:00,CH,Switzerland
+EML,+01:00,+02:00,CH,Switzerland
+ZIN,+01:00,+02:00,CH,Switzerland
+LUG,+01:00,+02:00,CH,Switzerland
+BRN,+01:00,+02:00,CH,Switzerland
+BXO,+01:00,+02:00,CH,Switzerland
+ACO,+01:00,+02:00,CH,Switzerland
+ZHI,+01:00,+02:00,CH,Switzerland
+ZRH,+01:00,+02:00,CH,Switzerland
+ZJI,+01:00,+02:00,CH,Switzerland
+ACH,+01:00,+02:00,CH,Switzerland
+SMV,+01:00,+02:00,CH,Switzerland
+GKD,+03:00,+03:00,TR,Turkey
+ESB,+03:00,+03:00,TR,Turkey
+ANK,+03:00,+03:00,TR,Turkey
+ADA,+03:00,+03:00,TR,Turkey
+UAB,+03:00,+03:00,TR,Turkey
+AFY,+03:00,+03:00,TR,Turkey
+AYT,+03:00,+03:00,TR,Turkey
+GZT,+03:00,+03:00,TR,Turkey
+KFS,+03:00,+03:00,TR,Turkey
+KYA,+03:00,+03:00,TR,Turkey
+MZH,+03:00,+03:00,TR,Turkey
+VAS,+03:00,+03:00,TR,Turkey
+ONQ,+03:00,+03:00,TR,Turkey
+MLX,+03:00,+03:00,TR,Turkey
+ASR,+03:00,+03:00,TR,Turkey
+TJK,+03:00,+03:00,TR,Turkey
+DNZ,+03:00,+03:00,TR,Turkey
+NAV,+03:00,+03:00,TR,Turkey
+ISL,+03:00,+03:00,TR,Turkey
+CII,+03:00,+03:00,TR,Turkey
+BTZ,+03:00,+03:00,TR,Turkey
+BZI,+03:00,+03:00,TR,Turkey
+BDM,+03:00,+03:00,TR,Turkey
+CKZ,+03:00,+03:00,TR,Turkey
+ADB,+03:00,+03:00,TR,Turkey
+IGL,+03:00,+03:00,TR,Turkey
+USQ,+03:00,+03:00,TR,Turkey
+KCO,+03:00,+03:00,TR,Turkey
+YEI,+03:00,+03:00,TR,Turkey
+DLM,+03:00,+03:00,TR,Turkey
+TEQ,+03:00,+03:00,TR,Turkey
+BXN,+03:00,+03:00,TR,Turkey
+AOE,+03:00,+03:00,TR,Turkey
+KZR,+03:00,+03:00,TR,Turkey
+EZS,+03:00,+03:00,TR,Turkey
+DIY,+03:00,+03:00,TR,Turkey
+ERC,+03:00,+03:00,TR,Turkey
+ERZ,+03:00,+03:00,TR,Turkey
+KSY,+03:00,+03:00,TR,Turkey
+TZX,+03:00,+03:00,TR,Turkey
+SFQ,+03:00,+03:00,TR,Turkey
+VAN,+03:00,+03:00,TR,Turkey
+BAL,+03:00,+03:00,TR,Turkey
+MSR,+03:00,+03:00,TR,Turkey
+SXZ,+03:00,+03:00,TR,Turkey
+NOP,+03:00,+03:00,TR,Turkey
+KCM,+03:00,+03:00,TR,Turkey
+AJI,+03:00,+03:00,TR,Turkey
+ADF,+03:00,+03:00,TR,Turkey
+MQM,+03:00,+03:00,TR,Turkey
+GNY,+03:00,+03:00,TR,Turkey
+NKT,+03:00,+03:00,TR,Turkey
+YKO,+03:00,+03:00,TR,Turkey
+HTY,+03:00,+03:00,TR,Turkey
+ISE,+03:00,+03:00,TR,Turkey
+EDO,+03:00,+03:00,TR,Turkey
+BJV,+03:00,+03:00,TR,Turkey
+SZF,+03:00,+03:00,TR,Turkey
+SAW,+03:00,+03:00,TR,Turkey
+IST,+03:00,+03:00,TR,Turkey
+GZP,+03:00,+03:00,TR,Turkey
+BZY,+02:00,+03:00,MD,"Moldova, Republic of"
+KIV,+02:00,+03:00,MD,"Moldova, Republic of"
+LUZ,+01:00,+02:00,PL,Poland
+GZA,+02:00,+03:00,PS,"Palestine, State of"
+LWA,+08:00,+08:00,PH,Philippines
+OHD,+01:00,+02:00,MK,"Macedonia, the Former Yugoslav Republic of"
+SKP,+01:00,+02:00,MK,"Macedonia, the Former Yugoslav Republic of"
+GIB,+01:00,+02:00,GI,Gibraltar
+BCQ,+02:00,+02:00,LY,Libya
+DNF,+02:00,+02:00,LY,Libya
+MRA,+02:00,+02:00,LY,Libya
+QUB,+02:00,+02:00,LY,Libya
+UZC,+01:00,+02:00,RS,Serbia
+BEG,+01:00,+02:00,RS,Serbia
+IVG,+01:00,+02:00,ME,Montenegro
+BJY,+01:00,+02:00,RS,Serbia
+KVO,+01:00,+02:00,RS,Serbia
+INI,+01:00,+02:00,RS,Serbia
+QND,+01:00,+02:00,RS,Serbia
+TGD,+01:00,+02:00,ME,Montenegro
+TIV,+01:00,+02:00,ME,Montenegro
+BTS,+01:00,+02:00,SK,Slovakia
+KSC,+01:00,+02:00,SK,Slovakia
+LUE,+01:00,+02:00,SK,Slovakia
+PZY,+01:00,+02:00,SK,Slovakia
+POV,+01:00,+02:00,SK,Slovakia
+SLD,+01:00,+02:00,SK,Slovakia
+TAT,+01:00,+02:00,SK,Slovakia
+ILZ,+01:00,+02:00,SK,Slovakia
+GLN,+01:00,+00:00,MA,Morocco
+GDT,−05:00,−04:00,TC,Turks and Caicos Islands
+MDS,−05:00,−04:00,TC,Turks and Caicos Islands
+NCA,−05:00,−04:00,TC,Turks and Caicos Islands
+PIC,−05:00,−04:00,TC,Turks and Caicos Islands
+PLS,−05:00,−04:00,TC,Turks and Caicos Islands
+XSC,−05:00,−04:00,TC,Turks and Caicos Islands
+SLX,−05:00,−04:00,TC,Turks and Caicos Islands
+BRX,−04:00,−04:00,DO,Dominican Republic
+CBJ,−04:00,−04:00,DO,Dominican Republic
+AZS,−04:00,−04:00,DO,Dominican Republic
+COZ,−04:00,−04:00,DO,Dominican Republic
+HEX,−04:00,−04:00,DO,Dominican Republic
+JBQ,−04:00,−04:00,DO,Dominican Republic
+LRM,−04:00,−04:00,DO,Dominican Republic
+PUJ,−04:00,−04:00,DO,Dominican Republic
+EPS,−04:00,−04:00,DO,Dominican Republic
+POP,−04:00,−04:00,DO,Dominican Republic
+SDQ,−04:00,−04:00,DO,Dominican Republic
+SJM,−04:00,−04:00,DO,Dominican Republic
+STI,−04:00,−04:00,DO,Dominican Republic
+MDV,+01:00,+01:00,GQ,Equatorial Guinea
+MEF,+01:00,+01:00,TD,Chad
+OHB,+03:00,+03:00,MG,Madagascar
+DOA,+03:00,+03:00,MG,Madagascar
+CBV,−06:00,−06:00,GT,Guatemala
+CMM,−06:00,−06:00,GT,Guatemala
+CTF,−06:00,−06:00,GT,Guatemala
+GUA,−06:00,−06:00,GT,Guatemala
+HUG,−06:00,−06:00,GT,Guatemala
+MCR,−06:00,−06:00,GT,Guatemala
+MGO,+01:00,+01:00,GA,Gabon
+PBR,−06:00,−06:00,GT,Guatemala
+PON,−06:00,−06:00,GT,Guatemala
+AQB,−06:00,−06:00,GT,Guatemala
+AAZ,−06:00,−06:00,GT,Guatemala
+RUV,−06:00,−06:00,GT,Guatemala
+LCF,−06:00,−06:00,GT,Guatemala
+RER,−06:00,−06:00,GT,Guatemala
+GSJ,−06:00,−06:00,GT,Guatemala
+FRS,−06:00,−06:00,GT,Guatemala
+AIM,+12:00,+12:00,MH,Marshall Islands
+AUL,+12:00,+12:00,MH,Marshall Islands
+BII,+12:00,+12:00,MH,Marshall Islands
+EBN,+12:00,+12:00,MH,Marshall Islands
+JAT,+12:00,+12:00,MH,Marshall Islands
+JEJ,+12:00,+12:00,MH,Marshall Islands
+KBT,+12:00,+12:00,MH,Marshall Islands
+LIK,+12:00,+12:00,MH,Marshall Islands
+LML,+12:00,+12:00,MH,Marshall Islands
+MAV,+12:00,+12:00,MH,Marshall Islands
+MJB,+12:00,+12:00,MH,Marshall Islands
+MJE,+12:00,+12:00,MH,Marshall Islands
+NDK,+12:00,+12:00,MH,Marshall Islands
+RNP,+12:00,+12:00,MH,Marshall Islands
+TIC,+12:00,+12:00,MH,Marshall Islands
+UIT,+12:00,+12:00,MH,Marshall Islands
+WJA,+12:00,+12:00,MH,Marshall Islands
+WTE,+12:00,+12:00,MH,Marshall Islands
+WTO,+12:00,+12:00,MH,Marshall Islands
+AHS,−06:00,−06:00,HN,Honduras
+BHG,−06:00,−06:00,HN,Honduras
+CAA,−06:00,−06:00,HN,Honduras
+MRJ,−06:00,−06:00,HN,Honduras
+LUI,−06:00,−06:00,HN,Honduras
+CYL,−06:00,−06:00,HN,Honduras
+CDD,−06:00,−06:00,HN,Honduras
+OAN,−06:00,−06:00,HN,Honduras
+GAC,−06:00,−06:00,HN,Honduras
+IRN,−06:00,−06:00,HN,Honduras
+GUO,−06:00,−06:00,HN,Honduras
+JUT,−06:00,−06:00,HN,Honduras
+LCE,−06:00,−06:00,HN,Honduras
+LEZ,−06:00,−06:00,HN,Honduras
+SAP,−06:00,−06:00,HN,Honduras
+GJA,−06:00,−06:00,HN,Honduras
+PCH,−06:00,−06:00,HN,Honduras
+PEU,−06:00,−06:00,HN,Honduras
+RTB,−06:00,−06:00,HN,Honduras
+SDH,−06:00,−06:00,HN,Honduras
+RUY,−06:00,−06:00,HN,Honduras
+XPL,−06:00,−06:00,HN,Honduras
+TEA,−06:00,−06:00,HN,Honduras
+TGU,−06:00,−06:00,HN,Honduras
+TJI,−06:00,−06:00,HN,Honduras
+SCD,−06:00,−06:00,HN,Honduras
+UII,−06:00,−06:00,HN,Honduras
+ORO,−06:00,−06:00,HN,Honduras
+MJS,+02:00,+02:00,MZ,Mozambique
+OCJ,−05:00,−05:00,JM,Jamaica
+KIN,−05:00,−05:00,JM,Jamaica
+MBJ,−05:00,−05:00,JM,Jamaica
+POT,−05:00,−05:00,JM,Jamaica
+NEG,−05:00,−05:00,JM,Jamaica
+KTP,−05:00,−05:00,JM,Jamaica
+MIJ,+12:00,+12:00,MH,Marshall Islands
+HEB,+06:30,+06:30,MM,Myanmar
+BEF,−06:00,−06:00,NI,Nicaragua
+BZA,−06:00,−06:00,NI,Nicaragua
+ECI,−06:00,−06:00,NI,Nicaragua
+RNI,−06:00,−06:00,NI,Nicaragua
+MGA,−06:00,−06:00,NI,Nicaragua
+NVG,−06:00,−06:00,NI,Nicaragua
+PUZ,−06:00,−06:00,NI,Nicaragua
+RFS,−06:00,−06:00,NI,Nicaragua
+NCR,−06:00,−06:00,NI,Nicaragua
+SIU,−06:00,−06:00,NI,Nicaragua
+WSP,−06:00,−06:00,NI,Nicaragua
+PDM,−05:00,−05:00,PA,Panama
+BOC,−05:00,−05:00,PA,Panama
+CTD,−05:00,−05:00,PA,Panama
+CHX,−05:00,−05:00,PA,Panama
+DAV,−05:00,−05:00,PA,Panama
+ONX,−05:00,−05:00,PA,Panama
+BLB,−05:00,−05:00,PA,Panama
+MPI,−05:00,−05:00,PA,Panama
+JQE,−05:00,−05:00,PA,Panama
+PLP,−05:00,−05:00,PA,Panama
+PAC,−05:00,−05:00,PA,Panama
+PUE,−05:00,−05:00,PA,Panama
+RIH,−05:00,−05:00,PA,Panama
+SYP,−05:00,−05:00,PA,Panama
+PTY,−05:00,−05:00,PA,Panama
+PVE,−05:00,−05:00,PA,Panama
+NBL,−05:00,−05:00,PA,Panama
+FON,−06:00,−06:00,CR,Costa Rica
+TTQ,−06:00,−06:00,CR,Costa Rica
+BAI,−06:00,−06:00,CR,Costa Rica
+BCL,−06:00,−06:00,CR,Costa Rica
+OTR,−06:00,−06:00,CR,Costa Rica
+JAP,−06:00,−06:00,CR,Costa Rica
+PLD,−06:00,−06:00,CR,Costa Rica
+DRK,−06:00,−06:00,CR,Costa Rica
+FMG,−06:00,−06:00,CR,Costa Rica
+GLF,−06:00,−06:00,CR,Costa Rica
+GPL,−06:00,−06:00,CR,Costa Rica
+PBP,−06:00,−06:00,CR,Costa Rica
+LIR,−06:00,−06:00,CR,Costa Rica
+LSL,−06:00,−06:00,CR,Costa Rica
+LIO,−06:00,−06:00,CR,Costa Rica
+CSC,−06:00,−06:00,CR,Costa Rica
+NCT,−06:00,−06:00,CR,Costa Rica
+NOB,−06:00,−06:00,CR,Costa Rica
+SJO,−06:00,−06:00,CR,Costa Rica
+PJM,−06:00,−06:00,CR,Costa Rica
+PMZ,−06:00,−06:00,CR,Costa Rica
+SYQ,−06:00,−06:00,CR,Costa Rica
+XQP,−06:00,−06:00,CR,Costa Rica
+RFR,−06:00,−06:00,CR,Costa Rica
+IPZ,−06:00,−06:00,CR,Costa Rica
+TOO,−06:00,−06:00,CR,Costa Rica
+TNO,−06:00,−06:00,CR,Costa Rica
+TMU,−06:00,−06:00,CR,Costa Rica
+UPL,−06:00,−06:00,CR,Costa Rica
+MSB,−04:00,−04:00,MF,Saint Martin (French part)
+SAL,−06:00,−06:00,SV,El Salvador
+CYA,−05:00,−04:00,HT,Haiti
+CAP,−05:00,−04:00,HT,Haiti
+JAK,−05:00,−04:00,HT,Haiti
+JEE,−05:00,−04:00,HT,Haiti
+PAP,−05:00,−04:00,HT,Haiti
+PAX,−05:00,−04:00,HT,Haiti
+MTU,+02:00,+02:00,MZ,Mozambique
+BCA,−05:00,−04:00,CU,Cuba
+BWW,−05:00,−04:00,CU,Cuba
+BYM,−05:00,−04:00,CU,Cuba
+AVI,−05:00,−04:00,CU,Cuba
+CCC,−05:00,−04:00,CU,Cuba
+CFG,−05:00,−04:00,CU,Cuba
+CYO,−05:00,−04:00,CU,Cuba
+CMW,−05:00,−04:00,CU,Cuba
+SCU,−05:00,−04:00,CU,Cuba
+NBW,−05:00,−04:00,CU,Cuba
+GAO,−05:00,−04:00,CU,Cuba
+HAV,−05:00,−04:00,CU,Cuba
+HOG,−05:00,−04:00,CU,Cuba
+VRO,−05:00,−04:00,CU,Cuba
+LCL,−05:00,−04:00,CU,Cuba
+UMA,−05:00,−04:00,CU,Cuba
+MJG,−05:00,−04:00,CU,Cuba
+MOA,−05:00,−04:00,CU,Cuba
+MZO,−05:00,−04:00,CU,Cuba
+QSN,−05:00,−04:00,CU,Cuba
+ICR,−05:00,−04:00,CU,Cuba
+GER,−05:00,−04:00,CU,Cuba
+UPB,−05:00,−04:00,CU,Cuba
+SNU,−05:00,−04:00,CU,Cuba
+SNJ,−05:00,−04:00,CU,Cuba
+SZJ,−05:00,−04:00,CU,Cuba
+USS,−05:00,−04:00,CU,Cuba
+TND,−05:00,−04:00,CU,Cuba
+VRA,−05:00,−04:00,CU,Cuba
+VTU,−05:00,−04:00,CU,Cuba
+CYB,−05:00,−05:00,KY,Cayman Islands
+LYB,−05:00,−05:00,KY,Cayman Islands
+GCM,−05:00,−05:00,KY,Cayman Islands
+MWR,+02:00,+02:00,ZA,South Africa
+GTB,+08:00,+08:00,MY,Malaysia
+GTK,+08:00,+08:00,MY,Malaysia
+LBP,+08:00,+08:00,MY,Malaysia
+LLM,+08:00,+08:00,MY,Malaysia
+MZS,+08:00,+08:00,MY,Malaysia
+SPT,+08:00,+08:00,MY,Malaysia
+MAY,−05:00,−04:00,BS,Bahamas
+ASD,−05:00,−04:00,BS,Bahamas
+TZN,−05:00,−04:00,BS,Bahamas
+MHH,−05:00,−04:00,BS,Bahamas
+SAQ,−05:00,−04:00,BS,Bahamas
+AXP,−05:00,−04:00,BS,Bahamas
+TCB,−05:00,−04:00,BS,Bahamas
+WKR,−05:00,−04:00,BS,Bahamas
+CCZ,−05:00,−04:00,BS,Bahamas
+GHC,−05:00,−04:00,BS,Bahamas
+BIM,−05:00,−04:00,BS,Bahamas
+ATC,−05:00,−04:00,BS,Bahamas
+TBI,−05:00,−04:00,BS,Bahamas
+CXY,−05:00,−04:00,BS,Bahamas
+CRI,−05:00,−04:00,BS,Bahamas
+PWN,−05:00,−04:00,BS,Bahamas
+GGT,−05:00,−04:00,BS,Bahamas
+ELH,−05:00,−04:00,BS,Bahamas
+GHB,−05:00,−04:00,BS,Bahamas
+NMC,−05:00,−04:00,BS,Bahamas
+RSD,−05:00,−04:00,BS,Bahamas
+TYM,−05:00,−04:00,BS,Bahamas
+FPO,−05:00,−04:00,BS,Bahamas
+GBI,−05:00,−04:00,BS,Bahamas
+WTD,−05:00,−04:00,BS,Bahamas
+IGA,−05:00,−04:00,BS,Bahamas
+LGI,−05:00,−04:00,BS,Bahamas
+SML,−05:00,−04:00,BS,Bahamas
+MYG,−05:00,−04:00,BS,Bahamas
+NAS,−05:00,−04:00,BS,Bahamas
+PID,−05:00,−04:00,BS,Bahamas
+DCT,−05:00,−04:00,BS,Bahamas
+RCY,−05:00,−04:00,BS,Bahamas
+MYS,+03:00,+03:00,ET,Ethiopia
+ZSA,−05:00,−04:00,BS,Bahamas
+CEL,−05:00,−04:00,BS,Bahamas
+MFW,+02:00,+02:00,MZ,Mozambique
+NTC,+02:00,+02:00,MZ,Mozambique
+IBO,+02:00,+02:00,MZ,Mozambique
+TGS,+02:00,+02:00,MZ,Mozambique
+BZE,−06:00,−06:00,BZ,Belize
+MZE,−06:00,−06:00,BZ,Belize
+CYD,−06:00,−06:00,BZ,Belize
+IMI,+12:00,+12:00,MH,Marshall Islands
+NBS,+08:00,+08:00,CN,China
+AIT,−10:00,−10:00,CK,Cook Islands
+AIU,−10:00,−10:00,CK,Cook Islands
+MGS,−10:00,−10:00,CK,Cook Islands
+MHX,−10:00,−10:00,CK,Cook Islands
+MUK,−10:00,−10:00,CK,Cook Islands
+MOI,−10:00,−10:00,CK,Cook Islands
+PZK,−10:00,−10:00,CK,Cook Islands
+PYE,−10:00,−10:00,CK,Cook Islands
+RAR,−10:00,−10:00,CK,Cook Islands
+AQS,+12:00,+13:00,FJ,Fiji
+ICI,+12:00,+13:00,FJ,Fiji
+CST,+12:00,+13:00,FJ,Fiji
+NAN,+12:00,+13:00,FJ,Fiji
+PTF,+12:00,+13:00,FJ,Fiji
+RBI,+12:00,+13:00,FJ,Fiji
+KDV,+12:00,+13:00,FJ,Fiji
+MNF,+12:00,+13:00,FJ,Fiji
+MFJ,+12:00,+13:00,FJ,Fiji
+SUV,+12:00,+13:00,FJ,Fiji
+LEV,+12:00,+13:00,FJ,Fiji
+NGI,+12:00,+13:00,FJ,Fiji
+LUC,+12:00,+13:00,FJ,Fiji
+LKB,+12:00,+13:00,FJ,Fiji
+LBS,+12:00,+13:00,FJ,Fiji
+TVU,+12:00,+13:00,FJ,Fiji
+KXF,+12:00,+13:00,FJ,Fiji
+RTA,+12:00,+13:00,FJ,Fiji
+SVU,+12:00,+13:00,FJ,Fiji
+BVF,+12:00,+13:00,FJ,Fiji
+VAU,+12:00,+13:00,FJ,Fiji
+KAY,+12:00,+13:00,FJ,Fiji
+ONU,+12:00,+13:00,FJ,Fiji
+YAS,+12:00,+13:00,FJ,Fiji
+EUA,+13:00,+13:00,TO,Tonga
+TBU,+13:00,+13:00,TO,Tonga
+HPA,+13:00,+13:00,TO,Tonga
+NFO,+13:00,+13:00,TO,Tonga
+NTT,+13:00,+13:00,TO,Tonga
+VAV,+13:00,+13:00,TO,Tonga
+TTL,+12:00,+13:00,FJ,Fiji
+VBV,+12:00,+13:00,FJ,Fiji
+VTF,+12:00,+13:00,FJ,Fiji
+GMO,+01:00,+01:00,NG,Nigeria
+PHG,+01:00,+01:00,NG,Nigeria
+QRW,+01:00,+01:00,NG,Nigeria
+FUN,+12:00,+12:00,TV,Tuvalu
+NIK,+00:00,+00:00,SN,Senegal
+IUE,−11:00,−11:00,NU,Niue
+NLH,+08:00,+08:00,CN,China
+FUT,+12:00,+12:00,WF,Wallis and Futuna
+WLS,+12:00,+12:00,WF,Wallis and Futuna
+NND,+02:00,+02:00,MZ,Mozambique
+MWP,+05:45,+05:45,NP,Nepal
+OFU,−11:00,−11:00,AS,American Samoa
+FTI,−11:00,−11:00,AS,American Samoa
+PPG,−11:00,−11:00,AS,American Samoa
+NTA,+12:00,+13:00,FJ,Fiji
+NUF,+05:30,+05:30,LK,Sri Lanka
+MTV,+11:00,+11:00,VU,Vanuatu
+SLH,+11:00,+11:00,VU,Vanuatu
+TOH,+11:00,+11:00,VU,Vanuatu
+EAE,+11:00,+11:00,VU,Vanuatu
+CCV,+11:00,+11:00,VU,Vanuatu
+LOD,+11:00,+11:00,VU,Vanuatu
+SSR,+11:00,+11:00,VU,Vanuatu
+PBJ,+11:00,+11:00,VU,Vanuatu
+LPM,+11:00,+11:00,VU,Vanuatu
+LNB,+11:00,+11:00,VU,Vanuatu
+MWF,+11:00,+11:00,VU,Vanuatu
+LNE,+11:00,+11:00,VU,Vanuatu
+NUS,+11:00,+11:00,VU,Vanuatu
+ZGU,+11:00,+11:00,VU,Vanuatu
+RCL,+11:00,+11:00,VU,Vanuatu
+SON,+11:00,+11:00,VU,Vanuatu
+TGH,+11:00,+11:00,VU,Vanuatu
+ULB,+11:00,+11:00,VU,Vanuatu
+VLS,+11:00,+11:00,VU,Vanuatu
+WLH,+11:00,+11:00,VU,Vanuatu
+SWJ,+11:00,+11:00,VU,Vanuatu
+OLJ,+11:00,+11:00,VU,Vanuatu
+AUY,+11:00,+11:00,VU,Vanuatu
+AWD,+11:00,+11:00,VU,Vanuatu
+DLY,+11:00,+11:00,VU,Vanuatu
+FTA,+11:00,+11:00,VU,Vanuatu
+IPA,+11:00,+11:00,VU,Vanuatu
+UIQ,+11:00,+11:00,VU,Vanuatu
+VLI,+11:00,+11:00,VU,Vanuatu
+TAH,+11:00,+11:00,VU,Vanuatu
+TGJ,+11:00,+11:00,NC,New Caledonia
+BMY,+11:00,+11:00,NC,New Caledonia
+KNQ,+11:00,+11:00,NC,New Caledonia
+ILP,+11:00,+11:00,NC,New Caledonia
+HLU,+11:00,+11:00,NC,New Caledonia
+KOC,+11:00,+11:00,NC,New Caledonia
+LIF,+11:00,+11:00,NC,New Caledonia
+GEA,+11:00,+11:00,NC,New Caledonia
+IOU,+11:00,+11:00,NC,New Caledonia
+PUV,+11:00,+11:00,NC,New Caledonia
+PDC,+11:00,+11:00,NC,New Caledonia
+MEE,+11:00,+11:00,NC,New Caledonia
+TOU,+11:00,+11:00,NC,New Caledonia
+UVE,+11:00,+11:00,NC,New Caledonia
+NOU,+11:00,+11:00,NC,New Caledonia
+AKL,+12:00,+13:00,NZ,New Zealand
+TUO,+12:00,+13:00,NZ,New Zealand
+AMZ,+12:00,+13:00,NZ,New Zealand
+ASG,+12:00,+13:00,NZ,New Zealand
+CHC,+12:00,+13:00,NZ,New Zealand
+CHT,+12:00,+13:00,NZ,New Zealand
+CMV,+12:00,+13:00,NZ,New Zealand
+DGR,+12:00,+13:00,NZ,New Zealand
+DUD,+12:00,+13:00,NZ,New Zealand
+WHO,+12:00,+13:00,NZ,New Zealand
+GBZ,+12:00,+13:00,NZ,New Zealand
+GMN,+12:00,+13:00,NZ,New Zealand
+GIS,+12:00,+13:00,NZ,New Zealand
+GTN,+12:00,+13:00,NZ,New Zealand
+HKK,+12:00,+13:00,NZ,New Zealand
+HLZ,+12:00,+13:00,NZ,New Zealand
+WIK,+12:00,+13:00,NZ,New Zealand
+KBZ,+12:00,+13:00,NZ,New Zealand
+KKE,+12:00,+13:00,NZ,New Zealand
+KKO,+12:00,+13:00,NZ,New Zealand
+KAT,+12:00,+13:00,NZ,New Zealand
+ALR,+12:00,+13:00,NZ,New Zealand
+MTA,+12:00,+13:00,NZ,New Zealand
+MHB,+12:00,+13:00,NZ,New Zealand
+MON,+12:00,+13:00,NZ,New Zealand
+MFN,+12:00,+13:00,NZ,New Zealand
+MZP,+12:00,+13:00,NZ,New Zealand
+TEU,+12:00,+13:00,NZ,New Zealand
+MRO,+12:00,+13:00,NZ,New Zealand
+NPL,+12:00,+13:00,NZ,New Zealand
+NPE,+12:00,+13:00,NZ,New Zealand
+NSN,+12:00,+13:00,NZ,New Zealand
+IVC,+12:00,+13:00,NZ,New Zealand
+OHA,+12:00,+13:00,NZ,New Zealand
+OAM,+12:00,+13:00,NZ,New Zealand
+PMR,+12:00,+13:00,NZ,New Zealand
+PCN,+12:00,+13:00,NZ,New Zealand
+PPQ,+12:00,+13:00,NZ,New Zealand
+ZQN,+12:00,+13:00,NZ,New Zealand
+RAG,+12:00,+13:00,NZ,New Zealand
+SZS,+12:00,+13:00,NZ,New Zealand
+ROT,+12:00,+13:00,NZ,New Zealand
+TRG,+12:00,+13:00,NZ,New Zealand
+TMZ,+12:00,+13:00,NZ,New Zealand
+KTF,+12:00,+13:00,NZ,New Zealand
+TKZ,+12:00,+13:00,NZ,New Zealand
+THH,+12:00,+13:00,NZ,New Zealand
+TIU,+12:00,+13:00,NZ,New Zealand
+TWZ,+12:00,+13:00,NZ,New Zealand
+BHE,+12:00,+13:00,NZ,New Zealand
+WKA,+12:00,+13:00,NZ,New Zealand
+WHK,+12:00,+13:00,NZ,New Zealand
+WLG,+12:00,+13:00,NZ,New Zealand
+WIR,+12:00,+13:00,NZ,New Zealand
+WRE,+12:00,+13:00,NZ,New Zealand
+WSZ,+12:00,+13:00,NZ,New Zealand
+WTZ,+12:00,+13:00,NZ,New Zealand
+WAG,+12:00,+13:00,NZ,New Zealand
+OAA,+04:30,+04:30,AF,Afghanistan
+BIN,+04:30,+04:30,AF,Afghanistan
+BST,+04:30,+04:30,AF,Afghanistan
+CCN,+04:30,+04:30,AF,Afghanistan
+SBF,+04:30,+04:30,AF,Afghanistan
+DAZ,+04:30,+04:30,AF,Afghanistan
+FAH,+04:30,+04:30,AF,Afghanistan
+FBD,+04:30,+04:30,AF,Afghanistan
+GRG,+04:30,+04:30,AF,Afghanistan
+KWH,+04:30,+04:30,AF,Afghanistan
+HEA,+04:30,+04:30,AF,Afghanistan
+OAI,+04:30,+04:30,AF,Afghanistan
+JAA,+04:30,+04:30,AF,Afghanistan
+KBL,+04:30,+04:30,AF,Afghanistan
+KDH,+04:30,+04:30,AF,Afghanistan
+KHT,+04:30,+04:30,AF,Afghanistan
+MMZ,+04:30,+04:30,AF,Afghanistan
+MZR,+04:30,+04:30,AF,Afghanistan
+URN,+04:30,+04:30,AF,Afghanistan
+LQN,+04:30,+04:30,AF,Afghanistan
+OAS,+04:30,+04:30,AF,Afghanistan
+OAH,+04:30,+04:30,AF,Afghanistan
+SGA,+04:30,+04:30,AF,Afghanistan
+TII,+04:30,+04:30,AF,Afghanistan
+TQN,+04:30,+04:30,AF,Afghanistan
+UND,+04:30,+04:30,AF,Afghanistan
+OAZ,+04:30,+04:30,AF,Afghanistan
+ZAJ,+04:30,+04:30,AF,Afghanistan
+BAH,+03:00,+03:00,BH,Bahrain
+OCS,+01:00,+01:00,GQ,Equatorial Guinea
+AHB,+03:00,+03:00,SA,Saudi Arabia
+HOF,+03:00,+03:00,SA,Saudi Arabia
+ABT,+03:00,+03:00,SA,Saudi Arabia
+BHH,+03:00,+03:00,SA,Saudi Arabia
+DMM,+03:00,+03:00,SA,Saudi Arabia
+DWD,+03:00,+03:00,SA,Saudi Arabia
+DHA,+03:00,+03:00,SA,Saudi Arabia
+GIZ,+03:00,+03:00,SA,Saudi Arabia
+ELQ,+03:00,+03:00,SA,Saudi Arabia
+URY,+03:00,+03:00,SA,Saudi Arabia
+HAS,+03:00,+03:00,SA,Saudi Arabia
+QJB,+03:00,+03:00,SA,Saudi Arabia
+JED,+03:00,+03:00,SA,Saudi Arabia
+KMC,+03:00,+03:00,SA,Saudi Arabia
+KMX,+03:00,+03:00,SA,Saudi Arabia
+MED,+03:00,+03:00,SA,Saudi Arabia
+EAM,+03:00,+03:00,SA,Saudi Arabia
+NUM,+03:00,+03:00,SA,Saudi Arabia
+AQI,+03:00,+03:00,SA,Saudi Arabia
+AKH,+03:00,+03:00,SA,Saudi Arabia
+RAH,+03:00,+03:00,SA,Saudi Arabia
+RUH,+03:00,+03:00,SA,Saudi Arabia
+RAE,+03:00,+03:00,SA,Saudi Arabia
+XXN,+03:00,+03:00,SA,Saudi Arabia
+SHW,+03:00,+03:00,SA,Saudi Arabia
+AJF,+03:00,+03:00,SA,Saudi Arabia
+SLF,+03:00,+03:00,SA,Saudi Arabia
+TUU,+03:00,+03:00,SA,Saudi Arabia
+TIF,+03:00,+03:00,SA,Saudi Arabia
+TUI,+03:00,+03:00,SA,Saudi Arabia
+WAE,+03:00,+03:00,SA,Saudi Arabia
+EJH,+03:00,+03:00,SA,Saudi Arabia
+YNB,+03:00,+03:00,SA,Saudi Arabia
+ZUL,+03:00,+03:00,SA,Saudi Arabia
+OGM,−05:00,−05:00,PA,Panama
+IAQ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ABD,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+DEF,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AKW,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+GCH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+QMJ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+OMI,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+MRX,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AWZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AEU,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+BUZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KNR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KIH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+BDH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+PGU,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KHK,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+SXI,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+LVP,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KSH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IIL,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KHD,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+SDG,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IFH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KKS,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IFN,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+CQD,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+RAS,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+HDM,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AJK,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IKA,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+THR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+GZW,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+PYK,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+SNX,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+BND,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+JYR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KER,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+BXR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+HDR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+RJN,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+SYJ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+XBJ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+CKT,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+RUD,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+MHD,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+BJB,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AFZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+TCX,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KLM,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+GBT,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+BSM,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+NSH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+RZR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+SRY,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+FAZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+JAR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+LRR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+LFM,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+SYZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+YES,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+KHY,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ADU,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ACP,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+PFQ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+OMH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+TBZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IMQ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+JWN,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AZD,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ACZ,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ZBR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ZAH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+IHR,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+JSK,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+AMM,+02:00,+03:00,JO,Jordan
+ADJ,+02:00,+03:00,JO,Jordan
+AQJ,+02:00,+03:00,JO,Jordan
+JRS,+02:00,+03:00,PS,"Palestine, State of"
+OMF,+02:00,+03:00,JO,Jordan
+XIJ,+03:00,+03:00,KW,Kuwait
+KWI,+03:00,+03:00,KW,Kuwait
+BEY,+02:00,+03:00,LB,Lebanon
+KYE,+02:00,+03:00,LB,Lebanon
+BYB,+04:00,+04:00,OM,Oman
+AOM,+04:00,+04:00,OM,Oman
+DQM,+04:00,+04:00,OM,Oman
+MNH,+04:00,+04:00,OM,Oman
+AUH,+04:00,+04:00,AE,United Arab Emirates
+AZI,+04:00,+04:00,AE,United Arab Emirates
+AAN,+04:00,+04:00,AE,United Arab Emirates
+DHF,+04:00,+04:00,AE,United Arab Emirates
+XSB,+04:00,+04:00,AE,United Arab Emirates
+DXB,+04:00,+04:00,AE,United Arab Emirates
+NHD,+04:00,+04:00,AE,United Arab Emirates
+DWC,+04:00,+04:00,AE,United Arab Emirates
+FJR,+04:00,+04:00,AE,United Arab Emirates
+OMN,+05:30,+05:30,IN,India
+RKT,+04:00,+04:00,AE,United Arab Emirates
+SHJ,+04:00,+04:00,AE,United Arab Emirates
+OMY,+07:00,+07:00,KH,Cambodia
+RMB,+04:00,+04:00,OM,Oman
+FAU,+04:00,+04:00,OM,Oman
+RNM,+04:00,+04:00,OM,Oman
+JNJ,+04:00,+04:00,OM,Oman
+KHS,+04:00,+04:00,OM,Oman
+LKW,+04:00,+04:00,OM,Oman
+MSH,+04:00,+04:00,OM,Oman
+MCT,+04:00,+04:00,OM,Oman
+OMM,+04:00,+04:00,OM,Oman
+SLL,+04:00,+04:00,OM,Oman
+OHS,+04:00,+04:00,OM,Oman
+SUH,+04:00,+04:00,OM,Oman
+TTH,+04:00,+04:00,OM,Oman
+BHW,+05:00,+05:00,PK,Pakistan
+BNP,+05:00,+05:00,PK,Pakistan
+WGB,+05:00,+05:00,PK,Pakistan
+BHV,+05:00,+05:00,PK,Pakistan
+CJL,+05:00,+05:00,PK,Pakistan
+CHB,+05:00,+05:00,PK,Pakistan
+DBA,+05:00,+05:00,PK,Pakistan
+DEA,+05:00,+05:00,PK,Pakistan
+DSK,+05:00,+05:00,PK,Pakistan
+LYP,+05:00,+05:00,PK,Pakistan
+GWD,+05:00,+05:00,PK,Pakistan
+GIL,+05:00,+05:00,PK,Pakistan
+ISB,+05:00,+05:00,PK,Pakistan
+JAG,+05:00,+05:00,PK,Pakistan
+JIW,+05:00,+05:00,PK,Pakistan
+KHI,+05:00,+05:00,PK,Pakistan
+HDD,+05:00,+05:00,PK,Pakistan
+KDD,+05:00,+05:00,PK,Pakistan
+OHT,+05:00,+05:00,PK,Pakistan
+LHE,+05:00,+05:00,PK,Pakistan
+LRG,+05:00,+05:00,PK,Pakistan
+XJM,+05:00,+05:00,PK,Pakistan
+MFG,+05:00,+05:00,PK,Pakistan
+MWD,+05:00,+05:00,PK,Pakistan
+MJD,+05:00,+05:00,PK,Pakistan
+MPD,+05:00,+05:00,PK,Pakistan
+ATG,+05:00,+05:00,PK,Pakistan
+MUX,+05:00,+05:00,PK,Pakistan
+WNS,+05:00,+05:00,PK,Pakistan
+NHS,+05:00,+05:00,PK,Pakistan
+ORW,+05:00,+05:00,PK,Pakistan
+PAJ,+05:00,+05:00,PK,Pakistan
+PJG,+05:00,+05:00,PK,Pakistan
+PSI,+05:00,+05:00,PK,Pakistan
+PEW,+05:00,+05:00,PK,Pakistan
+UET,+05:00,+05:00,PK,Pakistan
+RYK,+05:00,+05:00,PK,Pakistan
+RAZ,+05:00,+05:00,PK,Pakistan
+SBQ,+05:00,+05:00,PK,Pakistan
+KDU,+05:00,+05:00,PK,Pakistan
+SKZ,+05:00,+05:00,PK,Pakistan
+SYW,+05:00,+05:00,PK,Pakistan
+SGI,+05:00,+05:00,PK,Pakistan
+SDT,+05:00,+05:00,PK,Pakistan
+SKT,+05:00,+05:00,PK,Pakistan
+SUL,+05:00,+05:00,PK,Pakistan
+SWN,+05:00,+05:00,PK,Pakistan
+TLB,+05:00,+05:00,PK,Pakistan
+BDN,+05:00,+05:00,PK,Pakistan
+TFT,+05:00,+05:00,PK,Pakistan
+TUK,+05:00,+05:00,PK,Pakistan
+WAF,+05:00,+05:00,PK,Pakistan
+PZH,+05:00,+05:00,PK,Pakistan
+IQA,+03:00,+03:00,IQ,Iraq
+TQD,+03:00,+03:00,IQ,Iraq
+BMN,+03:00,+03:00,IQ,Iraq
+BGW,+03:00,+03:00,IQ,Iraq
+OSM,+03:00,+03:00,IQ,Iraq
+DHK,+03:00,+03:00,IQ,Iraq
+EBL,+03:00,+03:00,IQ,Iraq
+KIK,+03:00,+03:00,IQ,Iraq
+BSR,+03:00,+03:00,IQ,Iraq
+NJF,+03:00,+03:00,IQ,Iraq
+RQW,+03:00,+03:00,IQ,Iraq
+ISU,+03:00,+03:00,IQ,Iraq
+XNH,+03:00,+03:00,IQ,Iraq
+ALP,+02:00,+03:00,SY,Syrian Arab Republic
+DAM,+02:00,+03:00,SY,Syrian Arab Republic
+DEZ,+02:00,+03:00,SY,Syrian Arab Republic
+KAC,+02:00,+03:00,SY,Syrian Arab Republic
+LTK,+02:00,+03:00,SY,Syrian Arab Republic
+PMS,+02:00,+03:00,SY,Syrian Arab Republic
+DIA,+03:00,+03:00,QA,Qatar
+XJD,+03:00,+03:00,QA,Qatar
+DOH,+03:00,+03:00,QA,Qatar
+OUM,+01:00,+01:00,TD,Chad
+ADE,+03:00,+03:00,YE,Yemen
+EAB,+03:00,+03:00,YE,Yemen
+AXK,+03:00,+03:00,YE,Yemen
+BYD,+03:00,+03:00,YE,Yemen
+BHN,+03:00,+03:00,YE,Yemen
+BUK,+03:00,+03:00,YE,Yemen
+AAY,+03:00,+03:00,YE,Yemen
+HOD,+03:00,+03:00,YE,Yemen
+KAM,+03:00,+03:00,YE,Yemen
+MYN,+03:00,+03:00,YE,Yemen
+UKR,+03:00,+03:00,YE,Yemen
+IHN,+03:00,+03:00,YE,Yemen
+RIY,+03:00,+03:00,YE,Yemen
+SYE,+03:00,+03:00,YE,Yemen
+SAH,+03:00,+03:00,YE,Yemen
+SCT,+03:00,+03:00,YE,Yemen
+GXF,+03:00,+03:00,YE,Yemen
+TAI,+03:00,+03:00,YE,Yemen
+ACU,−05:00,−05:00,PA,Panama
+AIL,−05:00,−05:00,PA,Panama
+CTE,−05:00,−05:00,PA,Panama
+MPP,−05:00,−05:00,PA,Panama
+PYC,−05:00,−05:00,PA,Panama
+NMG,−05:00,−05:00,PA,Panama
+PYV,−05:00,−05:00,PA,Panama
+AML,−05:00,−05:00,PA,Panama
+BFQ,−05:00,−05:00,PA,Panama
+ELE,−05:00,−05:00,PA,Panama
+OTD,−05:00,−05:00,PA,Panama
+SAX,−05:00,−05:00,PA,Panama
+PCQ,+07:00,+07:00,LA,Lao People's Democratic Republic
+PEB,+02:00,+02:00,MZ,Mozambique
+PGP,+00:00,+00:00,ST,Sao Tome and Principe
+ROP,+10:00,+10:00,MP,Northern Mariana Islands
+SPN,+10:00,+10:00,MP,Northern Mariana Islands
+UAM,+10:00,+10:00,GU,Guam
+GUM,+10:00,+10:00,GU,Guam
+TIQ,+10:00,+10:00,MP,Northern Mariana Islands
+CGY,+08:00,+08:00,PH,Philippines
+LLC,+08:00,+08:00,PH,Philippines
+ENI,+08:00,+08:00,PH,Philippines
+BHC,+05:00,+05:00,PK,Pakistan
+CWP,+05:00,+05:00,PK,Pakistan
+GRT,+05:00,+05:00,PK,Pakistan
+KCF,+05:00,+05:00,PK,Pakistan
+REQ,+05:00,+05:00,PK,Pakistan
+ENT,+12:00,+12:00,MH,Marshall Islands
+MAJ,+12:00,+12:00,MH,Marshall Islands
+KAI,−04:00,−04:00,GY,Guyana
+KWA,+12:00,+12:00,MH,Marshall Islands
+PMM,+07:00,+07:00,TH,Thailand
+PQD,+05:30,+05:30,LK,Sri Lanka
+DDP,−04:00,−04:00,PR,Puerto Rico
+HUC,−04:00,−04:00,PR,Puerto Rico
+PPD,−04:00,−04:00,PR,Puerto Rico
+XSO,+08:00,+08:00,PH,Philippines
+ROR,+09:00,+09:00,PW,Palau
+BFA,−04:00,−03:00,PY,Paraguay
+OLK,−04:00,−03:00,PY,Paraguay
+PBT,−04:00,−03:00,PY,Paraguay
+PCJ,−04:00,−03:00,PY,Paraguay
+KIO,+12:00,+12:00,MH,Marshall Islands
+KNH,+08:00,+08:00,TW,"Taiwan, Province of China"
+LZN,+08:00,+08:00,TW,"Taiwan, Province of China"
+TTT,+08:00,+08:00,TW,"Taiwan, Province of China"
+GNI,+08:00,+08:00,TW,"Taiwan, Province of China"
+KHH,+08:00,+08:00,TW,"Taiwan, Province of China"
+CYI,+08:00,+08:00,TW,"Taiwan, Province of China"
+HCN,+08:00,+08:00,TW,"Taiwan, Province of China"
+TXG,+08:00,+08:00,TW,"Taiwan, Province of China"
+KYD,+08:00,+08:00,TW,"Taiwan, Province of China"
+RMQ,+08:00,+08:00,TW,"Taiwan, Province of China"
+MFK,+08:00,+08:00,TW,"Taiwan, Province of China"
+TNN,+08:00,+08:00,TW,"Taiwan, Province of China"
+HSZ,+08:00,+08:00,TW,"Taiwan, Province of China"
+MZG,+08:00,+08:00,TW,"Taiwan, Province of China"
+PIF,+08:00,+08:00,TW,"Taiwan, Province of China"
+TSA,+08:00,+08:00,TW,"Taiwan, Province of China"
+TPE,+08:00,+08:00,TW,"Taiwan, Province of China"
+WOT,+08:00,+08:00,TW,"Taiwan, Province of China"
+HUN,+08:00,+08:00,TW,"Taiwan, Province of China"
+RHR,+04:00,+04:00,AE,United Arab Emirates
+RHT,+08:00,+08:00,CN,China
+NRT,+09:00,+09:00,JP,Japan
+MMJ,+09:00,+09:00,JP,Japan
+IBR,+09:00,+09:00,JP,Japan
+MUS,+09:00,+09:00,JP,Japan
+IWO,+09:00,+09:00,JP,Japan
+KIX,+09:00,+09:00,JP,Japan
+SHM,+09:00,+09:00,JP,Japan
+UKB,+09:00,+09:00,JP,Japan
+HIW,+09:00,+09:00,JP,Japan
+TJH,+09:00,+09:00,JP,Japan
+OBO,+09:00,+09:00,JP,Japan
+CTS,+09:00,+09:00,JP,Japan
+HKD,+09:00,+09:00,JP,Japan
+KUH,+09:00,+09:00,JP,Japan
+MMB,+09:00,+09:00,JP,Japan
+SHB,+09:00,+09:00,JP,Japan
+OKD,+09:00,+09:00,JP,Japan
+RBJ,+09:00,+09:00,JP,Japan
+WKJ,+09:00,+09:00,JP,Japan
+AXJ,+09:00,+09:00,JP,Japan
+IKI,+09:00,+09:00,JP,Japan
+UBJ,+09:00,+09:00,JP,Japan
+TSJ,+09:00,+09:00,JP,Japan
+OMJ,+09:00,+09:00,JP,Japan
+MBE,+09:00,+09:00,JP,Japan
+AKJ,+09:00,+09:00,JP,Japan
+OIR,+09:00,+09:00,JP,Japan
+RIS,+09:00,+09:00,JP,Japan
+KUM,+09:00,+09:00,JP,Japan
+FUJ,+09:00,+09:00,JP,Japan
+TNE,+09:00,+09:00,JP,Japan
+KOJ,+09:00,+09:00,JP,Japan
+KMI,+09:00,+09:00,JP,Japan
+OIT,+09:00,+09:00,JP,Japan
+KKJ,+09:00,+09:00,JP,Japan
+HSG,+09:00,+09:00,JP,Japan
+KMJ,+09:00,+09:00,JP,Japan
+NGS,+09:00,+09:00,JP,Japan
+NGO,+09:00,+09:00,JP,Japan
+ASJ,+09:00,+09:00,JP,Japan
+OKE,+09:00,+09:00,JP,Japan
+KKX,+09:00,+09:00,JP,Japan
+TKN,+09:00,+09:00,JP,Japan
+NKM,+09:00,+09:00,JP,Japan
+FKJ,+09:00,+09:00,JP,Japan
+QGU,+09:00,+09:00,JP,Japan
+KMQ,+09:00,+09:00,JP,Japan
+OKI,+09:00,+09:00,JP,Japan
+FSZ,+09:00,+09:00,JP,Japan
+TOY,+09:00,+09:00,JP,Japan
+NTQ,+09:00,+09:00,JP,Japan
+HIJ,+09:00,+09:00,JP,Japan
+OKJ,+09:00,+09:00,JP,Japan
+IZO,+09:00,+09:00,JP,Japan
+YGJ,+09:00,+09:00,JP,Japan
+IWK,+09:00,+09:00,JP,Japan
+KCZ,+09:00,+09:00,JP,Japan
+MYJ,+09:00,+09:00,JP,Japan
+ITM,+09:00,+09:00,JP,Japan
+TTJ,+09:00,+09:00,JP,Japan
+TKS,+09:00,+09:00,JP,Japan
+TAK,+09:00,+09:00,JP,Japan
+IWJ,+09:00,+09:00,JP,Japan
+AOJ,+09:00,+09:00,JP,Japan
+GAJ,+09:00,+09:00,JP,Japan
+SDS,+09:00,+09:00,JP,Japan
+FKS,+09:00,+09:00,JP,Japan
+HHE,+09:00,+09:00,JP,Japan
+HNA,+09:00,+09:00,JP,Japan
+AXT,+09:00,+09:00,JP,Japan
+MSJ,+09:00,+09:00,JP,Japan
+KIJ,+09:00,+09:00,JP,Japan
+ONJ,+09:00,+09:00,JP,Japan
+SDJ,+09:00,+09:00,JP,Japan
+SYO,+09:00,+09:00,JP,Japan
+NJA,+09:00,+09:00,JP,Japan
+HAC,+09:00,+09:00,JP,Japan
+OIM,+09:00,+09:00,JP,Japan
+MYE,+09:00,+09:00,JP,Japan
+HND,+09:00,+09:00,JP,Japan
+OKO,+09:00,+09:00,JP,Japan
+MWX,+09:00,+09:00,KR,"Korea, Republic of"
+KWJ,+09:00,+09:00,KR,"Korea, Republic of"
+KUV,+09:00,+09:00,KR,"Korea, Republic of"
+MPK,+09:00,+09:00,KR,"Korea, Republic of"
+CHN,+09:00,+09:00,KR,"Korea, Republic of"
+RSU,+09:00,+09:00,KR,"Korea, Republic of"
+QUN,+09:00,+09:00,KR,"Korea, Republic of"
+KAG,+09:00,+09:00,KR,"Korea, Republic of"
+WJU,+09:00,+09:00,KR,"Korea, Republic of"
+YNY,+09:00,+09:00,KR,"Korea, Republic of"
+CJU,+09:00,+09:00,KR,"Korea, Republic of"
+JDG,+09:00,+09:00,KR,"Korea, Republic of"
+CHF,+09:00,+09:00,KR,"Korea, Republic of"
+PUS,+09:00,+09:00,KR,"Korea, Republic of"
+HIN,+09:00,+09:00,KR,"Korea, Republic of"
+USN,+09:00,+09:00,KR,"Korea, Republic of"
+QJP,+09:00,+09:00,KR,"Korea, Republic of"
+ICN,+09:00,+09:00,KR,"Korea, Republic of"
+SSN,+09:00,+09:00,KR,"Korea, Republic of"
+OSN,+09:00,+09:00,KR,"Korea, Republic of"
+GMP,+09:00,+09:00,KR,"Korea, Republic of"
+SWU,+09:00,+09:00,KR,"Korea, Republic of"
+QDY,+09:00,+09:00,KR,"Korea, Republic of"
+KPO,+09:00,+09:00,KR,"Korea, Republic of"
+TAE,+09:00,+09:00,KR,"Korea, Republic of"
+HMY,+09:00,+09:00,KR,"Korea, Republic of"
+CJJ,+09:00,+09:00,KR,"Korea, Republic of"
+YEC,+09:00,+09:00,KR,"Korea, Republic of"
+RMU,+01:00,+02:00,ES,Spain
+OKA,+09:00,+09:00,JP,Japan
+DNA,+09:00,+09:00,JP,Japan
+UEO,+09:00,+09:00,JP,Japan
+KJP,+09:00,+09:00,JP,Japan
+MMD,+09:00,+09:00,JP,Japan
+MMY,+09:00,+09:00,JP,Japan
+AGJ,+09:00,+09:00,JP,Japan
+IEJ,+09:00,+09:00,JP,Japan
+HTR,+09:00,+09:00,JP,Japan
+KTD,+09:00,+09:00,JP,Japan
+SHI,+09:00,+09:00,JP,Japan
+TRA,+09:00,+09:00,JP,Japan
+RNJ,+09:00,+09:00,JP,Japan
+OGN,+09:00,+09:00,JP,Japan
+BSI,+08:00,+08:00,PH,Philippines
+SFS,+08:00,+08:00,PH,Philippines
+CRK,+08:00,+08:00,PH,Philippines
+LAO,+08:00,+08:00,PH,Philippines
+MNL,+08:00,+08:00,PH,Philippines
+CYU,+08:00,+08:00,PH,Philippines
+LBX,+08:00,+08:00,PH,Philippines
+AAV,+08:00,+08:00,PH,Philippines
+CBO,+08:00,+08:00,PH,Philippines
+DVO,+08:00,+08:00,PH,Philippines
+BXU,+08:00,+08:00,PH,Philippines
+BPH,+08:00,+08:00,PH,Philippines
+DPL,+08:00,+08:00,PH,Philippines
+CGM,+08:00,+08:00,PH,Philippines
+IGN,+08:00,+08:00,PH,Philippines
+JOL,+08:00,+08:00,PH,Philippines
+MLP,+08:00,+08:00,PH,Philippines
+TWT,+08:00,+08:00,PH,Philippines
+OZC,+08:00,+08:00,PH,Philippines
+PAG,+08:00,+08:00,PH,Philippines
+MXI,+08:00,+08:00,PH,Philippines
+GES,+08:00,+08:00,PH,Philippines
+SUG,+08:00,+08:00,PH,Philippines
+CDY,+08:00,+08:00,PH,Philippines
+IPE,+08:00,+08:00,PH,Philippines
+TDG,+08:00,+08:00,PH,Philippines
+ZAM,+08:00,+08:00,PH,Philippines
+IAO,+08:00,+08:00,PH,Philippines
+RZP,+08:00,+08:00,PH,Philippines
+SWL,+08:00,+08:00,PH,Philippines
+BAG,+08:00,+08:00,PH,Philippines
+DTE,+08:00,+08:00,PH,Philippines
+SJI,+08:00,+08:00,PH,Philippines
+MBO,+08:00,+08:00,PH,Philippines
+WNP,+08:00,+08:00,PH,Philippines
+BSO,+08:00,+08:00,PH,Philippines
+BQA,+08:00,+08:00,PH,Philippines
+SFE,+08:00,+08:00,PH,Philippines
+TUG,+08:00,+08:00,PH,Philippines
+VRC,+08:00,+08:00,PH,Philippines
+MRQ,+08:00,+08:00,PH,Philippines
+CYZ,+08:00,+08:00,PH,Philippines
+TAC,+08:00,+08:00,PH,Philippines
+BCD,+08:00,+08:00,PH,Philippines
+CYP,+08:00,+08:00,PH,Philippines
+DGT,+08:00,+08:00,PH,Philippines
+MPH,+08:00,+08:00,PH,Philippines
+CRM,+08:00,+08:00,PH,Philippines
+ILO,+08:00,+08:00,PH,Philippines
+MBT,+08:00,+08:00,PH,Philippines
+KLO,+08:00,+08:00,PH,Philippines
+CEB,+08:00,+08:00,PH,Philippines
+OMC,+08:00,+08:00,PH,Philippines
+PPS,+08:00,+08:00,PH,Philippines
+RXS,+08:00,+08:00,PH,Philippines
+EUQ,+08:00,+08:00,PH,Philippines
+TBH,+08:00,+08:00,PH,Philippines
+USU,+08:00,+08:00,PH,Philippines
+RRM,+02:00,+02:00,MZ,Mozambique
+RVC,+00:00,+00:00,LR,Liberia
+MJR,−03:00,−03:00,AR,Argentina
+CCT,−03:00,−03:00,AR,Argentina
+COC,−03:00,−03:00,AR,Argentina
+GHU,−03:00,−03:00,AR,Argentina
+JNI,−03:00,−03:00,AR,Argentina
+PRA,−03:00,−03:00,AR,Argentina
+ROS,−03:00,−03:00,AR,Argentina
+SFN,−03:00,−03:00,AR,Argentina
+AEP,−03:00,−03:00,AR,Argentina
+LCM,−03:00,−03:00,AR,Argentina
+COR,−03:00,−03:00,AR,Argentina
+FDO,−03:00,−03:00,AR,Argentina
+LPG,−03:00,−03:00,AR,Argentina
+EPA,−03:00,−03:00,AR,Argentina
+EZE,−03:00,−03:00,AR,Argentina
+RAF,−03:00,−03:00,AR,Argentina
+HOS,−03:00,−03:00,AR,Argentina
+CVH,−03:00,−03:00,AR,Argentina
+GNR,−03:00,−03:00,AR,Argentina
+RDS,−03:00,−03:00,AR,Argentina
+APZ,−03:00,−03:00,AR,Argentina
+MDZ,−03:00,−03:00,AR,Argentina
+LGS,−03:00,−03:00,AR,Argentina
+AFA,−03:00,−03:00,AR,Argentina
+CTC,−03:00,−03:00,AR,Argentina
+SDE,−03:00,−03:00,AR,Argentina
+IRJ,−03:00,−03:00,AR,Argentina
+RHD,−03:00,−03:00,AR,Argentina
+TUC,−03:00,−03:00,AR,Argentina
+UAQ,−03:00,−03:00,AR,Argentina
+CRR,−03:00,−03:00,AR,Argentina
+RCU,−03:00,−03:00,AR,Argentina
+VDR,−03:00,−03:00,AR,Argentina
+VME,−03:00,−03:00,AR,Argentina
+RLO,−03:00,−03:00,AR,Argentina
+LUQ,−03:00,−03:00,AR,Argentina
+CNQ,−03:00,−03:00,AR,Argentina
+RES,−03:00,−03:00,AR,Argentina
+FMA,−03:00,−03:00,AR,Argentina
+IGR,−03:00,−03:00,AR,Argentina
+AOL,−03:00,−03:00,AR,Argentina
+MCS,−03:00,−03:00,AR,Argentina
+PSS,−03:00,−03:00,AR,Argentina
+SLA,−03:00,−03:00,AR,Argentina
+JUJ,−03:00,−03:00,AR,Argentina
+ORA,−03:00,−03:00,AR,Argentina
+TTG,−03:00,−03:00,AR,Argentina
+CLX,−03:00,−03:00,AR,Argentina
+ELO,−03:00,−03:00,AR,Argentina
+OYA,−03:00,−03:00,AR,Argentina
+LLS,−03:00,−03:00,AR,Argentina
+MDX,−03:00,−03:00,AR,Argentina
+RCQ,−03:00,−03:00,AR,Argentina
+UZU,−03:00,−03:00,AR,Argentina
+EHL,−03:00,−03:00,AR,Argentina
+CRD,−03:00,−03:00,AR,Argentina
+EMX,−03:00,−03:00,AR,Argentina
+EQS,−03:00,−03:00,AR,Argentina
+LHS,−03:00,−03:00,AR,Argentina
+IGB,−03:00,−03:00,AR,Argentina
+OES,−03:00,−03:00,AR,Argentina
+MQD,−03:00,−03:00,AR,Argentina
+ARR,−03:00,−03:00,AR,Argentina
+SGV,−03:00,−03:00,AR,Argentina
+REL,−03:00,−03:00,AR,Argentina
+VDM,−03:00,−03:00,AR,Argentina
+PMY,−03:00,−03:00,AR,Argentina
+ING,−03:00,−03:00,AR,Argentina
+FTE,−03:00,−03:00,AR,Argentina
+PUD,−03:00,−03:00,AR,Argentina
+RGA,−03:00,−03:00,AR,Argentina
+RGL,−03:00,−03:00,AR,Argentina
+USH,−03:00,−03:00,AR,Argentina
+ULA,−03:00,−03:00,AR,Argentina
+ROY,−03:00,−03:00,AR,Argentina
+PMQ,−03:00,−03:00,AR,Argentina
+GGS,−03:00,−03:00,AR,Argentina
+JSM,−03:00,−03:00,AR,Argentina
+RYO,−03:00,−03:00,AR,Argentina
+RZA,−03:00,−03:00,AR,Argentina
+BHI,−03:00,−03:00,AR,Argentina
+CSZ,−03:00,−03:00,AR,Argentina
+OVR,−03:00,−03:00,AR,Argentina
+GPO,−03:00,−03:00,AR,Argentina
+OYO,−03:00,−03:00,AR,Argentina
+SST,−03:00,−03:00,AR,Argentina
+MDQ,−03:00,−03:00,AR,Argentina
+NQN,−03:00,−03:00,AR,Argentina
+NEC,−03:00,−03:00,AR,Argentina
+PEH,−03:00,−03:00,AR,Argentina
+RSA,−03:00,−03:00,AR,Argentina
+BRC,−03:00,−03:00,AR,Argentina
+TDL,−03:00,−03:00,AR,Argentina
+VLG,−03:00,−03:00,AR,Argentina
+CUT,−03:00,−03:00,AR,Argentina
+CPC,−03:00,−03:00,AR,Argentina
+VIU,+11:00,+11:00,SB,Solomon Islands
+PSY,−03:00,−03:00,FK,Falkland Islands (Malvinas)
+ASU,−04:00,−03:00,PY,Paraguay
+AYO,−04:00,−03:00,PY,Paraguay
+CIO,−04:00,−03:00,PY,Paraguay
+ENO,−04:00,−03:00,PY,Paraguay
+AGT,−04:00,−03:00,PY,Paraguay
+FLM,−04:00,−03:00,PY,Paraguay
+ESG,−04:00,−03:00,PY,Paraguay
+PIL,−04:00,−03:00,PY,Paraguay
+PJC,−04:00,−03:00,PY,Paraguay
+SIC,−05:00,−05:00,PA,Panama
+SJF,−04:00,−04:00,VI,"Virgin Islands, U.S."
+ACM,−05:00,−05:00,CO,Colombia
+ECO,−05:00,−05:00,CO,Colombia
+ARO,−05:00,−05:00,CO,Colombia
+JUO,−05:00,−05:00,CO,Colombia
+SJR,−05:00,−05:00,CO,Colombia
+NPU,−05:00,−05:00,CO,Colombia
+PCC,−05:00,−05:00,CO,Colombia
+SQF,−05:00,−05:00,CO,Colombia
+AYI,−05:00,−05:00,CO,Colombia
+ACL,−05:00,−05:00,CO,Colombia
+CUI,−05:00,−05:00,CO,Colombia
+MOY,−05:00,−05:00,CO,Colombia
+EUO,−05:00,−05:00,CO,Colombia
+PRE,−05:00,−05:00,CO,Colombia
+SQE,−05:00,−05:00,CO,Colombia
+TAU,−05:00,−05:00,CO,Colombia
+AYC,−05:00,−05:00,CO,Colombia
+SJH,−05:00,−05:00,CO,Colombia
+BHF,−05:00,−05:00,CO,Colombia
+GGL,−05:00,−05:00,CO,Colombia
+UNC,−05:00,−05:00,CO,Colombia
+AYA,−05:00,−05:00,CO,Colombia
+NBB,−05:00,−05:00,CO,Colombia
+MND,−05:00,−05:00,CO,Colombia
+NAD,−05:00,−05:00,CO,Colombia
+GCA,−05:00,−05:00,CO,Colombia
+SRO,−05:00,−05:00,CO,Colombia
+BAC,−05:00,−05:00,CO,Colombia
+CQT,−05:00,−05:00,CO,Colombia
+ELJ,−05:00,−05:00,CO,Colombia
+SOH,−05:00,−05:00,CO,Colombia
+URI,−05:00,−05:00,CO,Colombia
+ECR,−05:00,−05:00,CO,Colombia
+MQR,−05:00,−05:00,CO,Colombia
+ISD,−05:00,−05:00,CO,Colombia
+AZT,−05:00,−05:00,CO,Colombia
+HRR,−05:00,−05:00,CO,Colombia
+SQB,−05:00,−05:00,CO,Colombia
+ARF,−05:00,−05:00,CO,Colombia
+MFB,−05:00,−05:00,CO,Colombia
+MHF,−05:00,−05:00,CO,Colombia
+CSR,−05:00,−05:00,CO,Colombia
+ACR,−05:00,−05:00,CO,Colombia
+ACD,−05:00,−05:00,CO,Colombia
+AFI,−05:00,−05:00,CO,Colombia
+ADN,−05:00,−05:00,CO,Colombia
+API,−05:00,−05:00,CO,Colombia
+AXM,−05:00,−05:00,CO,Colombia
+PUU,−05:00,−05:00,CO,Colombia
+ELB,−05:00,−05:00,CO,Colombia
+BGA,−05:00,−05:00,CO,Colombia
+BOG,−05:00,−05:00,CO,Colombia
+BAQ,−05:00,−05:00,CO,Colombia
+BSC,−05:00,−05:00,CO,Colombia
+BUN,−05:00,−05:00,CO,Colombia
+CPB,−05:00,−05:00,CO,Colombia
+CUC,−05:00,−05:00,CO,Colombia
+COG,−05:00,−05:00,CO,Colombia
+CTG,−05:00,−05:00,CO,Colombia
+CCO,−05:00,−05:00,CO,Colombia
+CLO,−05:00,−05:00,CO,Colombia
+CIM,−05:00,−05:00,CO,Colombia
+RAV,−05:00,−05:00,CO,Colombia
+TCO,−05:00,−05:00,CO,Colombia
+CUO,−05:00,−05:00,CO,Colombia
+CAQ,−05:00,−05:00,CO,Colombia
+CVE,−05:00,−05:00,CO,Colombia
+CZU,−05:00,−05:00,CO,Colombia
+EBG,−05:00,−05:00,CO,Colombia
+EJA,−05:00,−05:00,CO,Colombia
+FLA,−05:00,−05:00,CO,Colombia
+FDA,−05:00,−05:00,CO,Colombia
+LGT,−05:00,−05:00,CO,Colombia
+GIR,−05:00,−05:00,CO,Colombia
+CRC,−05:00,−05:00,CO,Colombia
+GPI,−05:00,−05:00,CO,Colombia
+CPL,−05:00,−05:00,CO,Colombia
+HTZ,−05:00,−05:00,CO,Colombia
+IBE,−05:00,−05:00,CO,Colombia
+IGO,−05:00,−05:00,CO,Colombia
+IPI,−05:00,−05:00,CO,Colombia
+APO,−05:00,−05:00,CO,Colombia
+LQM,−05:00,−05:00,CO,Colombia
+MCJ,−05:00,−05:00,CO,Colombia
+LPD,−05:00,−05:00,CO,Colombia
+LET,−05:00,−05:00,CO,Colombia
+EOH,−05:00,−05:00,CO,Colombia
+MFS,−05:00,−05:00,CO,Colombia
+MGN,−05:00,−05:00,CO,Colombia
+MTB,−05:00,−05:00,CO,Colombia
+MTR,−05:00,−05:00,CO,Colombia
+MVP,−05:00,−05:00,CO,Colombia
+MZL,−05:00,−05:00,CO,Colombia
+NCI,−05:00,−05:00,CO,Colombia
+NQU,−05:00,−05:00,CO,Colombia
+NVA,−05:00,−05:00,CO,Colombia
+OCV,−05:00,−05:00,CO,Colombia
+ORC,−05:00,−05:00,CO,Colombia
+OTU,−05:00,−05:00,CO,Colombia
+PCR,−05:00,−05:00,CO,Colombia
+PDA,−05:00,−05:00,CO,Colombia
+PEI,−05:00,−05:00,CO,Colombia
+PTX,−05:00,−05:00,CO,Colombia
+PLT,−05:00,−05:00,CO,Colombia
+NAR,−05:00,−05:00,CO,Colombia
+PPN,−05:00,−05:00,CO,Colombia
+PAL,−05:00,−05:00,CO,Colombia
+PBE,−05:00,−05:00,CO,Colombia
+PSO,−05:00,−05:00,CO,Colombia
+PVA,−05:00,−05:00,CO,Colombia
+PZA,−05:00,−05:00,CO,Colombia
+MQU,−05:00,−05:00,CO,Colombia
+MDE,−05:00,−05:00,CO,Colombia
+RCH,−05:00,−05:00,CO,Colombia
+RVE,−05:00,−05:00,CO,Colombia
+SJE,−05:00,−05:00,CO,Colombia
+SSL,−05:00,−05:00,CO,Colombia
+SMR,−05:00,−05:00,CO,Colombia
+SOX,−05:00,−05:00,CO,Colombia
+ADZ,−05:00,−05:00,CO,Colombia
+SRS,−05:00,−05:00,CO,Colombia
+SVI,−05:00,−05:00,CO,Colombia
+TIB,−05:00,−05:00,CO,Colombia
+TDA,−05:00,−05:00,CO,Colombia
+TLU,−05:00,−05:00,CO,Colombia
+TME,−05:00,−05:00,CO,Colombia
+TQS,−05:00,−05:00,CO,Colombia
+TRB,−05:00,−05:00,CO,Colombia
+AUC,−05:00,−05:00,CO,Colombia
+UIB,−05:00,−05:00,CO,Colombia
+ULQ,−05:00,−05:00,CO,Colombia
+URR,−05:00,−05:00,CO,Colombia
+VGZ,−05:00,−05:00,CO,Colombia
+PYA,−05:00,−05:00,CO,Colombia
+VUP,−05:00,−05:00,CO,Colombia
+VVC,−05:00,−05:00,CO,Colombia
+AYG,−05:00,−05:00,CO,Colombia
+EYP,−05:00,−05:00,CO,Colombia
+MHW,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SRE,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+APB,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+ASC,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+BJO,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+CAM,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+CBB,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+CCA,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+CIJ,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+CEP,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SRZ,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+BVK,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SJS,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SJB,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SJV,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+LPB,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+MGD,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+ORU,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+POI,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+PUR,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+PSZ,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SRD,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+RBO,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+RIB,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+REY,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SBL,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SRJ,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SNG,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SNM,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+SRB,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+MQK,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+TJA,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+TDD,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+UYU,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+VAH,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+VLM,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+VVI,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+BYC,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+ABN,−03:00,−03:00,SR,Suriname
+TOT,−03:00,−03:00,SR,Suriname
+DRJ,−03:00,−03:00,SR,Suriname
+PBM,−03:00,−03:00,SR,Suriname
+MOJ,−03:00,−03:00,SR,Suriname
+ICK,−03:00,−03:00,SR,Suriname
+OEM,−03:00,−03:00,SR,Suriname
+SMZ,−03:00,−03:00,SR,Suriname
+AGI,−03:00,−03:00,SR,Suriname
+ORG,−03:00,−03:00,SR,Suriname
+BXX,+03:00,+03:00,SO,Somalia
+GTA,+11:00,+11:00,SB,Solomon Islands
+SOA,+07:00,+07:00,VN,Viet Nam
+CAY,−03:00,−03:00,GF,French Guiana
+GSI,−03:00,−03:00,GF,French Guiana
+MPY,−03:00,−03:00,GF,French Guiana
+OYP,−03:00,−03:00,GF,French Guiana
+LDX,−03:00,−03:00,GF,French Guiana
+REI,−03:00,−03:00,GF,French Guiana
+XAU,−03:00,−03:00,GF,French Guiana
+SOR,+02:00,+03:00,SY,Syrian Arab Republic
+APE,−05:00,−05:00,PE,Peru
+ALD,−05:00,−05:00,PE,Peru
+AOP,−05:00,−05:00,PE,Peru
+AYX,−05:00,−05:00,PE,Peru
+MBP,−05:00,−05:00,PE,Peru
+BLP,−05:00,−05:00,PE,Peru
+IBP,−05:00,−05:00,PE,Peru
+PCL,−05:00,−05:00,PE,Peru
+TDP,−05:00,−05:00,PE,Peru
+CHM,−05:00,−05:00,PE,Peru
+TGI,−05:00,−05:00,PE,Peru
+CIX,−05:00,−05:00,PE,Peru
+AYP,−05:00,−05:00,PE,Peru
+ANS,−05:00,−05:00,PE,Peru
+ATA,−05:00,−05:00,PE,Peru
+UMI,−05:00,−05:00,PE,Peru
+LIM,−05:00,−05:00,PE,Peru
+UCZ,−05:00,−05:00,PE,Peru
+RIJ,−05:00,−05:00,PE,Peru
+JAE,−05:00,−05:00,PE,Peru
+JJI,−05:00,−05:00,PE,Peru
+JAU,−05:00,−05:00,PE,Peru
+JUL,−05:00,−05:00,PE,Peru
+SJA,−05:00,−05:00,PE,Peru
+CJA,−05:00,−05:00,PE,Peru
+RIM,−05:00,−05:00,PE,Peru
+ILQ,−05:00,−05:00,PE,Peru
+TBP,−05:00,−05:00,PE,Peru
+MZA,−05:00,−05:00,PE,Peru
+SMG,−05:00,−05:00,PE,Peru
+YMS,−05:00,−05:00,PE,Peru
+HUU,−05:00,−05:00,PE,Peru
+SQU,−05:00,−05:00,PE,Peru
+CHH,−05:00,−05:00,PE,Peru
+IQT,−05:00,−05:00,PE,Peru
+AQP,−05:00,−05:00,PE,Peru
+TRU,−05:00,−05:00,PE,Peru
+PIO,−05:00,−05:00,PE,Peru
+TPP,−05:00,−05:00,PE,Peru
+SYC,−05:00,−05:00,PE,Peru
+TCQ,−05:00,−05:00,PE,Peru
+PEM,−05:00,−05:00,PE,Peru
+PIU,−05:00,−05:00,PE,Peru
+TYL,−05:00,−05:00,PE,Peru
+NZC,−05:00,−05:00,PE,Peru
+CUZ,−05:00,−05:00,PE,Peru
+SQD,+08:00,+08:00,CN,China
+SQJ,+08:00,+08:00,CN,China
+AAJ,−03:00,−03:00,SR,Suriname
+KCB,−03:00,−03:00,SR,Suriname
+SSV,+08:00,+08:00,PH,Philippines
+ATI,−03:00,−03:00,UY,Uruguay
+BUV,−03:00,−03:00,UY,Uruguay
+CYR,−03:00,−03:00,UY,Uruguay
+DZO,−03:00,−03:00,UY,Uruguay
+PDP,−03:00,−03:00,UY,Uruguay
+MLZ,−03:00,−03:00,UY,Uruguay
+MVD,−03:00,−03:00,UY,Uruguay
+PDU,−03:00,−03:00,UY,Uruguay
+RVY,−03:00,−03:00,UY,Uruguay
+STY,−03:00,−03:00,UY,Uruguay
+TAW,−03:00,−03:00,UY,Uruguay
+TYT,−03:00,−03:00,UY,Uruguay
+VCH,−03:00,−03:00,UY,Uruguay
+AGV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+AAO,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+LPJ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+BLA,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+BNS,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+BRM,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+MYC,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CBL,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CXA,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+ZRZ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CUV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CLZ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CAJ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+VCR,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CUP,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CZE,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CUM,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PPZ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+EOR,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+EOZ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+GDO,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+GUI,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+GUQ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+HGE,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+ICA,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+ICC,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+LSP,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+KAV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+LFR,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+MAR,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+MRD,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PMV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CCS,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+MUN,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+CBS,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PYH,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PBL,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PDZ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PPH,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SCI,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PZO,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+PTM,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+LRV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SVZ,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SBB,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SNV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+STD,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SNF,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SFD,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SOM,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+STB,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+TUV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+TMO,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+URM,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+VLN,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+VIG,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+VLV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+VDP,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+AHL,−04:00,−04:00,GY,Guyana
+NAI,−04:00,−04:00,GY,Guyana
+BMJ,−04:00,−04:00,GY,Guyana
+GFO,−04:00,−04:00,GY,Guyana
+GEO,−04:00,−04:00,GY,Guyana
+OGL,−04:00,−04:00,GY,Guyana
+IMB,−04:00,−04:00,GY,Guyana
+KAR,−04:00,−04:00,GY,Guyana
+KRM,−04:00,−04:00,GY,Guyana
+KRG,−04:00,−04:00,GY,Guyana
+KTO,−04:00,−04:00,GY,Guyana
+KKG,−04:00,−04:00,GY,Guyana
+LUB,−04:00,−04:00,GY,Guyana
+LTM,−04:00,−04:00,GY,Guyana
+USI,−04:00,−04:00,GY,Guyana
+MHA,−04:00,−04:00,GY,Guyana
+VEG,−04:00,−04:00,GY,Guyana
+MYM,−04:00,−04:00,GY,Guyana
+MWJ,−04:00,−04:00,GY,Guyana
+QSX,−04:00,−04:00,GY,Guyana
+ORJ,−04:00,−04:00,GY,Guyana
+PMT,−04:00,−04:00,GY,Guyana
+PRR,−04:00,−04:00,GY,Guyana
+SDC,−04:00,−04:00,GY,Guyana
+SKM,−04:00,−04:00,GY,Guyana
+TAA,+11:00,+11:00,SB,Solomon Islands
+ANU,−04:00,−04:00,AG,Antigua and Barbuda
+BBQ,−04:00,−04:00,AG,Antigua and Barbuda
+BGI,−04:00,−04:00,BB,Barbados
+TBV,+12:00,+12:00,MH,Marshall Islands
+DCF,−04:00,−04:00,DM,Dominica
+DOM,−04:00,−04:00,DM,Dominica
+DSD,−04:00,−04:00,GP,Guadeloupe
+BBR,−04:00,−04:00,GP,Guadeloupe
+SFC,−04:00,−04:00,GP,Guadeloupe
+FDF,−04:00,−04:00,MQ,Martinique
+SFG,−04:00,−04:00,MF,Saint Martin (French part)
+SBH,−04:00,−04:00,BL,Saint BarthÃ©lemy
+GBJ,−04:00,−04:00,GP,Guadeloupe
+PTP,−04:00,−04:00,GP,Guadeloupe
+LSS,−04:00,−04:00,GP,Guadeloupe
+GND,−04:00,−04:00,GD,Grenada
+CRU,−04:00,−04:00,GD,Grenada
+THW,+05:30,+05:30,LK,Sri Lanka
+STT,−04:00,−04:00,VI,"Virgin Islands, U.S."
+STX,−04:00,−04:00,VI,"Virgin Islands, U.S."
+ARE,−04:00,−04:00,PR,Puerto Rico
+BQN,−04:00,−04:00,PR,Puerto Rico
+TJC,−05:00,−05:00,PA,Panama
+CPX,−04:00,−04:00,PR,Puerto Rico
+FAJ,−04:00,−04:00,PR,Puerto Rico
+SIG,−04:00,−04:00,PR,Puerto Rico
+MAZ,−04:00,−04:00,PR,Puerto Rico
+PSE,−04:00,−04:00,PR,Puerto Rico
+NRR,−04:00,−04:00,PR,Puerto Rico
+SJU,−04:00,−04:00,PR,Puerto Rico
+SKB,−04:00,−04:00,KN,Saint Kitts and Nevis
+NEV,−04:00,−04:00,KN,Saint Kitts and Nevis
+SLU,−04:00,−04:00,LC,Saint Lucia
+UVF,−04:00,−04:00,LC,Saint Lucia
+NBE,+01:00,+01:00,TN,Tunisia
+AUA,−04:00,−04:00,AW,Aruba
+BON,−04:00,−04:00,BQ,"Bonaire, Sint Eustatius and Saba"
+CUR,−04:00,−04:00,CW,CuraÃ§ao
+EUX,−04:00,−04:00,BQ,"Bonaire, Sint Eustatius and Saba"
+SXM,−04:00,−04:00,SX,Sint Maarten (Dutch part)
+SAB,−04:00,−04:00,BQ,"Bonaire, Sint Eustatius and Saba"
+TOV,−04:00,−04:00,VG,"Virgin Islands, British"
+TPT,+00:00,+00:00,LR,Liberia
+AXA,−04:00,−04:00,AI,Anguilla
+BGG,+03:00,+03:00,TR,Turkey
+OGU,+03:00,+03:00,TR,Turkey
+IGD,+03:00,+03:00,TR,Turkey
+TAB,−04:00,−04:00,TT,Trinidad and Tobago
+POS,−04:00,−04:00,TT,Trinidad and Tobago
+TTW,+05:30,+05:30,LK,Sri Lanka
+TUE,−05:00,−05:00,PA,Panama
+TUJ,+03:00,+03:00,ET,Ethiopia
+NGD,−04:00,−04:00,VG,"Virgin Islands, British"
+EIS,−04:00,−04:00,VG,"Virgin Islands, British"
+VIJ,−04:00,−04:00,VG,"Virgin Islands, British"
+BQU,−04:00,−04:00,VC,Saint Vincent and the Grenadines
+CIW,−04:00,−04:00,VC,Saint Vincent and the Grenadines
+MQS,−04:00,−04:00,VC,Saint Vincent and the Grenadines
+UNI,−04:00,−04:00,VC,Saint Vincent and the Grenadines
+DSX,+08:00,+08:00,TW,"Taiwan, Province of China"
+CMJ,+08:00,+08:00,TW,"Taiwan, Province of China"
+TWC,+08:00,+08:00,CN,China
+BDA,−04:00,−03:00,BM,Bermuda
+GIT,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+LUY,+03:00,+03:00,TZ,"Tanzania, United Republic of"
+TZO,+03:00,+03:00,MG,Madagascar
+KHU,+02:00,+03:00,UA,Ukraine
+IKU,+06:00,+06:00,KG,Kyrgyzstan
+FRU,+06:00,+06:00,KG,Kyrgyzstan
+OSS,+06:00,+06:00,KG,Kyrgyzstan
+GYD,+04:00,+04:00,AZ,Azerbaijan
+KVD,+04:00,+04:00,AZ,Azerbaijan
+LLK,+04:00,+04:00,AZ,Azerbaijan
+NAJ,+04:00,+04:00,AZ,Azerbaijan
+GBB,+04:00,+04:00,AZ,Azerbaijan
+ZTU,+04:00,+04:00,AZ,Azerbaijan
+YLV,+04:00,+04:00,AZ,Azerbaijan
+LWN,+04:00,+04:00,AM,Armenia
+EVN,+04:00,+04:00,AM,Armenia
+KHX,+03:00,+03:00,UG,Uganda
+OYG,+03:00,+03:00,UG,Uganda
+KUT,+04:00,+04:00,GE,Georgia
+BUS,+04:00,+04:00,GE,Georgia
+SUI,+04:00,+04:00,GE,Georgia
+TBS,+04:00,+04:00,GE,Georgia
+UJE,+12:00,+12:00,MH,Marshall Islands
+UJN,+09:00,+09:00,KR,"Korea, Republic of"
+KBP,+02:00,+03:00,UA,Ukraine
+DOK,+02:00,+03:00,UA,Ukraine
+KRQ,+02:00,+03:00,UA,Ukraine
+MPW,+02:00,+03:00,UA,Ukraine
+SEV,+02:00,+03:00,UA,Ukraine
+VSG,+02:00,+03:00,UA,Ukraine
+ERD,+02:00,+03:00,UA,Ukraine
+DNK,+02:00,+03:00,UA,Ukraine
+OZH,+02:00,+03:00,UA,Ukraine
+KWG,+02:00,+03:00,UA,Ukraine
+UKS,+02:00,+03:00,UA,Ukraine
+SIP,+02:00,+03:00,UA,Ukraine
+KHC,+02:00,+03:00,UA,Ukraine
+UKH,+04:00,+04:00,OM,Oman
+HRK,+02:00,+03:00,UA,Ukraine
+PLV,+02:00,+03:00,UA,Ukraine
+UMY,+02:00,+03:00,UA,Ukraine
+CKC,+02:00,+03:00,UA,Ukraine
+KGO,+02:00,+03:00,UA,Ukraine
+IEV,+02:00,+03:00,UA,Ukraine
+GML,+02:00,+03:00,UA,Ukraine
+ZTR,+02:00,+03:00,UA,Ukraine
+UCK,+02:00,+03:00,UA,Ukraine
+HMJ,+02:00,+03:00,UA,Ukraine
+IFO,+02:00,+03:00,UA,Ukraine
+LWO,+02:00,+03:00,UA,Ukraine
+CWC,+02:00,+03:00,UA,Ukraine
+RWN,+02:00,+03:00,UA,Ukraine
+UDJ,+02:00,+03:00,UA,Ukraine
+KHE,+02:00,+03:00,UA,Ukraine
+NLV,+02:00,+03:00,UA,Ukraine
+ODS,+02:00,+03:00,UA,Ukraine
+CEJ,+02:00,+03:00,UA,Ukraine
+VIN,+02:00,+03:00,UA,Ukraine
+ULH,+03:00,+03:00,SA,Saudi Arabia
+BQT,+03:00,+03:00,BY,Belarus
+GME,+03:00,+03:00,BY,Belarus
+VTB,+03:00,+03:00,BY,Belarus
+GNA,+03:00,+03:00,BY,Belarus
+MHP,+03:00,+03:00,BY,Belarus
+MSQ,+03:00,+03:00,BY,Belarus
+MVQ,+03:00,+03:00,BY,Belarus
+BKN,+05:00,+05:00,TM,Turkmenistan
+KSQ,+05:00,+05:00,UZ,Uzbekistan
+ASB,+05:00,+05:00,TM,Turkmenistan
+KRW,+05:00,+05:00,TM,Turkmenistan
+MYP,+05:00,+05:00,TM,Turkmenistan
+TAZ,+05:00,+05:00,TM,Turkmenistan
+CRZ,+05:00,+05:00,TM,Turkmenistan
+DYU,+05:00,+05:00,TJ,Tajikistan
+TJU,+05:00,+05:00,TJ,Tajikistan
+LBD,+05:00,+05:00,TJ,Tajikistan
+KQT,+05:00,+05:00,TJ,Tajikistan
+AZN,+05:00,+05:00,UZ,Uzbekistan
+FEG,+05:00,+05:00,UZ,Uzbekistan
+NMA,+05:00,+05:00,UZ,Uzbekistan
+NCU,+05:00,+05:00,UZ,Uzbekistan
+UGC,+05:00,+05:00,UZ,Uzbekistan
+NVI,+05:00,+05:00,UZ,Uzbekistan
+BHK,+05:00,+05:00,UZ,Uzbekistan
+AFS,+05:00,+05:00,UZ,Uzbekistan
+SKD,+05:00,+05:00,UZ,Uzbekistan
+TMJ,+05:00,+05:00,UZ,Uzbekistan
+TAS,+05:00,+05:00,UZ,Uzbekistan
+UTU,−05:00,−05:00,PA,Panama
+REW,+05:30,+05:30,IN,India
+DIU,+05:30,+05:30,IN,India
+AMD,+05:30,+05:30,IN,India
+AKD,+05:30,+05:30,IN,India
+IXU,+05:30,+05:30,IN,India
+BOM,+05:30,+05:30,IN,India
+PAB,+05:30,+05:30,IN,India
+BHJ,+05:30,+05:30,IN,India
+IXG,+05:30,+05:30,IN,India
+BDQ,+05:30,+05:30,IN,India
+BHO,+05:30,+05:30,IN,India
+BHU,+05:30,+05:30,IN,India
+NMB,+05:30,+05:30,IN,India
+GUX,+05:30,+05:30,IN,India
+GOI,+05:30,+05:30,IN,India
+HBX,+05:30,+05:30,IN,India
+IDR,+05:30,+05:30,IN,India
+JLR,+05:30,+05:30,IN,India
+JGA,+05:30,+05:30,IN,India
+IXY,+05:30,+05:30,IN,India
+HJR,+05:30,+05:30,IN,India
+KLH,+05:30,+05:30,IN,India
+IXK,+05:30,+05:30,IN,India
+NDC,+05:30,+05:30,IN,India
+NAG,+05:30,+05:30,IN,India
+ISK,+05:30,+05:30,IN,India
+PNQ,+05:30,+05:30,IN,India
+PBD,+05:30,+05:30,IN,India
+RTC,+05:30,+05:30,IN,India
+RAJ,+05:30,+05:30,IN,India
+RPR,+05:30,+05:30,IN,India
+SAG,+05:30,+05:30,IN,India
+SSE,+05:30,+05:30,IN,India
+STV,+05:30,+05:30,IN,India
+UDR,+05:30,+05:30,IN,India
+CMB,+05:30,+05:30,LK,Sri Lanka
+ACJ,+05:30,+05:30,LK,Sri Lanka
+BTC,+05:30,+05:30,LK,Sri Lanka
+RML,+05:30,+05:30,LK,Sri Lanka
+ADP,+05:30,+05:30,LK,Sri Lanka
+HIM,+05:30,+05:30,LK,Sri Lanka
+JAF,+05:30,+05:30,LK,Sri Lanka
+KCT,+05:30,+05:30,LK,Sri Lanka
+KTY,+05:30,+05:30,LK,Sri Lanka
+GIU,+05:30,+05:30,LK,Sri Lanka
+TRR,+05:30,+05:30,LK,Sri Lanka
+WRZ,+05:30,+05:30,LK,Sri Lanka
+HRI,+05:30,+05:30,LK,Sri Lanka
+BBM,+07:00,+07:00,KH,Cambodia
+KZC,+07:00,+07:00,KH,Cambodia
+KKZ,+07:00,+07:00,KH,Cambodia
+KTI,+07:00,+07:00,KH,Cambodia
+MWV,+07:00,+07:00,KH,Cambodia
+PNH,+07:00,+07:00,KH,Cambodia
+RBE,+07:00,+07:00,KH,Cambodia
+REP,+07:00,+07:00,KH,Cambodia
+TNX,+07:00,+07:00,KH,Cambodia
+KOS,+07:00,+07:00,KH,Cambodia
+KZD,+07:00,+07:00,KH,Cambodia
+ELX,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+LGY,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+KTV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+LAG,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SFX,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+SVV,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+WOK,−04:00,−04:00,VE,"Venezuela, Bolivarian Republic of"
+IXV,+05:30,+05:30,IN,India
+IXA,+05:30,+05:30,IN,India
+IXB,+05:30,+05:30,IN,India
+RGH,+05:30,+05:30,IN,India
+SHL,+05:30,+05:30,IN,India
+BBI,+05:30,+05:30,IN,India
+CCU,+05:30,+05:30,IN,India
+COH,+05:30,+05:30,IN,India
+DBD,+05:30,+05:30,IN,India
+RDP,+05:30,+05:30,IN,India
+DEP,+05:30,+05:30,IN,India
+GOP,+05:30,+05:30,IN,India
+GAU,+05:30,+05:30,IN,India
+GAY,+05:30,+05:30,IN,India
+IMF,+05:30,+05:30,IN,India
+JRG,+05:30,+05:30,IN,India
+PYB,+05:30,+05:30,IN,India
+IXW,+05:30,+05:30,IN,India
+JRH,+05:30,+05:30,IN,India
+IXQ,+05:30,+05:30,IN,India
+IXH,+05:30,+05:30,IN,India
+IXS,+05:30,+05:30,IN,India
+IXN,+05:30,+05:30,IN,India
+AJL,+05:30,+05:30,IN,India
+IXI,+05:30,+05:30,IN,India
+LDA,+05:30,+05:30,IN,India
+DIB,+05:30,+05:30,IN,India
+DMU,+05:30,+05:30,IN,India
+MZU,+05:30,+05:30,IN,India
+IXT,+05:30,+05:30,IN,India
+PAT,+05:30,+05:30,IN,India
+IXR,+05:30,+05:30,IN,India
+RRK,+05:30,+05:30,IN,India
+RUP,+05:30,+05:30,IN,India
+TEZ,+05:30,+05:30,IN,India
+VTZ,+05:30,+05:30,IN,India
+ZER,+05:30,+05:30,IN,India
+BZL,+06:00,+06:00,BD,Bangladesh
+CXB,+06:00,+06:00,BD,Bangladesh
+CLA,+06:00,+06:00,BD,Bangladesh
+CGP,+06:00,+06:00,BD,Bangladesh
+IRD,+06:00,+06:00,BD,Bangladesh
+JSR,+06:00,+06:00,BD,Bangladesh
+RJH,+06:00,+06:00,BD,Bangladesh
+SPD,+06:00,+06:00,BD,Bangladesh
+TKR,+06:00,+06:00,BD,Bangladesh
+ZHM,+06:00,+06:00,BD,Bangladesh
+ZYL,+06:00,+06:00,BD,Bangladesh
+DAC,+06:00,+06:00,BD,Bangladesh
+HHP,+08:00,+08:00,HK,Hong Kong
+SPB,−04:00,−04:00,VI,"Virgin Islands, U.S."
+SSB,−04:00,−04:00,VI,"Virgin Islands, U.S."
+AGR,+05:30,+05:30,IN,India
+IXD,+05:30,+05:30,IN,India
+ATQ,+05:30,+05:30,IN,India
+AIP,+05:30,+05:30,IN,India
+BKB,+05:30,+05:30,IN,India
+VNS,+05:30,+05:30,IN,India
+KUU,+05:30,+05:30,IN,India
+BUP,+05:30,+05:30,IN,India
+BEK,+05:30,+05:30,IN,India
+IXC,+05:30,+05:30,IN,India
+KNU,+05:30,+05:30,IN,India
+DED,+05:30,+05:30,IN,India
+DEL,+05:30,+05:30,IN,India
+VIF,+01:00,+02:00,IT,Italy
+DHM,+05:30,+05:30,IN,India
+GWL,+05:30,+05:30,IN,India
+HSS,+05:30,+05:30,IN,India
+JDH,+05:30,+05:30,IN,India
+JAI,+05:30,+05:30,IN,India
+JSA,+05:30,+05:30,IN,India
+IXJ,+05:30,+05:30,IN,India
+KQH,+05:30,+05:30,IN,India
+KTU,+05:30,+05:30,IN,India
+LUH,+05:30,+05:30,IN,India
+IXL,+05:30,+05:30,IN,India
+LKO,+05:30,+05:30,IN,India
+IXP,+05:30,+05:30,IN,India
+PGH,+05:30,+05:30,IN,India
+SLV,+05:30,+05:30,IN,India
+SXR,+05:30,+05:30,IN,India
+TNI,+05:30,+05:30,IN,India
+VJQ,+02:00,+02:00,MZ,Mozambique
+AOU,+07:00,+07:00,LA,Lao People's Democratic Republic
+HOE,+07:00,+07:00,LA,Lao People's Democratic Republic
+LPQ,+07:00,+07:00,LA,Lao People's Democratic Republic
+LXG,+07:00,+07:00,LA,Lao People's Democratic Republic
+ODY,+07:00,+07:00,LA,Lao People's Democratic Republic
+PKZ,+07:00,+07:00,LA,Lao People's Democratic Republic
+ZBY,+07:00,+07:00,LA,Lao People's Democratic Republic
+ZVK,+07:00,+07:00,LA,Lao People's Democratic Republic
+NEU,+07:00,+07:00,LA,Lao People's Democratic Republic
+VNA,+07:00,+07:00,LA,Lao People's Democratic Republic
+THK,+07:00,+07:00,LA,Lao People's Democratic Republic
+VTE,+07:00,+07:00,LA,Lao People's Democratic Republic
+XKH,+07:00,+07:00,LA,Lao People's Democratic Republic
+XIE,+07:00,+07:00,LA,Lao People's Democratic Republic
+VMI,−04:00,−03:00,PY,Paraguay
+MFM,+08:00,+08:00,MO,Macao
+VDH,+07:00,+07:00,VN,Viet Nam
+KON,+07:00,+07:00,VN,Viet Nam
+BJH,+05:45,+05:45,NP,Nepal
+BHP,+05:45,+05:45,NP,Nepal
+BGL,+05:45,+05:45,NP,Nepal
+BHR,+05:45,+05:45,NP,Nepal
+BJU,+05:45,+05:45,NP,Nepal
+BIT,+05:45,+05:45,NP,Nepal
+BWA,+05:45,+05:45,NP,Nepal
+BDP,+05:45,+05:45,NP,Nepal
+DNP,+05:45,+05:45,NP,Nepal
+DHI,+05:45,+05:45,NP,Nepal
+DAP,+05:45,+05:45,NP,Nepal
+DOP,+05:45,+05:45,NP,Nepal
+SIH,+05:45,+05:45,NP,Nepal
+GKH,+05:45,+05:45,NP,Nepal
+JIR,+05:45,+05:45,NP,Nepal
+JUM,+05:45,+05:45,NP,Nepal
+JKR,+05:45,+05:45,NP,Nepal
+JMO,+05:45,+05:45,NP,Nepal
+KTM,+05:45,+05:45,NP,Nepal
+LDN,+05:45,+05:45,NP,Nepal
+LUA,+05:45,+05:45,NP,Nepal
+LTG,+05:45,+05:45,NP,Nepal
+NGX,+05:45,+05:45,NP,Nepal
+MEY,+05:45,+05:45,NP,Nepal
+XMG,+05:45,+05:45,NP,Nepal
+KEP,+05:45,+05:45,NP,Nepal
+PKR,+05:45,+05:45,NP,Nepal
+PPL,+05:45,+05:45,NP,Nepal
+RJB,+05:45,+05:45,NP,Nepal
+RHP,+05:45,+05:45,NP,Nepal
+RUK,+05:45,+05:45,NP,Nepal
+RPA,+05:45,+05:45,NP,Nepal
+RUM,+05:45,+05:45,NP,Nepal
+SYH,+05:45,+05:45,NP,Nepal
+SIF,+05:45,+05:45,NP,Nepal
+SKH,+05:45,+05:45,NP,Nepal
+FEB,+05:45,+05:45,NP,Nepal
+IMK,+05:45,+05:45,NP,Nepal
+TPJ,+05:45,+05:45,NP,Nepal
+TPU,+05:45,+05:45,NP,Nepal
+TMI,+05:45,+05:45,NP,Nepal
+BIR,+05:45,+05:45,NP,Nepal
+LTU,+05:30,+05:30,IN,India
+TCR,+05:30,+05:30,IN,India
+AGX,+05:30,+05:30,IN,India
+BEP,+05:30,+05:30,IN,India
+BLR,+05:30,+05:30,IN,India
+IXX,+05:30,+05:30,IN,India
+VGA,+05:30,+05:30,IN,India
+CJB,+05:30,+05:30,IN,India
+COK,+05:30,+05:30,IN,India
+CCJ,+05:30,+05:30,IN,India
+CDP,+05:30,+05:30,IN,India
+CBD,+05:30,+05:30,IN,India
+HYD,+05:30,+05:30,IN,India
+BPM,+05:30,+05:30,IN,India
+CNN,+05:30,+05:30,IN,India
+KJB,+05:30,+05:30,IN,India
+IXM,+05:30,+05:30,IN,India
+IXE,+05:30,+05:30,IN,India
+MAA,+05:30,+05:30,IN,India
+MYQ,+05:30,+05:30,IN,India
+IXZ,+05:30,+05:30,IN,India
+PNY,+05:30,+05:30,IN,India
+PUT,+05:30,+05:30,IN,India
+RMD,+05:30,+05:30,IN,India
+RJA,+05:30,+05:30,IN,India
+SXV,+05:30,+05:30,IN,India
+TJV,+05:30,+05:30,IN,India
+TIR,+05:30,+05:30,IN,India
+TRZ,+05:30,+05:30,IN,India
+TRV,+05:30,+05:30,IN,India
+WGC,+05:30,+05:30,IN,India
+YON,+06:00,+06:00,BT,Bhutan
+BUT,+06:00,+06:00,BT,Bhutan
+GLU,+06:00,+06:00,BT,Bhutan
+PBH,+06:00,+06:00,BT,Bhutan
+HDK,+05:00,+05:00,MV,Maldives
+NMF,+05:00,+05:00,MV,Maldives
+IFU,+05:00,+05:00,MV,Maldives
+DRV,+05:00,+05:00,MV,Maldives
+FVM,+05:00,+05:00,MV,Maldives
+GAN,+05:00,+05:00,MV,Maldives
+HAQ,+05:00,+05:00,MV,Maldives
+KDO,+05:00,+05:00,MV,Maldives
+MLE,+05:00,+05:00,MV,Maldives
+GKK,+05:00,+05:00,MV,Maldives
+KDM,+05:00,+05:00,MV,Maldives
+DDD,+05:00,+05:00,MV,Maldives
+VAM,+05:00,+05:00,MV,Maldives
+TMF,+05:00,+05:00,MV,Maldives
+RUL,+05:00,+05:00,MV,Maldives
+DMK,+07:00,+07:00,TH,Thailand
+KKM,+07:00,+07:00,TH,Thailand
+KDT,+07:00,+07:00,TH,Thailand
+TDX,+07:00,+07:00,TH,Thailand
+BKK,+07:00,+07:00,TH,Thailand
+UTP,+07:00,+07:00,TH,Thailand
+CNX,+07:00,+07:00,TH,Thailand
+HGN,+07:00,+07:00,TH,Thailand
+PYY,+07:00,+07:00,TH,Thailand
+LPT,+07:00,+07:00,TH,Thailand
+NNT,+07:00,+07:00,TH,Thailand
+PRH,+07:00,+07:00,TH,Thailand
+CEI,+07:00,+07:00,TH,Thailand
+BAO,+07:00,+07:00,TH,Thailand
+PHY,+07:00,+07:00,TH,Thailand
+HHQ,+07:00,+07:00,TH,Thailand
+TKH,+07:00,+07:00,TH,Thailand
+MAQ,+07:00,+07:00,TH,Thailand
+THS,+07:00,+07:00,TH,Thailand
+PHS,+07:00,+07:00,TH,Thailand
+TKT,+07:00,+07:00,TH,Thailand
+UTR,+07:00,+07:00,TH,Thailand
+URT,+07:00,+07:00,TH,Thailand
+NAW,+07:00,+07:00,TH,Thailand
+CJM,+07:00,+07:00,TH,Thailand
+NST,+07:00,+07:00,TH,Thailand
+KBV,+07:00,+07:00,TH,Thailand
+SGZ,+07:00,+07:00,TH,Thailand
+PAN,+07:00,+07:00,TH,Thailand
+USM,+07:00,+07:00,TH,Thailand
+HKT,+07:00,+07:00,TH,Thailand
+UNN,+07:00,+07:00,TH,Thailand
+HDY,+07:00,+07:00,TH,Thailand
+TST,+07:00,+07:00,TH,Thailand
+UTH,+07:00,+07:00,TH,Thailand
+SNO,+07:00,+07:00,TH,Thailand
+PXR,+07:00,+07:00,TH,Thailand
+KKC,+07:00,+07:00,TH,Thailand
+LOE,+07:00,+07:00,TH,Thailand
+BFV,+07:00,+07:00,TH,Thailand
+NAK,+07:00,+07:00,TH,Thailand
+UBP,+07:00,+07:00,TH,Thailand
+ROI,+07:00,+07:00,TH,Thailand
+KOP,+07:00,+07:00,TH,Thailand
+VUU,+02:00,+02:00,MW,Malawi
+BMV,+07:00,+07:00,VN,Viet Nam
+VCL,+07:00,+07:00,VN,Viet Nam
+HPH,+07:00,+07:00,VN,Viet Nam
+CAH,+07:00,+07:00,VN,Viet Nam
+CXR,+07:00,+07:00,VN,Viet Nam
+VCS,+07:00,+07:00,VN,Viet Nam
+VCA,+07:00,+07:00,VN,Viet Nam
+DIN,+07:00,+07:00,VN,Viet Nam
+DLI,+07:00,+07:00,VN,Viet Nam
+DAD,+07:00,+07:00,VN,Viet Nam
+VVN,−05:00,−05:00,PE,Peru
+HAN,+07:00,+07:00,VN,Viet Nam
+SQH,+07:00,+07:00,VN,Viet Nam
+NHA,+07:00,+07:00,VN,Viet Nam
+HUI,+07:00,+07:00,VN,Viet Nam
+UIH,+07:00,+07:00,VN,Viet Nam
+PXU,+07:00,+07:00,VN,Viet Nam
+PQC,+07:00,+07:00,VN,Viet Nam
+PHA,+07:00,+07:00,VN,Viet Nam
+PHH,+07:00,+07:00,VN,Viet Nam
+VKG,+07:00,+07:00,VN,Viet Nam
+TBB,+07:00,+07:00,VN,Viet Nam
+SGN,+07:00,+07:00,VN,Viet Nam
+THD,+07:00,+07:00,VN,Viet Nam
+VDO,+07:00,+07:00,VN,Viet Nam
+VII,+07:00,+07:00,VN,Viet Nam
+VTG,+07:00,+07:00,VN,Viet Nam
+VBA,+06:30,+06:30,MM,Myanmar
+NYU,+06:30,+06:30,MM,Myanmar
+BMO,+06:30,+06:30,MM,Myanmar
+VBP,+06:30,+06:30,MM,Myanmar
+TVY,+06:30,+06:30,MM,Myanmar
+NYT,+06:30,+06:30,MM,Myanmar
+GAW,+06:30,+06:30,MM,Myanmar
+GWA,+06:30,+06:30,MM,Myanmar
+HEH,+06:30,+06:30,MM,Myanmar
+HOX,+06:30,+06:30,MM,Myanmar
+TIO,+06:30,+06:30,MM,Myanmar
+KET,+06:30,+06:30,MM,Myanmar
+KHM,+06:30,+06:30,MM,Myanmar
+KMV,+06:30,+06:30,MM,Myanmar
+KYP,+06:30,+06:30,MM,Myanmar
+KAW,+06:30,+06:30,MM,Myanmar
+KYT,+06:30,+06:30,MM,Myanmar
+LIW,+06:30,+06:30,MM,Myanmar
+LSH,+06:30,+06:30,MM,Myanmar
+MDL,+06:30,+06:30,MM,Myanmar
+MGZ,+06:30,+06:30,MM,Myanmar
+MYT,+06:30,+06:30,MM,Myanmar
+MNU,+06:30,+06:30,MM,Myanmar
+MGU,+06:30,+06:30,MM,Myanmar
+MOE,+06:30,+06:30,MM,Myanmar
+MOG,+06:30,+06:30,MM,Myanmar
+MGK,+06:30,+06:30,MM,Myanmar
+MWQ,+06:30,+06:30,MM,Myanmar
+NYW,+06:30,+06:30,MM,Myanmar
+NMS,+06:30,+06:30,MM,Myanmar
+NMT,+06:30,+06:30,MM,Myanmar
+PAA,+06:30,+06:30,MM,Myanmar
+PAU,+06:30,+06:30,MM,Myanmar
+BSX,+06:30,+06:30,MM,Myanmar
+PPU,+06:30,+06:30,MM,Myanmar
+PBU,+06:30,+06:30,MM,Myanmar
+PKK,+06:30,+06:30,MM,Myanmar
+PRU,+06:30,+06:30,MM,Myanmar
+AKY,+06:30,+06:30,MM,Myanmar
+SNW,+06:30,+06:30,MM,Myanmar
+THL,+06:30,+06:30,MM,Myanmar
+XYE,+06:30,+06:30,MM,Myanmar
+RGN,+06:30,+06:30,MM,Myanmar
+WAD,+03:00,+03:00,MG,Madagascar
+BTU,+08:00,+08:00,MY,Malaysia
+BLG,+08:00,+08:00,MY,Malaysia
+LSM,+08:00,+08:00,MY,Malaysia
+LGL,+08:00,+08:00,MY,Malaysia
+KCH,+08:00,+08:00,MY,Malaysia
+ODN,+08:00,+08:00,MY,Malaysia
+LMN,+08:00,+08:00,MY,Malaysia
+MKM,+08:00,+08:00,MY,Malaysia
+LKH,+08:00,+08:00,MY,Malaysia
+BSE,+08:00,+08:00,MY,Malaysia
+KPI,+08:00,+08:00,MY,Malaysia
+BKM,+08:00,+08:00,MY,Malaysia
+MYY,+08:00,+08:00,MY,Malaysia
+SBW,+08:00,+08:00,MY,Malaysia
+TGC,+08:00,+08:00,MY,Malaysia
+LSU,+08:00,+08:00,MY,Malaysia
+LWY,+08:00,+08:00,MY,Malaysia
+SGG,+08:00,+08:00,MY,Malaysia
+BBN,+08:00,+08:00,MY,Malaysia
+SMM,+08:00,+08:00,MY,Malaysia
+LDU,+08:00,+08:00,MY,Malaysia
+TEL,+08:00,+08:00,MY,Malaysia
+KGU,+08:00,+08:00,MY,Malaysia
+SXS,+08:00,+08:00,MY,Malaysia
+BKI,+08:00,+08:00,MY,Malaysia
+LBU,+08:00,+08:00,MY,Malaysia
+TMG,+08:00,+08:00,MY,Malaysia
+GSA,+08:00,+08:00,MY,Malaysia
+SPE,+08:00,+08:00,MY,Malaysia
+PAY,+08:00,+08:00,MY,Malaysia
+RNU,+08:00,+08:00,MY,Malaysia
+SDK,+08:00,+08:00,MY,Malaysia
+KUD,+08:00,+08:00,MY,Malaysia
+TWU,+08:00,+08:00,MY,Malaysia
+MZV,+08:00,+08:00,MY,Malaysia
+BWN,+08:00,+08:00,BN,Brunei Darussalam
+WDA,+03:00,+03:00,YE,Yemen
+WGY,+01:00,+01:00,GA,Gabon
+WID,+01:00,+02:00,DE,Germany
+SXT,+08:00,+08:00,MY,Malaysia
+MEP,+08:00,+08:00,MY,Malaysia
+SWY,+08:00,+08:00,MY,Malaysia
+TPG,+08:00,+08:00,MY,Malaysia
+TOD,+08:00,+08:00,MY,Malaysia
+AOR,+08:00,+08:00,MY,Malaysia
+BWH,+08:00,+08:00,MY,Malaysia
+KBR,+08:00,+08:00,MY,Malaysia
+KUA,+08:00,+08:00,MY,Malaysia
+KTE,+08:00,+08:00,MY,Malaysia
+IPH,+08:00,+08:00,MY,Malaysia
+JHB,+08:00,+08:00,MY,Malaysia
+KUL,+08:00,+08:00,MY,Malaysia
+LGK,+08:00,+08:00,MY,Malaysia
+MKZ,+08:00,+08:00,MY,Malaysia
+TGG,+08:00,+08:00,MY,Malaysia
+PEN,+08:00,+08:00,MY,Malaysia
+PKG,+08:00,+08:00,MY,Malaysia
+RDN,+08:00,+08:00,MY,Malaysia
+SZB,+08:00,+08:00,MY,Malaysia
+AUT,+09:00,+09:00,TL,Timor-Leste
+UAI,+09:00,+09:00,TL,Timor-Leste
+DIL,+09:00,+09:00,TL,Timor-Leste
+BCH,+09:00,+09:00,TL,Timor-Leste
+OEC,+09:00,+09:00,TL,Timor-Leste
+VIQ,+09:00,+09:00,TL,Timor-Leste
+QPG,+08:00,+08:00,SG,Singapore
+TGA,+08:00,+08:00,SG,Singapore
+XSP,+08:00,+08:00,SG,Singapore
+SIN,+08:00,+08:00,SG,Singapore
+WZQ,+08:00,+08:00,CN,China
+XLO,+07:00,+07:00,VN,Viet Nam
+XMA,+08:00,+08:00,PH,Philippines
+XNG,+07:00,+07:00,VN,Viet Nam
+XRQ,+08:00,+08:00,CN,China
+XVL,+07:00,+07:00,VN,Viet Nam
+XZM,+08:00,+08:00,MO,Macao
+YNT,+08:00,+08:00,CN,China
+CCK,+06:30,+06:30,CC,Cocos (Keeling) Islands
+XCH,+07:00,+07:00,CX,Christmas Island
+NLK,+11:00,+12:00,NF,Norfolk Island
+PYX,+07:00,+07:00,TH,Thailand
+YYA,+08:00,+08:00,CN,China
+HPR,+02:00,+02:00,ZA,South Africa
+ULX,+02:00,+02:00,ZA,South Africa
+TDT,+02:00,+02:00,ZA,South Africa
+HZV,+02:00,+02:00,ZA,South Africa
+KHO,+02:00,+02:00,ZA,South Africa
+MBM,+02:00,+02:00,ZA,South Africa
+INY,+02:00,+02:00,ZA,South Africa
+TSD,+02:00,+02:00,ZA,South Africa
+SSX,+02:00,+02:00,ZA,South Africa
+KIG,+02:00,+02:00,ZA,South Africa
+PEK,+08:00,+08:00,CN,China
+PKX,+08:00,+08:00,CN,China
+CDE,+08:00,+08:00,CN,China
+CIF,+08:00,+08:00,CN,China
+CIH,+08:00,+08:00,CN,China
+BPE,+08:00,+08:00,CN,China
+DSN,+08:00,+08:00,CN,China
+DAT,+08:00,+08:00,CN,China
+ERL,+08:00,+08:00,CN,China
+YIE,+08:00,+08:00,CN,China
+HDG,+08:00,+08:00,CN,China
+HET,+08:00,+08:00,CN,China
+HUO,+08:00,+08:00,CN,China
+ZBK,+01:00,+02:00,ME,Montenegro
+HLD,+08:00,+08:00,CN,China
+LFQ,+08:00,+08:00,CN,China
+LLV,+08:00,+08:00,CN,China
+NZH,+08:00,+08:00,CN,China
+NAY,+08:00,+08:00,CN,China
+BAV,+08:00,+08:00,CN,China
+SJW,+08:00,+08:00,CN,China
+TSN,+08:00,+08:00,CN,China
+TGO,+08:00,+08:00,CN,China
+UCB,+08:00,+08:00,CN,China
+WUA,+08:00,+08:00,CN,China
+HLH,+08:00,+08:00,CN,China
+XIL,+08:00,+08:00,CN,China
+XNT,+08:00,+08:00,CN,China
+WUT,+08:00,+08:00,CN,China
+YCU,+08:00,+08:00,CN,China
+TYN,+08:00,+08:00,CN,China
+RLK,+08:00,+08:00,CN,China
+NZL,+08:00,+08:00,CN,China
+ZDY,+04:00,+04:00,AE,United Arab Emirates
+BHY,+08:00,+08:00,CN,China
+CGD,+08:00,+08:00,CN,China
+HJJ,+08:00,+08:00,CN,China
+DYG,+08:00,+08:00,CN,China
+CAN,+08:00,+08:00,CN,China
+CSX,+08:00,+08:00,CN,China
+HCJ,+08:00,+08:00,CN,China
+SHF,+08:00,+08:00,CN,China
+HNY,+08:00,+08:00,CN,China
+KWL,+08:00,+08:00,CN,China
+LLF,+08:00,+08:00,CN,China
+MXZ,+08:00,+08:00,CN,China
+NNG,+08:00,+08:00,CN,China
+SWA,+08:00,+08:00,CN,China
+ZUH,+08:00,+08:00,CN,China
+WGN,+08:00,+08:00,CN,China
+SZX,+08:00,+08:00,CN,China
+XIN,+08:00,+08:00,CN,China
+LZH,+08:00,+08:00,CN,China
+ZHA,+08:00,+08:00,CN,China
+AYN,+08:00,+08:00,CN,China
+CGO,+08:00,+08:00,CN,China
+ENH,+08:00,+08:00,CN,China
+LHK,+08:00,+08:00,CN,China
+WUH,+08:00,+08:00,CN,China
+LYA,+08:00,+08:00,CN,China
+NNY,+08:00,+08:00,CN,China
+HPG,+08:00,+08:00,CN,China
+SHS,+08:00,+08:00,CN,China
+WDS,+08:00,+08:00,CN,China
+XFN,+08:00,+08:00,CN,China
+YIH,+08:00,+08:00,CN,China
+ZIZ,+05:00,+05:00,PK,Pakistan
+HAK,+08:00,+08:00,CN,China
+BAR,+08:00,+08:00,CN,China
+SYX,+08:00,+08:00,CN,China
+FNJ,+09:00,+09:00,KP,"Korea, Democratic People's Republic of"
+DSO,+09:00,+09:00,KP,"Korea, Democratic People's Republic of"
+WOS,+09:00,+09:00,KP,"Korea, Democratic People's Republic of"
+AKA,+08:00,+08:00,CN,China
+DNH,+08:00,+08:00,CN,China
+HXD,+08:00,+08:00,CN,China
+ZLG,+01:00,+00:00,EH,Western Sahara
+GOQ,+08:00,+08:00,CN,China
+GYU,+08:00,+08:00,CN,China
+HTT,+08:00,+08:00,CN,China
+HZG,+08:00,+08:00,CN,China
+INC,+08:00,+08:00,CN,China
+JNG,+08:00,+08:00,CN,China
+JGN,+08:00,+08:00,CN,China
+LHW,+08:00,+08:00,CN,China
+LNL,+08:00,+08:00,CN,China
+IQN,+08:00,+08:00,CN,China
+SIA,+08:00,+08:00,CN,China
+GXH,+08:00,+08:00,CN,China
+XNN,+08:00,+08:00,CN,China
+XIY,+08:00,+08:00,CN,China
+UYN,+08:00,+08:00,CN,China
+ZHY,+08:00,+08:00,CN,China
+CWJ,+08:00,+08:00,CN,China
+DLU,+08:00,+08:00,CN,China
+DIG,+08:00,+08:00,CN,China
+JHG,+08:00,+08:00,CN,China
+JMJ,+08:00,+08:00,CN,China
+LJG,+08:00,+08:00,CN,China
+LUM,+08:00,+08:00,CN,China
+KMG,+08:00,+08:00,CN,China
+SYM,+08:00,+08:00,CN,China
+WNH,+08:00,+08:00,CN,China
+ZAT,+08:00,+08:00,CN,China
+AQG,+08:00,+08:00,CN,China
+BFU,+08:00,+08:00,CN,China
+CZX,+08:00,+08:00,CN,China
+KHN,+08:00,+08:00,CN,China
+FUG,+08:00,+08:00,CN,China
+FOC,+08:00,+08:00,CN,China
+KOW,+08:00,+08:00,CN,China
+HGH,+08:00,+08:00,CN,China
+JDZ,+08:00,+08:00,CN,China
+JIU,+08:00,+08:00,CN,China
+TNA,+08:00,+08:00,CN,China
+JUZ,+08:00,+08:00,CN,China
+LCX,+08:00,+08:00,CN,China
+LYG,+08:00,+08:00,CN,China
+HYN,+08:00,+08:00,CN,China
+LYI,+08:00,+08:00,CN,China
+NGB,+08:00,+08:00,CN,China
+NKG,+08:00,+08:00,CN,China
+HFE,+08:00,+08:00,CN,China
+PVG,+08:00,+08:00,CN,China
+JJN,+08:00,+08:00,CN,China
+RUG,+08:00,+08:00,CN,China
+RIZ,+08:00,+08:00,CN,China
+SHA,+08:00,+08:00,CN,China
+SZV,+08:00,+08:00,CN,China
+TXN,+08:00,+08:00,CN,China
+WEF,+08:00,+08:00,CN,China
+WEH,+08:00,+08:00,CN,China
+WHU,+08:00,+08:00,CN,China
+WUX,+08:00,+08:00,CN,China
+WUS,+08:00,+08:00,CN,China
+WNZ,+08:00,+08:00,CN,China
+XUZ,+08:00,+08:00,CN,China
+YTY,+08:00,+08:00,CN,China
+YIC,+08:00,+08:00,CN,China
+YNZ,+08:00,+08:00,CN,China
+YIW,+08:00,+08:00,CN,China
+HSN,+08:00,+08:00,CN,China
+NGQ,+08:00,+08:00,CN,China
+AVA,+08:00,+08:00,CN,China
+BPX,+08:00,+08:00,CN,China
+BFJ,+08:00,+08:00,CN,China
+CKG,+08:00,+08:00,CN,China
+DCY,+08:00,+08:00,CN,China
+DAX,+08:00,+08:00,CN,China
+GHN,+08:00,+08:00,CN,China
+GYS,+08:00,+08:00,CN,China
+KWE,+08:00,+08:00,CN,China
+GZG,+08:00,+08:00,CN,China
+JZH,+08:00,+08:00,CN,China
+KGT,+08:00,+08:00,CN,China
+KJH,+08:00,+08:00,CN,China
+LLB,+08:00,+08:00,CN,China
+LIA,+08:00,+08:00,CN,China
+LXA,+08:00,+08:00,CN,China
+WMT,+08:00,+08:00,CN,China
+MIG,+08:00,+08:00,CN,China
+NAO,+08:00,+08:00,CN,China
+HZH,+08:00,+08:00,CN,China
+LZY,+08:00,+08:00,CN,China
+LPF,+08:00,+08:00,CN,China
+TCZ,+08:00,+08:00,CN,China
+TFU,+08:00,+08:00,CN,China
+TEN,+08:00,+08:00,CN,China
+CTU,+08:00,+08:00,CN,China
+WSK,+08:00,+08:00,CN,China
+WXN,+08:00,+08:00,CN,China
+XIC,+08:00,+08:00,CN,China
+ACX,+08:00,+08:00,CN,China
+ZYI,+08:00,+08:00,CN,China
+AKU,+08:00,+08:00,CN,China
+BPL,+08:00,+08:00,CN,China
+IQM,+08:00,+08:00,CN,China
+FYN,+08:00,+08:00,CN,China
+HMI,+08:00,+08:00,CN,China
+KCA,+08:00,+08:00,CN,China
+KRL,+08:00,+08:00,CN,China
+KRY,+08:00,+08:00,CN,China
+KJI,+08:00,+08:00,CN,China
+NLT,+08:00,+08:00,CN,China
+RQA,+08:00,+08:00,CN,China
+QSZ,+08:00,+08:00,CN,China
+KHG,+08:00,+08:00,CN,China
+SXJ,+08:00,+08:00,CN,China
+TCG,+08:00,+08:00,CN,China
+HTN,+08:00,+08:00,CN,China
+TLQ,+08:00,+08:00,CN,China
+URC,+08:00,+08:00,CN,China
+YIN,+08:00,+08:00,CN,China
+AOG,+08:00,+08:00,CN,China
+CGQ,+08:00,+08:00,CN,China
+CNI,+08:00,+08:00,CN,China
+CHG,+08:00,+08:00,CN,China
+DTU,+08:00,+08:00,CN,China
+FYJ,+08:00,+08:00,CN,China
+HRB,+08:00,+08:00,CN,China
+HEK,+08:00,+08:00,CN,China
+JIL,+08:00,+08:00,CN,China
+JMU,+08:00,+08:00,CN,China
+JSJ,+08:00,+08:00,CN,China
+JXA,+08:00,+08:00,CN,China
+LDS,+08:00,+08:00,CN,China
+YUS,+08:00,+08:00,CN,China
+MDG,+08:00,+08:00,CN,China
+OHE,+08:00,+08:00,CN,China
+NDG,+08:00,+08:00,CN,China
+YSQ,+08:00,+08:00,CN,China
+TNH,+08:00,+08:00,CN,China
+SHE,+08:00,+08:00,CN,China
+YNJ,+08:00,+08:00,CN,China
+YKH,+08:00,+08:00,CN,China
+AAA,+01:00,+02:00,NL,Netherlands
+ABJ,+00:00,+00:00,CI,CÃ´te d'Ivoire
+ABJ,+00:00,+00:00,CI,CÃ´te d'Ivoire
+DDU,+05:00,+05:00,PK,Pakistan
+DDU,+05:00,+05:00,PK,Pakistan
+DLC,+08:00,+08:00,CN,China
+DLC,+08:00,+08:00,CN,China
+DZI,−05:00,−05:00,CO,Colombia
+DZI,−05:00,−05:00,CO,Colombia
+ENY,+08:00,+08:00,CN,China
+ENY,+08:00,+08:00,CN,China
+ESK,+01:00,+02:00,NL,Netherlands
+ESK,+03:00,+03:00,TR,Turkey
+FUK,+09:00,+09:00,JP,Japan
+GGC,+01:00,+01:00,AO,Angola
+GGC,+01:00,+01:00,AO,Angola
+GYA,−04:00,−04:00,BO,"Bolivia, Plurinational State of"
+GYA,+01:00,+02:00,NL,Netherlands
+HKG,+08:00,+08:00,HK,Hong Kong
+HKG,+08:00,+08:00,HK,Hong Kong
+KMN,+01:00,+02:00,NL,Netherlands
+LAB,+01:00,+02:00,NL,Netherlands
+LGP,+08:00,+08:00,PH,Philippines
+LGP,+08:00,+08:00,PH,Philippines
+LLJ,+06:00,+06:00,BD,Bangladesh
+LMC,−05:00,−05:00,CO,Colombia
+LMC,−05:00,−05:00,CO,Colombia
+LPE,−05:00,−05:00,CO,Colombia
+LPE,−05:00,−05:00,CO,Colombia
+LZO,+08:00,+08:00,CN,China
+LZO,+08:00,+08:00,CN,China
+MNI,−04:00,−04:00,MS,Montserrat
+MNI,−04:00,−04:00,MS,Montserrat
+MPT,+09:00,+09:00,TL,Timor-Leste
+MRE,+03:00,+03:00,KE,Kenya
+MRE,+03:00,+03:00,KE,Kenya
+MUC,+01:00,+02:00,DE,Germany
+MUC,+01:00,+02:00,DE,Germany
+MUR,+08:00,+08:00,MY,Malaysia
+MXR,+01:00,+01:00,TD,Chad
+MXR,+02:00,+03:00,UA,Ukraine
+PHM,+01:00,+02:00,DE,Germany
+PHM,+01:00,+02:00,DE,Germany
+PRM,−05:00,−05:00,CO,Colombia
+PRM,+00:00,+01:00,PT,Portugal
+RCK,+01:00,+02:00,NL,Netherlands
+RZS,+05:00,+05:00,PK,Pakistan
+SCR,+01:00,+02:00,SE,Sweden
+SCR,+01:00,+02:00,SE,Sweden
+SEN,+01:00,+02:00,NL,Netherlands
+SEN,+00:00,+01:00,GB,United Kingdom
+SGL,+08:00,+08:00,PH,Philippines
+SGL,+08:00,+08:00,PH,Philippines
+SHO,+02:00,+02:00,SZ,Swaziland
+SHO,+09:00,+09:00,KR,"Korea, Republic of"
+SQA,+01:00,+02:00,NL,Netherlands
+SVD,−04:00,−04:00,VC,Saint Vincent and the Grenadines
+SVD,−04:00,−04:00,VC,Saint Vincent and the Grenadines
+TAG,+08:00,+08:00,PH,Philippines
+TAG,+08:00,+08:00,PH,Philippines
+TAO,+08:00,+08:00,CN,China
+TAO,+08:00,+08:00,CN,China
+VCC,+04:30,+04:30,AF,Afghanistan
+VCC,+01:00,+01:00,CM,Cameroon
+VQS,−04:00,−04:00,PR,Puerto Rico
+VQS,−04:00,−04:00,PR,Puerto Rico
+WAP,+08:00,+08:00,PH,Philippines
+WUZ,+08:00,+08:00,CN,China
+WUZ,+08:00,+08:00,CN,China
+WYA,+01:00,+02:00,NL,Netherlands
+XMN,+08:00,+08:00,CN,China
+XMN,+08:00,+08:00,CN,China
+YBP,+08:00,+08:00,CN,China
+YBP,+08:00,+08:00,CN,China
+YEH,+08:00,+08:00,CN,China
+YEH,+03:30,+04:30,IR,"Iran, Islamic Republic of"
+ADL,+09:30,+10:30,AU,Australia
+PAR,+01:00,+02:00,FR,France
+BNE,+10:00,+10:00,AU,Australia
+MEL,+10:00,+11:00,AU,Australia
+PER,+08:00,+08:00,AU,Australia
+SYD,+10:00,+11:00,AU,Australia
+ATL,−05:00,−04:00,US,United States
+BOS,−05:00,−04:00,US,United States
+DFW,−06:00,−05:00,US,United States
+LED,+03:00,+03:00,RU,Russia
+DME,+03:00,+03:00,RU,Russia
+GRU,−03:00,−03:00,BR,Brazil
+DPS,+08:00,+08:00,ID,Indonesia
+JKT,+07:00,+07:00,ID,Indonesia
+IAD,−05:00,−04:00,US,United States
+IAH,−06:00,−05:00,US,United States
+JFK,−05:00,−04:00,US,United States
+LAX,−08:00,−07:00,US,United States
+MIA,−05:00,−04:00,US,United States
+ORD,−06:00,−05:00,US,United States
+PHL,−05:00,−04:00,US,United States
+SEA,−08:00,−07:00,US,United States
+SFO,−08:00,−07:00,US,United States
+YUL,−05:00,−04:00,CA,Canada
+YZZ,−08:00,−07:00,CA,Canada
+CGK,+07:00,+07:00,ID,Indonesia
